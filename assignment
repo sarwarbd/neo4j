@@ -1,0 +1,4 @@
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/sarwarbd/neo4j/main/gene_gene_associations_50k.csv' AS line
+MERGE (n:TrialGene {Name:line.OFFICIAL_SYMBOL_A})
+MERGE (m:TrialGene {Name:line.OFFICIAL_SYMBOL_B})
+MERGE (n) -[:AssociationType {AssociatedWith:line.EXPERIMENTAL_SYSTEM}]-> (m)
