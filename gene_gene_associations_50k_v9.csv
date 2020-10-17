@@ -1,0 +1,5001 @@
+OFFICIAL_SYMBOL_A,OFFICIAL_SYMBOL_B,EXPERIMENTAL_SYSTEM
+JADE1,ING5,Affinity Capture-MS
+JADE1,MEAF6,Affinity Capture-MS
+JADE1,HIST2H3C,Reconstituted Complex
+MAPRE1,COPS5,Reconstituted Complex
+MAPRE1,COPS8,Reconstituted Complex
+MAPRE1,CSN3,Reconstituted Complex
+CSN3,MAPRE1,Co-localization
+CSN3,TUBG1,Co-localization
+COPS7A,MAPRE1,Affinity Capture-Western
+COPS7A,CSN3,Affinity Capture-Western
+PGR,CUEDC2,Two-hybrid
+PGR,CUEDC2,Affinity Capture-Western
+CUEDC2,PGR,Affinity Capture-Western
+CUEDC2,PGR,Co-localization
+CUEDC2,PGR,Reconstituted Complex
+IL17RA,TRAF6,Affinity Capture-Western
+TRAF6,IL17RA,Affinity Capture-Western
+DAPK1,TP53,Affinity Capture-Western
+TP53,DAPK1,Affinity Capture-Western
+PSMC3,CDKN2A,Affinity Capture-Western
+CDKN2A,PSMC3,Affinity Capture-Western
+EEF1A1,RAF1,Affinity Capture-Western
+RAF1,EEF1A1,Affinity Capture-Western
+RAF1,EEF1A1,Co-localization
+BTRC,EPOR,Affinity Capture-Western
+EPO,EPOR,Affinity Capture-Western
+PSMD5,RPT1,Affinity Capture-Western
+PSMD5,RPT2,Affinity Capture-Western
+PSMD5,RPN2,Affinity Capture-Western
+PSMD5,RPN7,Affinity Capture-Western
+PSMD5,RPT1,Two-hybrid
+PARK2,CDK5,Affinity Capture-Western
+CDK5,PARK2,Biochemical Activity
+DAPK1,HSP90AA1,Affinity Capture-Western
+DAPK1,ST13,Affinity Capture-Western
+DAPK1,CCNDBP1,Affinity Capture-Western
+ST13,DAPK1,Affinity Capture-Western
+STUB1,HSP90AA1,Affinity Capture-Western
+CCNDBP1,DAPK1,Affinity Capture-Western
+BCL2,BCL2L11,Affinity Capture-Western
+BCL2L11,BCL2,Affinity Capture-Western
+PCF11,ALYREF,Affinity Capture-Western
+CSNK1A1,SHQ1,Biochemical Activity
+CSNK1A1,APC,Biochemical Activity
+BTRC,PHLPP1,Affinity Capture-Western
+PHLPP1,BTRC,Affinity Capture-Western
+CSNK1A1,PHLPP1,Biochemical Activity
+GSK3B,PHLPP1,Biochemical Activity
+SMARCB1,XPC,Co-localization
+ATR,H2AFX,Co-localization
+ATR,XPC,Co-localization
+ATM,XPC,Co-localization
+SMARCB1,ATM,Affinity Capture-Western
+ATM,SMARCB1,Affinity Capture-Western
+XPC,SMARCB1,Affinity Capture-Western
+XPC,H2AFX,Affinity Capture-Western
+H2AFX,BRCA1,Affinity Capture-Western
+SUB1,SUB1,Far Western
+PLXNB1,RHOA,Affinity Capture-Western
+RAF1,RRAS,Affinity Capture-Western
+PLXNB1,AKT1,Affinity Capture-Western
+PLXNB1,GRB2,Affinity Capture-Western
+PLXNB1,PLCG1,Affinity Capture-Western
+PLXNB1,PLCG2,Affinity Capture-Western
+PLCG1,PLXNB1,Affinity Capture-Western
+PLCG1,PLXNB2,Affinity Capture-Western
+RTKN,RHOA,Affinity Capture-Western
+ZHX2,RRAS,Affinity Capture-Western
+ARHGEF2,PLCG1,Affinity Capture-Western
+RTN1,SEY1,Affinity Capture-Western
+ING2,HHT1,Affinity Capture-Western
+ING2,HHT2,Affinity Capture-Western
+ING2,SAP30,Affinity Capture-Western
+ING2,HDAC1,Affinity Capture-Western
+ING2,SIN3A,Affinity Capture-Western
+ATRX,MUS81,Reconstituted Complex
+ATRX,MMS4,Reconstituted Complex
+PDZRN3,MUSK,Affinity Capture-Western
+MUSK,PDZRN3,Affinity Capture-Western
+PDZRN3,UBE2D2,Reconstituted Complex
+HIF1A,SAT2,Reconstituted Complex
+SAT2,HIF1A,Affinity Capture-Western
+VHL,HIF1A,Reconstituted Complex
+HIF1A,VHL,Reconstituted Complex
+VHL,TCEB1,Reconstituted Complex
+VHL,HIF1A,Affinity Capture-Western
+VHL,TCEB1,Affinity Capture-Western
+HIF1A,TCEB1,Affinity Capture-Western
+TCEB1,SAT2,Reconstituted Complex
+VHL,SAT2,Reconstituted Complex
+GBF1,COPG1,Affinity Capture-Western
+GBF1,COPG1,Affinity Capture-Western
+FIG4,VAC14,Two-hybrid
+PIKFYVE,VAC14,Two-hybrid
+VAC14,VAC14,Two-hybrid
+SFN,MDM2,Affinity Capture-Western
+MDM2,SFN,Affinity Capture-Western
+MDM2,SFN,Reconstituted Complex
+SFN,TP53,Affinity Capture-Western
+FCHO1,Eps15,Reconstituted Complex
+SGIP1,Eps15,Reconstituted Complex
+MLH1,EXO1,Reconstituted Complex
+MSH2,EXO1,Reconstituted Complex
+MLH1,NTG2,Two-hybrid
+MLH1,EXO1,Two-hybrid
+MLH1,SGS1,Two-hybrid
+MLH1,BLM,Two-hybrid
+MLH1,PMS2,Two-hybrid
+MLH1,BLM,Protein-peptide
+MLH1,EXO1,Protein-peptide
+TXN,TP53,Reconstituted Complex
+NQO2,TP53,Affinity Capture-Western
+GAPVD1,CBL,Affinity Capture-Western
+EGFR,CBL,Affinity Capture-Western
+SIAH1,PIAS1,Two-hybrid
+SIAH2,PIAS1,Two-hybrid
+SIAH1,PIAS2,Two-hybrid
+SIAH2,PIAS2,Two-hybrid
+SIAH2,UBE2I,Two-hybrid
+AKT1,PIAS1,Two-hybrid
+AKT1,PIAS2,Two-hybrid
+SIAH1,UBE2I,Two-hybrid
+HRAS,ZHX2,Two-hybrid
+SIAH2,PIAS1,Reconstituted Complex
+SIAH2,PIAS3,Reconstituted Complex
+SIAH1,PIAS1,Reconstituted Complex
+SIAH1,PIAS3,Reconstituted Complex
+PIAS1,SIAH2,Affinity Capture-Western
+SIAH2,PIAS1,Biochemical Activity
+MDM2,TP53,Reconstituted Complex
+USP7,TP53,Reconstituted Complex
+USP7,TP53,Affinity Capture-Western
+BRCA1,UIMC1,Affinity Capture-MS
+BRCA1,RBBP8,Affinity Capture-MS
+BRCA1,BRIP1,Affinity Capture-MS
+BRCA1,UIMC1,Affinity Capture-Western
+BRCA1,UIMC1,Affinity Capture-Western
+BRCA1,BRIP1,Affinity Capture-Western
+UIMC1,UBC,Reconstituted Complex
+UBC,UIMC1,Reconstituted Complex
+UBC,BRCA1,Reconstituted Complex
+BARD1,BRCA1,Affinity Capture-Western
+BARD1,UIMC1,Affinity Capture-Western
+BARD1,BRCC3,Affinity Capture-Western
+UIMC1,BRCA1,Affinity Capture-MS
+UIMC1,BRE,Affinity Capture-MS
+UIMC1,BRCC3,Affinity Capture-MS
+SRRM2,PRP8,Affinity Capture-Western
+SRRM2,SNU114,Affinity Capture-Western
+DNAJC19,PAM16,Reconstituted Complex
+BLM,EXO1,Affinity Capture-Western
+CLN3,SBDS,Two-hybrid
+PAM16,DNAJC19,Affinity Capture-Western
+DNAJC19,PAM16,Affinity Capture-Western
+PAM16,PAM18,Reconstituted Complex
+PAM16,DNAJC19,Reconstituted Complex
+TIMM17A,TIMM44,Affinity Capture-Western
+TIMM17A,PAM16,Affinity Capture-Western
+TIMM17A,DNAJC19,Affinity Capture-Western
+PAM16,PAM18,Biochemical Activity
+PAM16,DNAJC19,Biochemical Activity
+DNAJC19,HSPA9,Biochemical Activity
+CBS,HSP26,Synthetic Rescue
+ZFPM1,GATA1,Affinity Capture-Western
+GATA1,ZFPM1,Affinity Capture-Western
+ZFPM1,Rb1,Affinity Capture-Western
+USP16,UBC,Protein-peptide
+HDAC6,UBC,Affinity Capture-Western
+LIMK1,PARK2,Affinity Capture-Western
+PARK2,LIMK1,Affinity Capture-Western
+HSPA4,LIMK1,Affinity Capture-Western
+PPP1CA,BRCA1,Affinity Capture-Western
+PPP1CB,BRCA1,Affinity Capture-Western
+PPP1R3A,BRCA1,Affinity Capture-Western
+BRCA1,PPP1CB,Reconstituted Complex
+AMER1,CTNNB1,Reconstituted Complex
+AMER1,AXIN1,Reconstituted Complex
+AMER1,BTRC,Reconstituted Complex
+AMER1,FBXW11,Reconstituted Complex
+AMER1,KEAP1,Reconstituted Complex
+SCNN1A,NEDD4L,Affinity Capture-Western
+GH1,GHR,Reconstituted Complex
+BTRC,GHR,Reconstituted Complex
+CYLD,PLK1,Affinity Capture-MS
+PLK1,CYLD,Affinity Capture-Western
+EGFR,CBL,Affinity Capture-Western
+ERBB2,EGFR,Affinity Capture-Western
+MEPCE,RN7SK,Biochemical Activity
+USP20,ACADM,Affinity Capture-MS
+USP50,ACADM,Affinity Capture-MS
+USP19,ACADSB,Affinity Capture-MS
+USP36,PARP1,Affinity Capture-MS
+USP15,ADSL,Affinity Capture-MS
+USP4,ADSL,Affinity Capture-MS
+OSBPL10,AP2B1,Affinity Capture-MS
+STAMBP,AFP,Affinity Capture-MS
+USP37,ALB,Affinity Capture-MS
+UIMC1,ALB,Affinity Capture-MS
+DMWD,ALB,Affinity Capture-MS
+TNFAIP3,ALDH9A1,Affinity Capture-MS
+USP46,ALDH9A1,Affinity Capture-MS
+USP50,ALDH3A2,Affinity Capture-MS
+USP15,ALDOA,Affinity Capture-MS
+OSBPL10,ALDOA,Affinity Capture-MS
+USP25,ANXA1,Affinity Capture-MS
+USPL1,ANXA1,Affinity Capture-MS
+USP1,ANXA2P2,Affinity Capture-MS
+USP53,ANXA2P2,Affinity Capture-MS
+USP20,APBA2,Affinity Capture-MS
+BTRC,APC,Affinity Capture-MS
+USP11,XIAP,Affinity Capture-MS
+PAN2,ARCN1,Affinity Capture-MS
+KEAP1,ARCN1,Affinity Capture-MS
+BABAM1,ARF4,Affinity Capture-MS
+USP53,ARG1,Affinity Capture-MS
+UBL4A,ASNA1,Affinity Capture-MS
+BRCC3,ATP5O,Affinity Capture-MS
+USP53,AZGP1,Affinity Capture-MS
+EIF3H,BAI1,Affinity Capture-MS
+UIMC1,BARD1,Affinity Capture-MS
+KEAP1,BBS1,Affinity Capture-MS
+OSBPL10,BBS1,Affinity Capture-MS
+WDR48,BCR,Affinity Capture-MS
+USP53,BLMH,Affinity Capture-MS
+UIMC1,BRCA1,Affinity Capture-MS
+WDR48,BRCA1,Affinity Capture-MS
+USP50,BSG,Affinity Capture-MS
+USP17L9P,BTF3,Affinity Capture-MS
+USP42,CA2,Affinity Capture-MS
+JOSD1,CALM1,Affinity Capture-MS
+USP20,CALM1,Affinity Capture-MS
+USP15,CALML3,Affinity Capture-MS
+USP1,CALML3,Affinity Capture-MS
+CYLD,CAMK2D,Affinity Capture-MS
+USP19,CAMK2G,Affinity Capture-MS
+UIMC1,CAPZA1,Affinity Capture-MS
+UIMC1,CAPZB,Affinity Capture-MS
+DMWD,CAPZB,Affinity Capture-MS
+USP53,CAT,Affinity Capture-MS
+USP3,CBR3,Affinity Capture-MS
+UIMC1,CCNA2,Affinity Capture-MS
+USP19,CDK1,Affinity Capture-MS
+USP32,CDK1,Affinity Capture-MS
+USP45,CDK1,Affinity Capture-MS
+UIMC1,CDK1,Affinity Capture-MS
+BTRC,CDC25A,Affinity Capture-MS
+FBXW11,CDC25B,Affinity Capture-MS
+USP11,CDC27,Affinity Capture-MS
+BTRC,CDC34,Affinity Capture-MS
+TAF1D,CENPB,Affinity Capture-MS
+USP49,CETN1,Affinity Capture-MS
+USP49,CETN2,Affinity Capture-MS
+USP44,CETN2,Affinity Capture-MS
+USP49,CETN3,Affinity Capture-MS
+USP36,CHD4,Affinity Capture-MS
+USP15,CKB,Affinity Capture-MS
+USPL1,CKB,Affinity Capture-MS
+COPS5,ERCC8,Affinity Capture-MS
+COPS6,ERCC8,Affinity Capture-MS
+COPS6,CKS1B,Affinity Capture-MS
+G3BP1,CLNS1A,Affinity Capture-MS
+STAMBP,CLTA,Affinity Capture-MS
+WDR20,COL11A2,Affinity Capture-MS
+USP49,COPA,Affinity Capture-MS
+USP7,CRKL,Affinity Capture-MS
+USP11,CS,Affinity Capture-MS
+RAE1,CS,Affinity Capture-MS
+USP19,CSE1L,Affinity Capture-MS
+EIF3H,CSNK2A1,Affinity Capture-MS
+EIF3F,CSNK2A1,Affinity Capture-MS
+TAF1D,CSNK2A1,Affinity Capture-MS
+WDR48,CSNK2A1,Affinity Capture-MS
+EIF3H,CSNK2A2,Affinity Capture-MS
+EIF3F,CSNK2A2,Affinity Capture-MS
+TAF1D,CSNK2A2,Affinity Capture-MS
+WDR48,CSNK2A2,Affinity Capture-MS
+EIF3H,CSNK2B,Affinity Capture-MS
+EIF3F,CSNK2B,Affinity Capture-MS
+TAF1D,CSNK2B,Affinity Capture-MS
+WDR48,CSNK2B,Affinity Capture-MS
+USP53,CSTA,Affinity Capture-MS
+USP15,CSTF1,Affinity Capture-MS
+WDR48,CTNND1,Affinity Capture-MS
+USP29,CTSB,Affinity Capture-MS
+DMWD,CTSB,Affinity Capture-MS
+USP32P2,CYLD,Affinity Capture-MS
+USP13,CYLD,Affinity Capture-MS
+SPATA2,CYLD,Affinity Capture-MS
+USP16,DBT,Affinity Capture-MS
+COPS5,DDB2,Affinity Capture-MS
+COPS6,DDB2,Affinity Capture-MS
+BRCC3,DDOST,Affinity Capture-MS
+USP12,DHX8,Affinity Capture-MS
+G3BP2,DDX10,Affinity Capture-MS
+JOSD1,TIMM8A,Affinity Capture-MS
+USP30,TIMM8A,Affinity Capture-MS
+WDR48,DKC1,Affinity Capture-MS
+AMOT,DLG1,Affinity Capture-MS
+USP13,DLST,Affinity Capture-MS
+UIMC1,DLST,Affinity Capture-MS
+USP12,DMWD,Affinity Capture-MS
+USP19,DMWD,Affinity Capture-MS
+USP46,DMWD,Affinity Capture-MS
+WDR48,DMWD,Affinity Capture-MS
+USP7,DNMT1,Affinity Capture-MS
+USP1,DSC1,Affinity Capture-MS
+OTUD4,DSG1,Affinity Capture-MS
+USP1,DSG1,Affinity Capture-MS
+USP53,DSG1,Affinity Capture-MS
+MARK2,DTNA,Affinity Capture-MS
+BRCC3,E2F5,Affinity Capture-MS
+EIF3F,EIF4A2,Affinity Capture-MS
+EIF3F,EIF4B,Affinity Capture-MS
+USP11,EIF4B,Affinity Capture-MS
+USP7,EIF4B,Affinity Capture-MS
+EIF3F,EIF4E,Affinity Capture-MS
+USP10,EIF4G1,Affinity Capture-MS
+EIF3H,EIF4G1,Affinity Capture-MS
+EIF3F,EIF4G1,Affinity Capture-MS
+USP3,EIF4G1,Affinity Capture-MS
+G3BP1,EIF4G1,Affinity Capture-MS
+EIF3F,EIF4G2,Affinity Capture-MS
+USP21,MARK2,Affinity Capture-MS
+KEAP1,ETF1,Affinity Capture-MS
+USP49,F7,Affinity Capture-MS
+UIMC1,F7,Affinity Capture-MS
+DMWD,F7,Affinity Capture-MS
+USP15,FABP4,Affinity Capture-MS
+USP11,FARSA,Affinity Capture-MS
+USP32,FARSA,Affinity Capture-MS
+USP20,FECH,Affinity Capture-MS
+USP42,FECH,Affinity Capture-MS
+USP49,FKBP5,Affinity Capture-MS
+PHLPP1,FKBP5,Affinity Capture-MS
+USP1,FLG,Affinity Capture-MS
+OTUD1,FLNA,Affinity Capture-MS
+OTUD5,FLNA,Affinity Capture-MS
+USP45,FLNA,Affinity Capture-MS
+G3BP1,FLNA,Affinity Capture-MS
+DMWD,FLNA,Affinity Capture-MS
+OTUD1,FLNB,Affinity Capture-MS
+G3BP1,FLNB,Affinity Capture-MS
+OTUD1,FLNC,Affinity Capture-MS
+OTUD4,FLNC,Affinity Capture-MS
+USP53,FLNC,Affinity Capture-MS
+SART3,FRG1,Affinity Capture-MS
+USP21,FUCA1,Affinity Capture-MS
+MARK2,FUCA1,Affinity Capture-MS
+OTUD4,GALK1,Affinity Capture-MS
+DMWD,GALK1,Affinity Capture-MS
+KEAP1,GBAS,Affinity Capture-MS
+OSBPL10,GBAS,Affinity Capture-MS
+OSBPL9,GCH1,Affinity Capture-MS
+USP22,KAT2A,Affinity Capture-MS
+OTUD4,GLA,Affinity Capture-MS
+TNFAIP3,GLDC,Affinity Capture-MS
+USP3,GNAL,Affinity Capture-MS
+BABAM1,GNAL,Affinity Capture-MS
+SPATA2,GNAL,Affinity Capture-MS
+USP50,GNB2,Affinity Capture-MS
+COPS5,GPS1,Affinity Capture-MS
+COPS6,GPS1,Affinity Capture-MS
+OTUD5,GPX4,Affinity Capture-MS
+OTUD5,GRB2,Affinity Capture-MS
+STAMBP,GRB2,Affinity Capture-MS
+OTUB2,GTF2I,Affinity Capture-MS
+USP7,GTF2I,Affinity Capture-MS
+OTUD5,GYS1,Affinity Capture-MS
+USP49,HADHA,Affinity Capture-MS
+DMWD,HBB,Affinity Capture-MS
+BAP1,HCFC1,Affinity Capture-MS
+USP53,HCFC1,Affinity Capture-MS
+BTRC,HIVEP1,Affinity Capture-MS
+FBXW11,HIVEP1,Affinity Capture-MS
+BTRC,HIVEP2,Affinity Capture-MS
+FBXW11,HIVEP2,Affinity Capture-MS
+USP19,HMOX2,Affinity Capture-MS
+USP38,HSPB1,Affinity Capture-MS
+USP1,HSPB1,Affinity Capture-MS
+DMWD,HSPB1,Affinity Capture-MS
+OTUD4,DNAJB1,Affinity Capture-MS
+USP19,IARS,Affinity Capture-MS
+DMWD,IDH3A,Affinity Capture-MS
+USP50,IGF2R,Affinity Capture-MS
+USPL1,IGHA2,Affinity Capture-MS
+BTRC,IGHM,Affinity Capture-MS
+BAP1,FOXK2,Affinity Capture-MS
+AMOT,FOXK2,Affinity Capture-MS
+EIF3H,EIF3E,Affinity Capture-MS
+EIF3F,EIF3E,Affinity Capture-MS
+USP20,EIF3E,Affinity Capture-MS
+USP1,JUP,Affinity Capture-MS
+USPL1,KIF5B,Affinity Capture-MS
+MARK2,KIF5B,Affinity Capture-MS
+TNFAIP3,KIF11,Affinity Capture-MS
+USP1,KPNA1,Affinity Capture-MS
+USP42,KPNA3,Affinity Capture-MS
+BAP1,IPO5,Affinity Capture-MS
+TAF1D,IPO5,Affinity Capture-MS
+USP50,IPO5,Affinity Capture-MS
+UCHL1,KRT4,Affinity Capture-MS
+USP1,KRT4,Affinity Capture-MS
+USP25,KRT4,Affinity Capture-MS
+USPL1,KRT4,Affinity Capture-MS
+OTUD4,KRT8,Affinity Capture-MS
+USP32,KRT8,Affinity Capture-MS
+UCHL1,KRT17,Affinity Capture-MS
+USP1,KRT17,Affinity Capture-MS
+USP32,KRT18,Affinity Capture-MS
+USP32,KRT19,Affinity Capture-MS
+USP15,KRT31,Affinity Capture-MS
+OTUD4,KRT31,Affinity Capture-MS
+USP8,KRT31,Affinity Capture-MS
+USP15,KRT33B,Affinity Capture-MS
+OTUD4,KRT33B,Affinity Capture-MS
+USP15,KRT34,Affinity Capture-MS
+USP15,KRT35,Affinity Capture-MS
+USP15,KRT81,Affinity Capture-MS
+USP37,KRT84,Affinity Capture-MS
+USP15,KRT85,Affinity Capture-MS
+OTUD4,KRT85,Affinity Capture-MS
+USPL1,KRT85,Affinity Capture-MS
+USP8,KRT85,Affinity Capture-MS
+PSMD7,KTN1,Affinity Capture-MS
+USP15,LGALS7,Affinity Capture-MS
+USP38,LGALS7,Affinity Capture-MS
+USP1,LGALS7,Affinity Capture-MS
+USP3,LRP1,Affinity Capture-MS
+PARP11,LYZ,Affinity Capture-MS
+USP1,LYZ,Affinity Capture-MS
+USP25,LYZ,Affinity Capture-MS
+KEAP1,MAD2L1,Affinity Capture-MS
+KLHL13,MAD2L1,Affinity Capture-MS
+RAE1,MAP1B,Affinity Capture-MS
+USP21,MARK1,Affinity Capture-MS
+MARK2,MARK1,Affinity Capture-MS
+USP21,MARK3,Affinity Capture-MS
+MARK2,MARK3,Affinity Capture-MS
+KEAP1,MAZ,Affinity Capture-MS
+BRCC3,MCM2,Affinity Capture-MS
+USP7,MCM4,Affinity Capture-MS
+USP7,MCM5,Affinity Capture-MS
+TNFAIP3,MCM6,Affinity Capture-MS
+USP49,MCM6,Affinity Capture-MS
+USP7,MCM6,Affinity Capture-MS
+USP12,MMP2,Affinity Capture-MS
+OSBPL10,MMP2,Affinity Capture-MS
+OTUD4,MOG,Affinity Capture-MS
+RAE1,MPST,Affinity Capture-MS
+USP11,MRE11A,Affinity Capture-MS
+OTUB1,MSH2,Affinity Capture-MS
+USP15,MYH2,Affinity Capture-MS
+USP15,MYH4,Affinity Capture-MS
+USP1,MYH9,Affinity Capture-MS
+USP45,MYH9,Affinity Capture-MS
+USP45,MYH10,Affinity Capture-MS
+USP18,MYL6,Affinity Capture-MS
+USP46,MYL6,Affinity Capture-MS
+USP45,MYL6,Affinity Capture-MS
+USP20,MYO1A,Affinity Capture-MS
+USP20,MYO1C,Affinity Capture-MS
+CYLD,MYO6,Affinity Capture-MS
+USP11,MYO6,Affinity Capture-MS
+USP25,MYO6,Affinity Capture-MS
+FBXW11,MYO10,Affinity Capture-MS
+BABAM1,NDUFA5,Affinity Capture-MS
+DMWD,NDUFA5,Affinity Capture-MS
+BRCC3,NDUFA10,Affinity Capture-MS
+TNFAIP3,NDUFS1,Affinity Capture-MS
+DMWD,NDUFS2,Affinity Capture-MS
+COPS5,NEDD8,Affinity Capture-MS
+COPS6,NEDD8,Affinity Capture-MS
+USP13,NEDD8,Affinity Capture-MS
+USP25,NEDD8,Affinity Capture-MS
+AMOT,NF2,Affinity Capture-MS
+UCHL5,NFRKB,Affinity Capture-MS
+USP18,NME1,Affinity Capture-MS
+BTRC,NRD1,Affinity Capture-MS
+FBXW11,NRD1,Affinity Capture-MS
+UIMC1,NRD1,Affinity Capture-MS
+BABAM1,NSF,Affinity Capture-MS
+RAE1,NUP88,Affinity Capture-MS
+USP7,NUP98,Affinity Capture-MS
+RAE1,NUP98,Affinity Capture-MS
+OTUD4,OAT,Affinity Capture-MS
+DMWD,OAT,Affinity Capture-MS
+USP13,OGDH,Affinity Capture-MS
+USP39,PA2G4,Affinity Capture-MS
+USP43,PDCD2,Affinity Capture-MS
+USP49,PDCD2,Affinity Capture-MS
+USP19,PDHA1,Affinity Capture-MS
+BABAM1,PDHA1,Affinity Capture-MS
+WDR20,PDHA1,Affinity Capture-MS
+KEAP1,PFAS,Affinity Capture-MS
+UIMC1,PFAS,Affinity Capture-MS
+PRPF4,PFDN1,Affinity Capture-MS
+PAN2,PFDN2,Affinity Capture-MS
+PRPF4,PFDN4,Affinity Capture-MS
+SPATA2,PFDN4,Affinity Capture-MS
+PRPF4,PFDN5,Affinity Capture-MS
+DMWD,PFKL,Affinity Capture-MS
+DMWD,PFKP,Affinity Capture-MS
+USP15,PGAM2,Affinity Capture-MS
+USPL1,PGD,Affinity Capture-MS
+BRE,PHB,Affinity Capture-MS
+STAMBP,PIK3C2A,Affinity Capture-MS
+USP45,PIK3CG,Affinity Capture-MS
+USP25,PIP,Affinity Capture-MS
+USPL1,PIP,Affinity Capture-MS
+OTUD5,PKLR,Affinity Capture-MS
+USP3,PKLR,Affinity Capture-MS
+USPL1,PKLR,Affinity Capture-MS
+USP1,PKP1,Affinity Capture-MS
+USP20,PLEC,Affinity Capture-MS
+PAN2,PLEC,Affinity Capture-MS
+KCTD13,PLEC,Affinity Capture-MS
+USP20,PLK1,Affinity Capture-MS
+BABAM1,PLK1,Affinity Capture-MS
+USP42,PLRG1,Affinity Capture-MS
+RAE1,POLA1,Affinity Capture-MS
+USP11,POLR2E,Affinity Capture-MS
+USP44,POLR2G,Affinity Capture-MS
+USP45,POLR2G,Affinity Capture-MS
+WDR48,POLR2G,Affinity Capture-MS
+WDR48,POLR2I,Affinity Capture-MS
+USP21,PPIB,Affinity Capture-MS
+WDR48,PPIB,Affinity Capture-MS
+BAP1,PPM1G,Affinity Capture-MS
+USP36,PPM1G,Affinity Capture-MS
+USP49,PPM1G,Affinity Capture-MS
+USP7,PPM1G,Affinity Capture-MS
+TNFAIP3,PPP2R1B,Affinity Capture-MS
+ZRANB1,PPP2R1B,Affinity Capture-MS
+USP53,PPP2R1B,Affinity Capture-MS
+USP49,PPP5C,Affinity Capture-MS
+PHLPP1,PPP5C,Affinity Capture-MS
+RAE1,PRIM1,Affinity Capture-MS
+RAE1,PRIM2,Affinity Capture-MS
+USP49,PRKACA,Affinity Capture-MS
+BTRC,PRKACA,Affinity Capture-MS
+BABAM1,PRKAG1,Affinity Capture-MS
+USP21,PRKCI,Affinity Capture-MS
+MARK2,PRKCI,Affinity Capture-MS
+USP11,PKN2,Affinity Capture-MS
+WDR20,PKN2,Affinity Capture-MS
+USP17L9P,LGMN,Affinity Capture-MS
+BABAM1,PSMA4,Affinity Capture-MS
+USP14,PSMA6,Affinity Capture-MS
+USP53,PSMA6,Affinity Capture-MS
+UCHL5,PSMB3,Affinity Capture-MS
+UCHL5,PSMB5,Affinity Capture-MS
+USP14,PSMB5,Affinity Capture-MS
+UCHL5,PSMB6,Affinity Capture-MS
+PSMD14,PSMC1,Affinity Capture-MS
+PSMD7,PSMC1,Affinity Capture-MS
+UCHL5,PSMC1,Affinity Capture-MS
+USP14,PSMC1,Affinity Capture-MS
+PSMD14,PSMC2,Affinity Capture-MS
+PSMD7,PSMC2,Affinity Capture-MS
+UCHL5,PSMC2,Affinity Capture-MS
+USP14,PSMC2,Affinity Capture-MS
+PSMD7,PSMC3,Affinity Capture-MS
+UCHL5,PSMC3,Affinity Capture-MS
+USP14,PSMC3,Affinity Capture-MS
+PSMD7,PSMC4,Affinity Capture-MS
+UCHL5,PSMC4,Affinity Capture-MS
+USP14,PSMC4,Affinity Capture-MS
+PSMD7,PSMC5,Affinity Capture-MS
+UCHL5,PSMC5,Affinity Capture-MS
+USP14,PSMC5,Affinity Capture-MS
+PSMD7,PSMC6,Affinity Capture-MS
+UCHL5,PSMC6,Affinity Capture-MS
+USP14,PSMC6,Affinity Capture-MS
+PSMD14,PSMD1,Affinity Capture-MS
+PSMD7,PSMD1,Affinity Capture-MS
+UCHL5,PSMD1,Affinity Capture-MS
+USP14,PSMD1,Affinity Capture-MS
+PSMD7,PSMD2,Affinity Capture-MS
+UCHL5,PSMD2,Affinity Capture-MS
+USP14,PSMD2,Affinity Capture-MS
+PSMD14,PSMD3,Affinity Capture-MS
+PSMD7,PSMD3,Affinity Capture-MS
+UCHL5,PSMD3,Affinity Capture-MS
+USP14,PSMD3,Affinity Capture-MS
+PSMD7,PSMD4,Affinity Capture-MS
+UCHL5,PSMD4,Affinity Capture-MS
+USP14,PSMD4,Affinity Capture-MS
+PSMD14,PSMD7,Affinity Capture-MS
+UCHL5,PSMD7,Affinity Capture-MS
+USP14,PSMD7,Affinity Capture-MS
+USP20,PSMD7,Affinity Capture-MS
+PSMD14,PSMD10,Affinity Capture-MS
+PSMD7,PSMD10,Affinity Capture-MS
+UCHL5,PSMD10,Affinity Capture-MS
+USP14,PSMD10,Affinity Capture-MS
+PSMD14,PSMD11,Affinity Capture-MS
+PSMD7,PSMD11,Affinity Capture-MS
+UCHL5,PSMD11,Affinity Capture-MS
+USP14,PSMD11,Affinity Capture-MS
+USP15,PSMD11,Affinity Capture-MS
+USP20,PSMD11,Affinity Capture-MS
+PSMD14,PSMD12,Affinity Capture-MS
+PSMD7,PSMD12,Affinity Capture-MS
+UCHL5,PSMD12,Affinity Capture-MS
+USP14,PSMD12,Affinity Capture-MS
+USP20,PSMD12,Affinity Capture-MS
+PSMD14,PSMD13,Affinity Capture-MS
+PSMD7,PSMD13,Affinity Capture-MS
+UCHL5,PSMD13,Affinity Capture-MS
+USP14,PSMD13,Affinity Capture-MS
+UCHL5,PTPN2,Affinity Capture-MS
+USP36,PWP2,Affinity Capture-MS
+USP50,ABCD3,Affinity Capture-MS
+USP32,ABCD3,Affinity Capture-MS
+ZRANB1,ALDH18A1,Affinity Capture-MS
+USP19,PYGL,Affinity Capture-MS
+USP20,RAD17,Affinity Capture-MS
+OTUD1,RAD23A,Affinity Capture-MS
+OTUD1,RAD23B,Affinity Capture-MS
+UCHL5,RAD23B,Affinity Capture-MS
+BABAM1,RANGAP1,Affinity Capture-MS
+BAP1,RBBP7,Affinity Capture-MS
+PHLPP2,RDX,Affinity Capture-MS
+USP20,RFC2,Affinity Capture-MS
+USP20,RFC3,Affinity Capture-MS
+USP20,RFC4,Affinity Capture-MS
+UIMC1,RFC4,Affinity Capture-MS
+TNFAIP3,RNH1,Affinity Capture-MS
+USP32P2,RNH1,Affinity Capture-MS
+G3BP2,RNH1,Affinity Capture-MS
+EIF3H,ABCE1,Affinity Capture-MS
+EIF3F,ABCE1,Affinity Capture-MS
+USP50,ABCE1,Affinity Capture-MS
+G3BP2,RPL3L,Affinity Capture-MS
+USP38,RPL7,Affinity Capture-MS
+USP44,MRPL23,Affinity Capture-MS
+USP53,RPL26,Affinity Capture-MS
+USP49,RPN1,Affinity Capture-MS
+BRE,RPN2,Affinity Capture-MS
+USP38,RPS12,Affinity Capture-MS
+DMWD,S100A8,Affinity Capture-MS
+USP45,SAFB,Affinity Capture-MS
+BTRC,SERPINB4,Affinity Capture-MS
+DMWD,SDF2,Affinity Capture-MS
+JOSD2,TRAPPC2,Affinity Capture-MS
+OTUD5,SET,Affinity Capture-MS
+USP46,SET,Affinity Capture-MS
+USP17L2,SET,Affinity Capture-MS
+WDR48,SET,Affinity Capture-MS
+UBL4A,SGTA,Affinity Capture-MS
+BRCC3,SHMT2,Affinity Capture-MS
+BRE,SHMT2,Affinity Capture-MS
+BABAM1,SHMT2,Affinity Capture-MS
+FBXW11,SKP1,Affinity Capture-MS
+COPS5,SKP2,Affinity Capture-MS
+COPS6,SKP2,Affinity Capture-MS
+USP19,SLC1A5,Affinity Capture-MS
+USP50,SLC1A5,Affinity Capture-MS
+JOSD2,SMARCA2,Affinity Capture-MS
+USP7,HLTF,Affinity Capture-MS
+USP28,SUMO2,Affinity Capture-MS
+STAMBPL1,SNRPA1,Affinity Capture-MS
+MARK2,SNTB2,Affinity Capture-MS
+DMWD,SRM,Affinity Capture-MS
+USP7,SRP68,Affinity Capture-MS
+USP19,TRIM21,Affinity Capture-MS
+BRE,SSR3,Affinity Capture-MS
+WDR48,STK11,Affinity Capture-MS
+ZRANB1,STRN,Affinity Capture-MS
+WDR48,SUPT6H,Affinity Capture-MS
+WDR20,SURF2,Affinity Capture-MS
+USP22,TAF9,Affinity Capture-MS
+WDR48,TARBP1,Affinity Capture-MS
+TAF1D,TBP,Affinity Capture-MS
+COPS6,TCEB1,Affinity Capture-MS
+PAN2,TCEB1,Affinity Capture-MS
+TCEAL1,TCEB1,Affinity Capture-MS
+PAN2,TCEB2,Affinity Capture-MS
+USP44,TCOF1,Affinity Capture-MS
+WDR48,TCOF1,Affinity Capture-MS
+FBXW11,TFAP4,Affinity Capture-MS
+USP32P2,TGM3,Affinity Capture-MS
+USP53,TGM3,Affinity Capture-MS
+RAE1,TJP1,Affinity Capture-MS
+KCTD13,TNFAIP1,Affinity Capture-MS
+OTUD5,TP53,Affinity Capture-MS
+USP11,TP53,Affinity Capture-MS
+USP39,TP53,Affinity Capture-MS
+WDR48,TP53,Affinity Capture-MS
+USP28,TP53BP1,Affinity Capture-MS
+RAE1,HSP90B1,Affinity Capture-MS
+DMWD,TSNAX,Affinity Capture-MS
+OTUB1,UBE2D2,Affinity Capture-MS
+OTUB1,UBE2N,Affinity Capture-MS
+STAMBPL1,UBE2N,Affinity Capture-MS
+USP21,UCHL1,Affinity Capture-MS
+COPS5,UCHL3,Affinity Capture-MS
+COPS6,UCHL3,Affinity Capture-MS
+USP20,UCHL3,Affinity Capture-MS
+USP13,UFD1L,Affinity Capture-MS
+VCPIP1,UFD1L,Affinity Capture-MS
+RAE1,UFD1L,Affinity Capture-MS
+UBL4A,UFD1L,Affinity Capture-MS
+USP50,UMPS,Affinity Capture-MS
+USP11,USP4,Affinity Capture-MS
+USP1,USP4,Affinity Capture-MS
+PHLPP2,USP1,Affinity Capture-MS
+PHLPP1,USP1,Affinity Capture-MS
+WDR48,USP1,Affinity Capture-MS
+USP21,UTRN,Affinity Capture-MS
+MARK2,UTRN,Affinity Capture-MS
+OTUD5,VARS,Affinity Capture-MS
+DMWD,VARS,Affinity Capture-MS
+PAN2,VBP1,Affinity Capture-MS
+PRPF4,VBP1,Affinity Capture-MS
+VCPIP1,VCP,Affinity Capture-MS
+PHLPP2,EZR,Affinity Capture-MS
+WDR48,WRN,Affinity Capture-MS
+TNFAIP3,YWHAB,Affinity Capture-MS
+USP43,YWHAB,Affinity Capture-MS
+USP32,YWHAB,Affinity Capture-MS
+WDR20,YWHAB,Affinity Capture-MS
+USP43,YWHAE,Affinity Capture-MS
+TNFAIP3,YWHAH,Affinity Capture-MS
+USP43,YWHAH,Affinity Capture-MS
+USP46,YWHAH,Affinity Capture-MS
+MARK2,YWHAH,Affinity Capture-MS
+WDR20,YWHAH,Affinity Capture-MS
+DMWD,YWHAH,Affinity Capture-MS
+USP11,ZNF24,Affinity Capture-MS
+USP7,ZNF207,Affinity Capture-MS
+USP50,TUBA1A,Affinity Capture-MS
+OTUD4,TUBA1A,Affinity Capture-MS
+USP32,TUBA1A,Affinity Capture-MS
+USP36,IFRD2,Affinity Capture-MS
+G3BP1,IFRD2,Affinity Capture-MS
+ZRANB1,SLMAP,Affinity Capture-MS
+USP11,USP7,Affinity Capture-MS
+TCEAL1,USP7,Affinity Capture-MS
+TCEAL4,USP7,Affinity Capture-MS
+EIF3F,PRRC2A,Affinity Capture-MS
+UBL4A,BAG6,Affinity Capture-MS
+USP49,SLC39A7,Affinity Capture-MS
+WDR48,NELFE,Affinity Capture-MS
+G3BP1,NUP214,Affinity Capture-MS
+G3BP2,NUP214,Affinity Capture-MS
+RAE1,NUP214,Affinity Capture-MS
+USP7,CCDC6,Affinity Capture-MS
+COPS6,CUL5,Affinity Capture-MS
+USP32P2,USP5,Affinity Capture-MS
+USP7,AKAP1,Affinity Capture-MS
+USP45,SF3A2,Affinity Capture-MS
+RAE1,SF3A2,Affinity Capture-MS
+USPL1,ELL,Affinity Capture-MS
+OTUD5,USP11,Affinity Capture-MS
+KLHL13,USP11,Affinity Capture-MS
+TCEAL1,USP11,Affinity Capture-MS
+TCEAL4,USP11,Affinity Capture-MS
+USP13,SMC1A,Affinity Capture-MS
+USP32,SMC1A,Affinity Capture-MS
+USP13,UBL4A,Affinity Capture-MS
+USP22,TRRAP,Affinity Capture-MS
+G3BP1,HIST2H2AA3,Affinity Capture-MS
+USP16,HIST1H2BL,Affinity Capture-MS
+OSBPL9,HIST1H2BL,Affinity Capture-MS
+BABAM1,SLC25A11,Affinity Capture-MS
+KCTD13,SRPX,Affinity Capture-MS
+USP1,TAGLN2,Affinity Capture-MS
+COPS5,CUL4B,Affinity Capture-MS
+COPS6,CUL4B,Affinity Capture-MS
+WDR48,CUL4B,Affinity Capture-MS
+COPS5,CUL4A,Affinity Capture-MS
+COPS6,CUL4A,Affinity Capture-MS
+COPS5,CUL3,Affinity Capture-MS
+COPS6,CUL3,Affinity Capture-MS
+COPS5,CUL2,Affinity Capture-MS
+COPS6,CUL2,Affinity Capture-MS
+TCEAL1,CUL2,Affinity Capture-MS
+COPS5,CUL1,Affinity Capture-MS
+COPS6,CUL1,Affinity Capture-MS
+BTRC,CUL1,Affinity Capture-MS
+FBXW11,CUL1,Affinity Capture-MS
+OSBPL10,CUL1,Affinity Capture-MS
+USP22,SUPT3H,Affinity Capture-MS
+BAP1,OGT,Affinity Capture-MS
+BTRC,OGT,Affinity Capture-MS
+FBXW11,OGT,Affinity Capture-MS
+USP11,RAE1,Affinity Capture-MS
+USP7,RAE1,Affinity Capture-MS
+BAP1,HAT1,Affinity Capture-MS
+G3BP1,HAT1,Affinity Capture-MS
+COPS5,COPS3,Affinity Capture-MS
+COPS6,COPS3,Affinity Capture-MS
+SPATA2,CASK,Affinity Capture-MS
+UIMC1,CASK,Affinity Capture-MS
+USP45,RTCA,Affinity Capture-MS
+SPATA2,SSNA1,Affinity Capture-MS
+BAP1,EIF4EBP3,Affinity Capture-MS
+AMOT,DYNLL1,Affinity Capture-MS
+BABAM1,TNKS,Affinity Capture-MS
+EIF3H,EIF3A,Affinity Capture-MS
+EIF3F,EIF3A,Affinity Capture-MS
+USP3,EIF3A,Affinity Capture-MS
+WDR48,EIF3A,Affinity Capture-MS
+EIF3H,EIF3B,Affinity Capture-MS
+EIF3F,EIF3B,Affinity Capture-MS
+USP3,EIF3B,Affinity Capture-MS
+EIF3H,EIF3C,Affinity Capture-MS
+EIF3F,EIF3C,Affinity Capture-MS
+USP20,EIF3C,Affinity Capture-MS
+USP3,EIF3C,Affinity Capture-MS
+EIF3H,EIF3D,Affinity Capture-MS
+EIF3F,EIF3D,Affinity Capture-MS
+USP3,EIF3D,Affinity Capture-MS
+EIF3H,EIF3F,Affinity Capture-MS
+USP3,EIF3F,Affinity Capture-MS
+WDR48,EIF3F,Affinity Capture-MS
+EIF3H,EIF3G,Affinity Capture-MS
+EIF3F,EIF3G,Affinity Capture-MS
+USP3,EIF3G,Affinity Capture-MS
+EIF3F,EIF3H,Affinity Capture-MS
+USP3,EIF3H,Affinity Capture-MS
+WDR48,EIF3H,Affinity Capture-MS
+EIF3H,EIF3I,Affinity Capture-MS
+EIF3F,EIF3I,Affinity Capture-MS
+USP3,EIF3I,Affinity Capture-MS
+EIF3H,EIF3J,Affinity Capture-MS
+EIF3F,EIF3J,Affinity Capture-MS
+USP10,EIF4G3,Affinity Capture-MS
+EIF3H,EIF4G3,Affinity Capture-MS
+EIF3F,EIF4G3,Affinity Capture-MS
+OTUD4,KRT36,Affinity Capture-MS
+USP8,KRT36,Affinity Capture-MS
+AMOT,MPDZ,Affinity Capture-MS
+USP19,SUCLG2,Affinity Capture-MS
+DMWD,SUCLG2,Affinity Capture-MS
+PSMD14,SUCLA2,Affinity Capture-MS
+AMOT,LIN7A,Affinity Capture-MS
+USP46,IQGAP1,Affinity Capture-MS
+USP7,GMPS,Affinity Capture-MS
+BABAM1,GMPS,Affinity Capture-MS
+TCEAL1,GMPS,Affinity Capture-MS
+KEAP1,SQSTM1,Affinity Capture-MS
+UIMC1,NAE1,Affinity Capture-MS
+USP42,CPNE3,Affinity Capture-MS
+USP39,PRPF4B,Affinity Capture-MS
+PRPF4,PRPF4B,Affinity Capture-MS
+UIMC1,CPNE1,Affinity Capture-MS
+ZRANB1,HERC2,Affinity Capture-MS
+USP19,HERC2,Affinity Capture-MS
+USP20,HERC2,Affinity Capture-MS
+USP16,HERC2,Affinity Capture-MS
+USP42,HERC2,Affinity Capture-MS
+FBXW11,BTRC,Affinity Capture-MS
+DMWD,P4HA2,Affinity Capture-MS
+ATXN3,USP13,Affinity Capture-MS
+USP5,USP13,Affinity Capture-MS
+USP15,SELENBP1,Affinity Capture-MS
+TAF1D,TAF1C,Affinity Capture-MS
+TAF1D,TAF1B,Affinity Capture-MS
+TAF1D,TAF1A,Affinity Capture-MS
+UIMC1,UBA3,Affinity Capture-MS
+USP39,SART1,Affinity Capture-MS
+PRPF4,SART1,Affinity Capture-MS
+RAE1,SART1,Affinity Capture-MS
+UCHL5,USP14,Affinity Capture-MS
+USP7,USP14,Affinity Capture-MS
+USP32,USP6,Affinity Capture-MS
+G3BP1,USP10,Affinity Capture-MS
+G3BP2,USP10,Affinity Capture-MS
+USP13,SMC3,Affinity Capture-MS
+USP15,PRPF4,Affinity Capture-MS
+USP39,PRPF4,Affinity Capture-MS
+USP4,PRPF4,Affinity Capture-MS
+SART3,PRPF4,Affinity Capture-MS
+USP15,PRPF3,Affinity Capture-MS
+USP39,PRPF3,Affinity Capture-MS
+USP4,PRPF3,Affinity Capture-MS
+PRPF4,PRPF3,Affinity Capture-MS
+SART3,PRPF3,Affinity Capture-MS
+TCEAL1,PDCD5,Affinity Capture-MS
+MARK2,ARHGEF2,Affinity Capture-MS
+USP11,BUB3,Affinity Capture-MS
+USP7,BUB3,Affinity Capture-MS
+USP22,DEDD,Affinity Capture-MS
+KLHL13,ZMYM4,Affinity Capture-MS
+KLHL13,ZMYM6,Affinity Capture-MS
+USP20,VAPB,Affinity Capture-MS
+OSBPL9,VAPB,Affinity Capture-MS
+USP20,VAPA,Affinity Capture-MS
+OSBPL9,VAPA,Affinity Capture-MS
+COPS5,COPS2,Affinity Capture-MS
+COPS6,COPS2,Affinity Capture-MS
+KLHL13,COPS2,Affinity Capture-MS
+UIMC1,COPS2,Affinity Capture-MS
+USP32,TRIP13,Affinity Capture-MS
+USP11,TRIP12,Affinity Capture-MS
+USP7,TRIP12,Affinity Capture-MS
+USP11,TCEAL1,Affinity Capture-MS
+USP39,EFTUD2,Affinity Capture-MS
+OTUD7B,SLC9A3R2,Affinity Capture-MS
+PHLPP2,SLC9A3R2,Affinity Capture-MS
+PHLPP1,SLC9A3R2,Affinity Capture-MS
+UCHL5,TXNL1,Affinity Capture-MS
+USP14,TXNL1,Affinity Capture-MS
+USP2,LONP1,Affinity Capture-MS
+PHLPP2,SLC9A3R1,Affinity Capture-MS
+USP39,ZRANB2,Affinity Capture-MS
+USP39,SNRNP40,Affinity Capture-MS
+PRPF4,SNRNP40,Affinity Capture-MS
+RAE1,TJP2,Affinity Capture-MS
+USP39,DDX23,Affinity Capture-MS
+PRPF4,DDX23,Affinity Capture-MS
+USP30,QKI,Affinity Capture-MS
+ZRANB1,MAP4K4,Affinity Capture-MS
+USP4,AKAP7,Affinity Capture-MS
+EIF3F,EIF4E2,Affinity Capture-MS
+USP4,EIF4E2,Affinity Capture-MS
+USP17L9P,ADAMTS1,Affinity Capture-MS
+OTUD4,FXR2,Affinity Capture-MS
+OTUD4,NPEPPS,Affinity Capture-MS
+DMWD,NPEPPS,Affinity Capture-MS
+BABAM1,VPS4B,Affinity Capture-MS
+OTUD4,BAG5,Affinity Capture-MS
+UIMC1,BAG5,Affinity Capture-MS
+AMOT,BAG3,Affinity Capture-MS
+TAF1D,POLR1C,Affinity Capture-MS
+USP11,POLR1C,Affinity Capture-MS
+WDR20,POLR1C,Affinity Capture-MS
+BRCC3,BRE,Affinity Capture-MS
+USP7,BRE,Affinity Capture-MS
+BABAM1,BRE,Affinity Capture-MS
+UIMC1,BRE,Affinity Capture-MS
+USP22,PREPL,Affinity Capture-MS
+OTUD7B,NUP155,Affinity Capture-MS
+DMWD,NUP155,Affinity Capture-MS
+WDR48,ARHGEF10,Affinity Capture-MS
+ZRANB1,GCC2,Affinity Capture-MS
+WDR48,KDM4A,Affinity Capture-MS
+COPS5,LRRC14,Affinity Capture-MS
+COPS6,LRRC14,Affinity Capture-MS
+STAMBPL1,CLINT1,Affinity Capture-MS
+STAMBP,CLINT1,Affinity Capture-MS
+OSBPL10,CLINT1,Affinity Capture-MS
+PAN2,NUP93,Affinity Capture-MS
+RAE1,NUP93,Affinity Capture-MS
+USP49,PPP6R2,Affinity Capture-MS
+USP28,AQR,Affinity Capture-MS
+COPS5,VPRBP,Affinity Capture-MS
+COPS6,VPRBP,Affinity Capture-MS
+MARK2,GPRASP1,Affinity Capture-MS
+USP13,FAM115A,Affinity Capture-MS
+KEAP1,SLK,Affinity Capture-MS
+USP39,DHX38,Affinity Capture-MS
+USP42,BMS1,Affinity Capture-MS
+USP15,RNF40,Affinity Capture-MS
+ZRANB1,KEAP1,Affinity Capture-MS
+USP11,KEAP1,Affinity Capture-MS
+BTRC,KEAP1,Affinity Capture-MS
+OSBPL10,KEAP1,Affinity Capture-MS
+CYLD,SPATA2,Affinity Capture-MS
+BABAM1,MELK,Affinity Capture-MS
+PSMD14,PSMD6,Affinity Capture-MS
+PSMD7,PSMD6,Affinity Capture-MS
+UCHL5,PSMD6,Affinity Capture-MS
+USP14,PSMD6,Affinity Capture-MS
+USP20,PSMD6,Affinity Capture-MS
+USP46,PJA2,Affinity Capture-MS
+USP10,G3BP2,Affinity Capture-MS
+USP22,SUPT7L,Affinity Capture-MS
+USP21,RBM8A,Affinity Capture-MS
+RAE1,RBM8A,Affinity Capture-MS
+USP11,NUP153,Affinity Capture-MS
+USP20,NUP153,Affinity Capture-MS
+WDR48,ZBTB33,Affinity Capture-MS
+USP42,RANBP9,Affinity Capture-MS
+USP49,HUWE1,Affinity Capture-MS
+USP50,HUWE1,Affinity Capture-MS
+USP7,HUWE1,Affinity Capture-MS
+VCPIP1,HUWE1,Affinity Capture-MS
+UBL4A,HUWE1,Affinity Capture-MS
+MARK2,COL4A3BP,Affinity Capture-MS
+EIF3H,ARPC5,Affinity Capture-MS
+USP11,RAD50,Affinity Capture-MS
+USP42,RAD50,Affinity Capture-MS
+USP53,RAD50,Affinity Capture-MS
+COPS6,FEM1B,Affinity Capture-MS
+USP19,LRPPRC,Affinity Capture-MS
+USP49,LRPPRC,Affinity Capture-MS
+BRE,LRPPRC,Affinity Capture-MS
+WDR20,OPTN,Affinity Capture-MS
+USP10,G3BP1,Affinity Capture-MS
+USP20,ATP6AP2,Affinity Capture-MS
+USP50,SLC25A13,Affinity Capture-MS
+BRE,SLC25A13,Affinity Capture-MS
+BABAM1,SLC25A13,Affinity Capture-MS
+BAP1,PSME3,Affinity Capture-MS
+TAF1D,PSME3,Affinity Capture-MS
+USP43,PSME3,Affinity Capture-MS
+WDR48,PSME3,Affinity Capture-MS
+USP11,MPHOSPH9,Affinity Capture-MS
+BABAM1,DDX39A,Affinity Capture-MS
+PSMD7,PSMD14,Affinity Capture-MS
+UCHL5,PSMD14,Affinity Capture-MS
+USP14,PSMD14,Affinity Capture-MS
+USP42,MRPS31,Affinity Capture-MS
+OTUD4,GPHN,Affinity Capture-MS
+PRPF4,GPHN,Affinity Capture-MS
+USP11,NET1,Affinity Capture-MS
+OSBPL10,SAP18,Affinity Capture-MS
+USP30,SF3A1,Affinity Capture-MS
+RAE1,SF3A1,Affinity Capture-MS
+BABAM1,MICU1,Affinity Capture-MS
+USP7,SCML2,Affinity Capture-MS
+AMOT,YAP1,Affinity Capture-MS
+USP39,CD2BP2,Affinity Capture-MS
+BTRC,TUBGCP3,Affinity Capture-MS
+FBXW11,TUBGCP3,Affinity Capture-MS
+PRPF4,N4BP2L2,Affinity Capture-MS
+USP20,ECI2,Affinity Capture-MS
+USP15,PPIH,Affinity Capture-MS
+USP4,PPIH,Affinity Capture-MS
+PRPF4,PPIH,Affinity Capture-MS
+SART3,PPIH,Affinity Capture-MS
+PRPF4,PFDN6,Affinity Capture-MS
+SPATA2,PFDN6,Affinity Capture-MS
+USP22,TADA3,Affinity Capture-MS
+EIF3H,EIF3M,Affinity Capture-MS
+EIF3F,EIF3M,Affinity Capture-MS
+WDR48,CRTAP,Affinity Capture-MS
+PHLPP2,VAT1,Affinity Capture-MS
+USP36,STK25,Affinity Capture-MS
+WDR48,UNC13B,Affinity Capture-MS
+USP49,IPO7,Affinity Capture-MS
+PAN2,CCT7,Affinity Capture-MS
+USP39,PRPF8,Affinity Capture-MS
+PRPF4,PRPF8,Affinity Capture-MS
+USP12,PAIP1,Affinity Capture-MS
+USP36,TBL3,Affinity Capture-MS
+OTUB1,STAMBP,Affinity Capture-MS
+USP11,IVNS1ABP,Affinity Capture-MS
+USP22,TAF6L,Affinity Capture-MS
+USP12,RAD51AP1,Affinity Capture-MS
+USP46,RAD51AP1,Affinity Capture-MS
+WDR48,RAD51AP1,Affinity Capture-MS
+USP10,CELF1,Affinity Capture-MS
+USP45,FARS2,Affinity Capture-MS
+G3BP2,FARS2,Affinity Capture-MS
+USP3,GNA13,Affinity Capture-MS
+USP12,USP39,Affinity Capture-MS
+PRPF4,USP39,Affinity Capture-MS
+CYLD,MGEA5,Affinity Capture-MS
+BTRC,NUDC,Affinity Capture-MS
+FBXW11,NUDC,Affinity Capture-MS
+PRPF4,KDM5B,Affinity Capture-MS
+JOSD2,AHCYL1,Affinity Capture-MS
+USP42,AHCYL1,Affinity Capture-MS
+WDR48,AHCYL1,Affinity Capture-MS
+BTRC,TUBGCP2,Affinity Capture-MS
+BTRC,CLPX,Affinity Capture-MS
+FBXW11,CLPX,Affinity Capture-MS
+BABAM1,CLPX,Affinity Capture-MS
+USP21,USP20,Affinity Capture-MS
+USP7,USP19,Affinity Capture-MS
+USP36,WDR3,Affinity Capture-MS
+USP43,WDR3,Affinity Capture-MS
+USP39,TXNL4A,Affinity Capture-MS
+PRPF4,TXNL4A,Affinity Capture-MS
+PHLPP1,SUGT1,Affinity Capture-MS
+COPS5,COPS8,Affinity Capture-MS
+COPS6,COPS8,Affinity Capture-MS
+RAE1,COPS8,Affinity Capture-MS
+USP50,AFG3L2,Affinity Capture-MS
+MARK2,C11orf58,Affinity Capture-MS
+WDR48,C11orf58,Affinity Capture-MS
+RAE1,SF3A3,Affinity Capture-MS
+BAP1,CBX1,Affinity Capture-MS
+USP17L2,CBX1,Affinity Capture-MS
+USP49,STIP1,Affinity Capture-MS
+USP50,CKAP4,Affinity Capture-MS
+EIF3F,ASCC3,Affinity Capture-MS
+OTUD6B,ASCC3,Affinity Capture-MS
+G3BP1,ASCC3,Affinity Capture-MS
+G3BP2,ASCC3,Affinity Capture-MS
+COPS5,COPS6,Affinity Capture-MS
+RAE1,COPS6,Affinity Capture-MS
+USP19,GCN1L1,Affinity Capture-MS
+COPS6,COPS5,Affinity Capture-MS
+EIF3F,IMMT,Affinity Capture-MS
+USP39,SNRNP27,Affinity Capture-MS
+PRPF4,SNRNP27,Affinity Capture-MS
+PSMD7,ADRM1,Affinity Capture-MS
+UCHL5,ADRM1,Affinity Capture-MS
+USP14,ADRM1,Affinity Capture-MS
+RAE1,NUPL2,Affinity Capture-MS
+RAE1,ATE1,Affinity Capture-MS
+USP49,KRR1,Affinity Capture-MS
+USP33,KRR1,Affinity Capture-MS
+USP44,KRR1,Affinity Capture-MS
+G3BP1,FAF1,Affinity Capture-MS
+RAE1,FAF1,Affinity Capture-MS
+USP7,KIF3A,Affinity Capture-MS
+RAE1,POLR3A,Affinity Capture-MS
+DMWD,CDC37,Affinity Capture-MS
+USP15,LSM6,Affinity Capture-MS
+USP4,LSM6,Affinity Capture-MS
+PRPF4,LSM6,Affinity Capture-MS
+SART3,LSM6,Affinity Capture-MS
+BRCC3,SUPT16H,Affinity Capture-MS
+RAE1,DDX19B,Affinity Capture-MS
+G3BP1,ATXN2L,Affinity Capture-MS
+G3BP2,ATXN2L,Affinity Capture-MS
+USP19,PARK7,Affinity Capture-MS
+BABAM1,PARK7,Affinity Capture-MS
+WDR48,GPN1,Affinity Capture-MS
+BAP1,CBX3,Affinity Capture-MS
+KCTD13,LAMB4,Affinity Capture-MS
+KEAP1,COPG1,Affinity Capture-MS
+TNFAIP3,CNKSR2,Affinity Capture-MS
+USP49,PPP6R1,Affinity Capture-MS
+BABAM1,DIS3,Affinity Capture-MS
+USP45,RALY,Affinity Capture-MS
+USP22,CNOT1,Affinity Capture-MS
+USP39,SNRNP200,Affinity Capture-MS
+USP12,PHLPP2,Affinity Capture-MS
+USP46,PHLPP2,Affinity Capture-MS
+PHLPP1,PHLPP2,Affinity Capture-MS
+WDR48,PHLPP2,Affinity Capture-MS
+USP3,WDTC1,Affinity Capture-MS
+USP46,ERP44,Affinity Capture-MS
+USP32,ERP44,Affinity Capture-MS
+UIMC1,ERP44,Affinity Capture-MS
+USP11,MYCBP2,Affinity Capture-MS
+RAE1,MYCBP2,Affinity Capture-MS
+WDR48,MYCBP2,Affinity Capture-MS
+KEAP1,VWA8,Affinity Capture-MS
+MARK2,CLASP2,Affinity Capture-MS
+BRE,ATG2A,Affinity Capture-MS
+USP20,N4BP3,Affinity Capture-MS
+USP50,NUP205,Affinity Capture-MS
+BRCC3,FAM175B,Affinity Capture-MS
+USP7,FAM175B,Affinity Capture-MS
+BRE,FAM175B,Affinity Capture-MS
+BABAM1,FAM175B,Affinity Capture-MS
+UIMC1,FAM175B,Affinity Capture-MS
+FBXW11,ATG4B,Affinity Capture-MS
+USP13,FAF2,Affinity Capture-MS
+VCPIP1,FAF2,Affinity Capture-MS
+UBL4A,FAF2,Affinity Capture-MS
+MARK2,PMPCA,Affinity Capture-MS
+USP12,PHLPP1,Affinity Capture-MS
+USP46,PHLPP1,Affinity Capture-MS
+USP1,PHLPP1,Affinity Capture-MS
+MARK2,PHLPP1,Affinity Capture-MS
+WDR48,PHLPP1,Affinity Capture-MS
+DMWD,PHLPP1,Affinity Capture-MS
+USP21,ANKRD28,Affinity Capture-MS
+USP49,ANKRD28,Affinity Capture-MS
+WDR48,BOP1,Affinity Capture-MS
+MARK2,MTCL1,Affinity Capture-MS
+USP22,POFUT2,Affinity Capture-MS
+COPS5,KLHL18,Affinity Capture-MS
+COPS6,KLHL18,Affinity Capture-MS
+USP12,NUP160,Affinity Capture-MS
+USP19,NUP160,Affinity Capture-MS
+USP37,FBXW11,Affinity Capture-MS
+BTRC,FBXW11,Affinity Capture-MS
+ZRANB1,BICD2,Affinity Capture-MS
+MARK2,KIF13B,Affinity Capture-MS
+USP11,KIAA0930,Affinity Capture-MS
+USP8,USP22,Affinity Capture-MS
+AMOT,NEDD4L,Affinity Capture-MS
+BRE,TTC28,Affinity Capture-MS
+USP39,RRP8,Affinity Capture-MS
+USPL1,ICE1,Affinity Capture-MS
+BAP1,AHCYL2,Affinity Capture-MS
+JOSD2,AHCYL2,Affinity Capture-MS
+WDR48,AHCYL2,Affinity Capture-MS
+KLHL13,NUDCD3,Affinity Capture-MS
+USP49,DICER1,Affinity Capture-MS
+USP22,SIRT1,Affinity Capture-MS
+USP3,RIMBP2,Affinity Capture-MS
+G3BP1,NUP188,Affinity Capture-MS
+RAE1,NUP188,Affinity Capture-MS
+PHLPP1,SCRIB,Affinity Capture-MS
+DMWD,SCRIB,Affinity Capture-MS
+USP42,SRRM2,Affinity Capture-MS
+OSBPL10,SRRM2,Affinity Capture-MS
+USP19,TNPO3,Affinity Capture-MS
+OTUB1,CASP14,Affinity Capture-MS
+USP53,CASP14,Affinity Capture-MS
+USP45,CORO1C,Affinity Capture-MS
+G3BP1,NUP62,Affinity Capture-MS
+G3BP2,NUP62,Affinity Capture-MS
+RAE1,NUP62,Affinity Capture-MS
+RAE1,POLA2,Affinity Capture-MS
+RAE1,PRKD3,Affinity Capture-MS
+USP19,FKBP8,Affinity Capture-MS
+BRE,FKBP8,Affinity Capture-MS
+USP33,IFIT5,Affinity Capture-MS
+DMWD,FTSJ1,Affinity Capture-MS
+USP39,PRPF6,Affinity Capture-MS
+PRPF4,PRPF6,Affinity Capture-MS
+USP20,SUN2,Affinity Capture-MS
+BTRC,SUN2,Affinity Capture-MS
+FBXW11,SUN2,Affinity Capture-MS
+COPS6,FBXO7,Affinity Capture-MS
+USP15,LSM4,Affinity Capture-MS
+USP4,LSM4,Affinity Capture-MS
+PRPF4,LSM4,Affinity Capture-MS
+SART3,LSM4,Affinity Capture-MS
+FBXW11,ARIH1,Affinity Capture-MS
+BABAM1,PRDX5,Affinity Capture-MS
+ZRANB1,HECTD1,Affinity Capture-MS
+ZRANB1,MOB4,Affinity Capture-MS
+RAE1,ARMC8,Affinity Capture-MS
+STAMBPL1,USP49,Affinity Capture-MS
+RAE1,PRKD2,Affinity Capture-MS
+G3BP2,C3orf17,Affinity Capture-MS
+SART3,C3orf17,Affinity Capture-MS
+TAF1D,POLR1A,Affinity Capture-MS
+USP11,POLR1A,Affinity Capture-MS
+USP50,MTHFD1L,Affinity Capture-MS
+USP22,CNOT10,Affinity Capture-MS
+BRE,DHRS7B,Affinity Capture-MS
+USP11,SIPA1L1,Affinity Capture-MS
+USP30,SS18L1,Affinity Capture-MS
+BAP1,ANKRD17,Affinity Capture-MS
+USP11,GIGYF2,Affinity Capture-MS
+COPS5,DCAF4,Affinity Capture-MS
+COPS6,DCAF4,Affinity Capture-MS
+USP7,DCAF4,Affinity Capture-MS
+USP15,PRPF31,Affinity Capture-MS
+USP39,PRPF31,Affinity Capture-MS
+USP4,PRPF31,Affinity Capture-MS
+PRPF4,PRPF31,Affinity Capture-MS
+SART3,PRPF31,Affinity Capture-MS
+ZRANB1,FGFR1OP2,Affinity Capture-MS
+COPS5,FBXO22,Affinity Capture-MS
+COPS6,FBXO22,Affinity Capture-MS
+TNFAIP3,FBXO3,Affinity Capture-MS
+OTUD4,MYCBP,Affinity Capture-MS
+USP44,TBL2,Affinity Capture-MS
+WDR48,AP3M1,Affinity Capture-MS
+DMWD,TRMT2A,Affinity Capture-MS
+USP19,LAT,Affinity Capture-MS
+USP22,SND1,Affinity Capture-MS
+USP22,TAF5L,Affinity Capture-MS
+OTUD5,CACYBP,Affinity Capture-MS
+ZRANB1,CACYBP,Affinity Capture-MS
+USP13,CACYBP,Affinity Capture-MS
+OTUB1,CPNE7,Affinity Capture-MS
+USP53,CPNE7,Affinity Capture-MS
+BABAM1,VPS4A,Affinity Capture-MS
+FBXW11,PDCD4,Affinity Capture-MS
+COPS6,KLHL20,Affinity Capture-MS
+USP42,DIMT1,Affinity Capture-MS
+USP45,RBMX,Affinity Capture-MS
+EIF3H,EIF3K,Affinity Capture-MS
+EIF3F,EIF3K,Affinity Capture-MS
+USP45,IGKV4-1,Affinity Capture-MS
+OTUD7B,ACAD9,Affinity Capture-MS
+BRCC3,BABAM1,Affinity Capture-MS
+USP7,BABAM1,Affinity Capture-MS
+BRE,BABAM1,Affinity Capture-MS
+SPATA2,BABAM1,Affinity Capture-MS
+UIMC1,BABAM1,Affinity Capture-MS
+UIMC1,SSU72,Affinity Capture-MS
+TNFAIP3,TBK1,Affinity Capture-MS
+USP45,TMOD3,Affinity Capture-MS
+UCHL5,TFPT,Affinity Capture-MS
+ZRANB1,STRN4,Affinity Capture-MS
+USP36,GNL2,Affinity Capture-MS
+G3BP1,GNL2,Affinity Capture-MS
+G3BP2,GNL2,Affinity Capture-MS
+USP11,SEC61A1,Affinity Capture-MS
+USP19,SEC61A1,Affinity Capture-MS
+ZRANB1,STRN3,Affinity Capture-MS
+USP45,GLTSCR2,Affinity Capture-MS
+UIMC1,GLTSCR2,Affinity Capture-MS
+OSBPL9,WRAP73,Affinity Capture-MS
+COPS5,COPS7A,Affinity Capture-MS
+COPS6,COPS7A,Affinity Capture-MS
+TAF1D,RRP15,Affinity Capture-MS
+USP2,RRP15,Affinity Capture-MS
+SART3,RRP15,Affinity Capture-MS
+USP32,UBXN1,Affinity Capture-MS
+BABAM1,UBXN1,Affinity Capture-MS
+WDR20,UBXN1,Affinity Capture-MS
+USP49,YARS2,Affinity Capture-MS
+OTUD4,NMD3,Affinity Capture-MS
+USP36,UTP18,Affinity Capture-MS
+G3BP1,UTP18,Affinity Capture-MS
+MARK2,UTP18,Affinity Capture-MS
+COPS6,KCTD3,Affinity Capture-MS
+USP13,KCTD3,Affinity Capture-MS
+COPS5,COPS4,Affinity Capture-MS
+COPS6,COPS4,Affinity Capture-MS
+BTRC,COPS4,Affinity Capture-MS
+KLHL13,COPS4,Affinity Capture-MS
+USP12,SDF4,Affinity Capture-MS
+DMWD,DCXR,Affinity Capture-MS
+WDR48,GPN3,Affinity Capture-MS
+COPS6,CRBN,Affinity Capture-MS
+WDR48,ZNF639,Affinity Capture-MS
+AMOT,NIN,Affinity Capture-MS
+SART3,DDX47,Affinity Capture-MS
+BABAM1,PBDC1,Affinity Capture-MS
+USP49,UBR5,Affinity Capture-MS
+WDR48,UBR5,Affinity Capture-MS
+USP12,UCHL5,Affinity Capture-MS
+USP14,UCHL5,Affinity Capture-MS
+EIF3H,EIF3L,Affinity Capture-MS
+EIF3F,EIF3L,Affinity Capture-MS
+USP36,DDX41,Affinity Capture-MS
+BAP1,ANAPC7,Affinity Capture-MS
+USPL1,ANKFY1,Affinity Capture-MS
+USP11,GTSE1,Affinity Capture-MS
+COPS6,DTL,Affinity Capture-MS
+KEAP1,GET4,Affinity Capture-MS
+UBL4A,GET4,Affinity Capture-MS
+STAMBP,CHMP3,Affinity Capture-MS
+USP33,ZFR,Affinity Capture-MS
+USP45,ZFR,Affinity Capture-MS
+USP4,LSM7,Affinity Capture-MS
+PRPF4,LSM7,Affinity Capture-MS
+SART3,LSM7,Affinity Capture-MS
+USP15,LSM8,Affinity Capture-MS
+USP39,LSM8,Affinity Capture-MS
+USP4,LSM8,Affinity Capture-MS
+PRPF4,LSM8,Affinity Capture-MS
+SART3,LSM8,Affinity Capture-MS
+BRCC3,UIMC1,Affinity Capture-MS
+AMOT,UIMC1,Affinity Capture-MS
+BRE,UIMC1,Affinity Capture-MS
+G3BP1,UIMC1,Affinity Capture-MS
+G3BP2,UIMC1,Affinity Capture-MS
+BABAM1,UIMC1,Affinity Capture-MS
+SPATA2,UIMC1,Affinity Capture-MS
+USP18,KDM3B,Affinity Capture-MS
+USP1,CALML5,Affinity Capture-MS
+COPS6,BTBD1,Affinity Capture-MS
+PAN2,MRPL39,Affinity Capture-MS
+USP32,MRPL39,Affinity Capture-MS
+USP10,GAR1,Affinity Capture-MS
+USP39,GAR1,Affinity Capture-MS
+USP42,MRPS21,Affinity Capture-MS
+USP44,MRPS21,Affinity Capture-MS
+WDR20,FBXW5,Affinity Capture-MS
+RAE1,MIOS,Affinity Capture-MS
+BRE,TMX3,Affinity Capture-MS
+TAF1D,RRN3,Affinity Capture-MS
+FBXW11,ZRANB1,Affinity Capture-MS
+COPS5,KLHL24,Affinity Capture-MS
+COPS6,KLHL24,Affinity Capture-MS
+USP36,TMEM104,Affinity Capture-MS
+USP42,TEX10,Affinity Capture-MS
+G3BP1,YTHDF1,Affinity Capture-MS
+USP39,TRMT10C,Affinity Capture-MS
+USP44,SARS2,Affinity Capture-MS
+DMWD,SARS2,Affinity Capture-MS
+KEAP1,TMEM160,Affinity Capture-MS
+TCEAL1,TIPIN,Affinity Capture-MS
+USP20,ZNF770,Affinity Capture-MS
+BTRC,USP47,Affinity Capture-MS
+FBXW11,USP47,Affinity Capture-MS
+PSMD14,C19orf60,Affinity Capture-MS
+WDR48,WDR70,Affinity Capture-MS
+RAE1,AGGF1,Affinity Capture-MS
+USP33,PRPF38B,Affinity Capture-MS
+CYLD,CEP192,Affinity Capture-MS
+USP45,SRBD1,Affinity Capture-MS
+SART3,SRBD1,Affinity Capture-MS
+USP19,TMEM33,Affinity Capture-MS
+WDR48,SHQ1,Affinity Capture-MS
+USP19,SEC61A2,Affinity Capture-MS
+USP39,RNMTL1,Affinity Capture-MS
+USP7,RNF220,Affinity Capture-MS
+USP36,FANCI,Affinity Capture-MS
+RAE1,SMU1,Affinity Capture-MS
+BAP1,ASXL2,Affinity Capture-MS
+TNFAIP3,PPP6R3,Affinity Capture-MS
+USP21,PPP6R3,Affinity Capture-MS
+USP36,PPP6R3,Affinity Capture-MS
+USP49,PPP6R3,Affinity Capture-MS
+G3BP1,TMA16,Affinity Capture-MS
+AMOT,LIN7C,Affinity Capture-MS
+SPATA2,LIN7C,Affinity Capture-MS
+UIMC1,LIN7C,Affinity Capture-MS
+USP39,COPRS,Affinity Capture-MS
+USP20,LRRC59,Affinity Capture-MS
+WDR48,NOP10,Affinity Capture-MS
+TCEAL1,FEM1A,Affinity Capture-MS
+USP22,SUPT20H,Affinity Capture-MS
+WDR48,PPP1R9A,Affinity Capture-MS
+OTUD6B,OTUB1,Affinity Capture-MS
+STAMBPL1,OTUB1,Affinity Capture-MS
+STAMBP,OTUB1,Affinity Capture-MS
+USP50,AMBRA1,Affinity Capture-MS
+COPS5,BTBD2,Affinity Capture-MS
+COPS6,BTBD2,Affinity Capture-MS
+WDR48,NHP2,Affinity Capture-MS
+OTUD7B,HIF1AN,Affinity Capture-MS
+USP13,NPLOC4,Affinity Capture-MS
+VCPIP1,NPLOC4,Affinity Capture-MS
+UBL4A,NPLOC4,Affinity Capture-MS
+WDR48,IWS1,Affinity Capture-MS
+USP50,LUC7L,Affinity Capture-MS
+USP20,MAP7D1,Affinity Capture-MS
+RAE1,POLR3B,Affinity Capture-MS
+USP49,IPO9,Affinity Capture-MS
+RAE1,POLR3E,Affinity Capture-MS
+USP43,VPS35,Affinity Capture-MS
+USP32,VPS35,Affinity Capture-MS
+BRE,UGGT2,Affinity Capture-MS
+BABAM1,UGGT2,Affinity Capture-MS
+USP4,DCP1A,Affinity Capture-MS
+TCEAL1,KDM3A,Affinity Capture-MS
+BRCC3,CAND1,Affinity Capture-MS
+G3BP2,UBAP2,Affinity Capture-MS
+TCEAL1,PPP2R2D,Affinity Capture-MS
+USP19,UNC45A,Affinity Capture-MS
+PARP11,RNF114,Affinity Capture-MS
+OTUD5,LANCL2,Affinity Capture-MS
+ZRANB1,CTTNBP2NL,Affinity Capture-MS
+COPS5,KLHL9,Affinity Capture-MS
+COPS6,KLHL9,Affinity Capture-MS
+USP25,KLHL9,Affinity Capture-MS
+KLHL13,KLHL9,Affinity Capture-MS
+VCPIP1,NSFL1C,Affinity Capture-MS
+USP7,YLPM1,Affinity Capture-MS
+USP45,YLPM1,Affinity Capture-MS
+WDR48,YLPM1,Affinity Capture-MS
+USP15,MEPCE,Affinity Capture-MS
+USP4,MEPCE,Affinity Capture-MS
+PRPF4,MEPCE,Affinity Capture-MS
+SART3,MEPCE,Affinity Capture-MS
+TAF1D,PPAN,Affinity Capture-MS
+OTUD5,CTPS2,Affinity Capture-MS
+USP13,DIABLO,Affinity Capture-MS
+USP25,WRNIP1,Affinity Capture-MS
+OSBPL10,WRNIP1,Affinity Capture-MS
+USP36,DHX33,Affinity Capture-MS
+TCEAL1,FEM1C,Affinity Capture-MS
+USP22,ENY2,Affinity Capture-MS
+USP22,ATXN7L3,Affinity Capture-MS
+USP53,YAE1D1,Affinity Capture-MS
+USP39,DDX24,Affinity Capture-MS
+G3BP2,DDX24,Affinity Capture-MS
+OTUD4,PARP11,Affinity Capture-MS
+USP42,WDR18,Affinity Capture-MS
+ZRANB1,STRIP2,Affinity Capture-MS
+TNFAIP3,LRRC47,Affinity Capture-MS
+USP32,LRRC47,Affinity Capture-MS
+USP42,LRRC47,Affinity Capture-MS
+BABAM1,LRRC47,Affinity Capture-MS
+G3BP1,NUFIP2,Affinity Capture-MS
+G3BP2,NUFIP2,Affinity Capture-MS
+COPS6,KLHL42,Affinity Capture-MS
+COPS6,KLHL8,Affinity Capture-MS
+USP12,WDR48,Affinity Capture-MS
+USP46,WDR48,Affinity Capture-MS
+USP1,WDR48,Affinity Capture-MS
+PHLPP2,WDR48,Affinity Capture-MS
+PHLPP1,WDR48,Affinity Capture-MS
+UIMC1,WDR48,Affinity Capture-MS
+WDR20,WDR48,Affinity Capture-MS
+DMWD,WDR48,Affinity Capture-MS
+WDR48,ZBTB2,Affinity Capture-MS
+USP25,USP28,Affinity Capture-MS
+USP21,BEND3,Affinity Capture-MS
+FBXW11,USP37,Affinity Capture-MS
+USP21,MARK4,Affinity Capture-MS
+MARK2,MARK4,Affinity Capture-MS
+USP15,LSM2,Affinity Capture-MS
+USP4,LSM2,Affinity Capture-MS
+PRPF4,LSM2,Affinity Capture-MS
+SART3,LSM2,Affinity Capture-MS
+USP14,SRPRB,Affinity Capture-MS
+USP19,SRPRB,Affinity Capture-MS
+USP50,SRPRB,Affinity Capture-MS
+WDR48,TRMT11,Affinity Capture-MS
+USP42,MRPS35,Affinity Capture-MS
+USP22,AASDHPPT,Affinity Capture-MS
+BABAM1,AASDHPPT,Affinity Capture-MS
+BAP1,UBE2O,Affinity Capture-MS
+YOD1,BLOC1S5,Affinity Capture-MS
+USP42,MRPS14,Affinity Capture-MS
+WDR48,P3H1,Affinity Capture-MS
+BRE,MMS19,Affinity Capture-MS
+USP39,NOC3L,Affinity Capture-MS
+USP3,NXN,Affinity Capture-MS
+AMOT,MPP5,Affinity Capture-MS
+TAF1D,POLR1E,Affinity Capture-MS
+COPS5,COPS7B,Affinity Capture-MS
+COPS6,COPS7B,Affinity Capture-MS
+UCHL1,CCDC14,Affinity Capture-MS
+PHLPP1,RBM15,Affinity Capture-MS
+USP42,YTHDC2,Affinity Capture-MS
+USP15,TUT1,Affinity Capture-MS
+USP4,TUT1,Affinity Capture-MS
+PRPF4,TUT1,Affinity Capture-MS
+SART3,TUT1,Affinity Capture-MS
+PHLPP2,USP46,Affinity Capture-MS
+PHLPP1,USP46,Affinity Capture-MS
+DMWD,USP46,Affinity Capture-MS
+KEAP1,FAM129B,Affinity Capture-MS
+USP42,MRPS26,Affinity Capture-MS
+USP44,MRPL40,Affinity Capture-MS
+G3BP1,NOL6,Affinity Capture-MS
+G3BP1,KRI1,Affinity Capture-MS
+USP21,UPF3B,Affinity Capture-MS
+BABAM1,PYCRL,Affinity Capture-MS
+UIMC1,PYCRL,Affinity Capture-MS
+USP42,MRPS34,Affinity Capture-MS
+ATXN3,OTUB2,Affinity Capture-MS
+USP32P2,OTUB2,Affinity Capture-MS
+COPS6,DDA1,Affinity Capture-MS
+PRPF4,RBM42,Affinity Capture-MS
+USP7,BRCC3,Affinity Capture-MS
+BRE,BRCC3,Affinity Capture-MS
+BABAM1,BRCC3,Affinity Capture-MS
+UIMC1,BRCC3,Affinity Capture-MS
+USP50,DYNC2H1,Affinity Capture-MS
+G3BP1,DHX40,Affinity Capture-MS
+USP43,FN3KRP,Affinity Capture-MS
+SART3,CENPU,Affinity Capture-MS
+USP42,C14orf169,Affinity Capture-MS
+COPS6,ZYG11B,Affinity Capture-MS
+BAP1,IPO4,Affinity Capture-MS
+RAE1,WDR59,Affinity Capture-MS
+USP49,SHCBP1,Affinity Capture-MS
+BTRC,BORA,Affinity Capture-MS
+G3BP1,RPAP2,Affinity Capture-MS
+USP7,MCMBP,Affinity Capture-MS
+KEAP1,MCMBP,Affinity Capture-MS
+UIMC1,THNSL1,Affinity Capture-MS
+USP36,NUP85,Affinity Capture-MS
+USP49,NUP85,Affinity Capture-MS
+USP11,TCEAL4,Affinity Capture-MS
+TCEAL1,TCEAL4,Affinity Capture-MS
+USP4,EDC3,Affinity Capture-MS
+COPS5,FBXO11,Affinity Capture-MS
+COPS6,FBXO11,Affinity Capture-MS
+UCHL5,PAAF1,Affinity Capture-MS
+RAE1,WDR26,Affinity Capture-MS
+COPS5,KLHL15,Affinity Capture-MS
+COPS6,KLHL15,Affinity Capture-MS
+COPS5,DCAF11,Affinity Capture-MS
+COPS6,DCAF11,Affinity Capture-MS
+PARP11,DCAF11,Affinity Capture-MS
+USP7,FBXO38,Affinity Capture-MS
+RAE1,MAGED4B,Affinity Capture-MS
+COPS6,CLPB,Affinity Capture-MS
+UCHL3,CLPB,Affinity Capture-MS
+USP30,CLPB,Affinity Capture-MS
+OSBPL10,CLPB,Affinity Capture-MS
+PHLPP2,SNX27,Affinity Capture-MS
+PHLPP1,SNX27,Affinity Capture-MS
+KEAP1,TSC22D4,Affinity Capture-MS
+BABAM1,SLIRP,Affinity Capture-MS
+USP32P2,SEH1L,Affinity Capture-MS
+RAE1,SEH1L,Affinity Capture-MS
+USP13,ITCH,Affinity Capture-MS
+AMOT,LONP2,Affinity Capture-MS
+USP11,ATAD3B,Affinity Capture-MS
+USP20,ATAD3B,Affinity Capture-MS
+ATXN3,KCTD10,Affinity Capture-MS
+USP13,KCTD10,Affinity Capture-MS
+USP25,KCTD10,Affinity Capture-MS
+KCTD13,KCTD10,Affinity Capture-MS
+USP17L9P,NACAP1,Affinity Capture-MS
+ZRANB1,CTTNBP2,Affinity Capture-MS
+OSBPL9,DTNBP1,Affinity Capture-MS
+USP49,USP44,Affinity Capture-MS
+RAE1,WDR75,Affinity Capture-MS
+BRCC3,FAM175A,Affinity Capture-MS
+BRE,FAM175A,Affinity Capture-MS
+BABAM1,FAM175A,Affinity Capture-MS
+UIMC1,FAM175A,Affinity Capture-MS
+OTUD6B,RPF2,Affinity Capture-MS
+G3BP2,RPF2,Affinity Capture-MS
+SART3,RPF2,Affinity Capture-MS
+TAF1D,POLR1B,Affinity Capture-MS
+USP11,POLR1B,Affinity Capture-MS
+USP21,USP48,Affinity Capture-MS
+RAE1,WDR24,Affinity Capture-MS
+USP14,RGPD5,Affinity Capture-MS
+USP20,RGPD5,Affinity Capture-MS
+COPS6,FBXW9,Affinity Capture-MS
+USP20,POLDIP3,Affinity Capture-MS
+G3BP1,MRPL45,Affinity Capture-MS
+SART3,CMSS1,Affinity Capture-MS
+YOD1,THOC3,Affinity Capture-MS
+USP19,NEURL4,Affinity Capture-MS
+USP20,NEURL4,Affinity Capture-MS
+UIMC1,DPY30,Affinity Capture-MS
+USP32P2,USP32,Affinity Capture-MS
+USP4,USP32,Affinity Capture-MS
+USP46,PPP1R9B,Affinity Capture-MS
+WDR48,PPP1R9B,Affinity Capture-MS
+USP20,GPT2,Affinity Capture-MS
+BABAM1,GPT2,Affinity Capture-MS
+EIF3H,PRRC2B,Affinity Capture-MS
+EIF3F,PRRC2B,Affinity Capture-MS
+USP11,PRRC2B,Affinity Capture-MS
+USP3,PRRC2B,Affinity Capture-MS
+COPS5,KLHL22,Affinity Capture-MS
+COPS6,KLHL22,Affinity Capture-MS
+KLHL13,KLHL22,Affinity Capture-MS
+USP19,ATAD1,Affinity Capture-MS
+BABAM1,ATAD1,Affinity Capture-MS
+USP11,SPRYD3,Affinity Capture-MS
+USP30,MPND,Affinity Capture-MS
+USP36,MPND,Affinity Capture-MS
+USP36,NUDCD1,Affinity Capture-MS
+USP7,PPIL4,Affinity Capture-MS
+ZRANB1,STRIP1,Affinity Capture-MS
+USP19,DOCK7,Affinity Capture-MS
+USP7,DOCK7,Affinity Capture-MS
+OSBPL9,KBTBD6,Affinity Capture-MS
+USP39,TSR2,Affinity Capture-MS
+COPS5,KLHL13,Affinity Capture-MS
+COPS6,KLHL13,Affinity Capture-MS
+USP12,WDR20,Affinity Capture-MS
+USP46,WDR20,Affinity Capture-MS
+PHLPP2,WDR20,Affinity Capture-MS
+PHLPP1,WDR20,Affinity Capture-MS
+WDR48,WDR20,Affinity Capture-MS
+UBL4A,WDR20,Affinity Capture-MS
+OTUD6B,MTDH,Affinity Capture-MS
+WDR48,NAF1,Affinity Capture-MS
+COPS6,SHKBP1,Affinity Capture-MS
+COPS6,FBXO44,Affinity Capture-MS
+USP22,TADA2B,Affinity Capture-MS
+EIF3H,TMEM203,Affinity Capture-MS
+USP20,SYTL4,Affinity Capture-MS
+VCPIP1,ABCC12,Affinity Capture-MS
+USP45,MYL12B,Affinity Capture-MS
+USP22,CCDC101,Affinity Capture-MS
+USP19,SAAL1,Affinity Capture-MS
+COPS6,BTBD9,Affinity Capture-MS
+USP25,BTBD9,Affinity Capture-MS
+USP11,OSBPL9,Affinity Capture-MS
+USP11,OSBPL10,Affinity Capture-MS
+OSBPL9,OSBPL10,Affinity Capture-MS
+OSBPL9,OSBPL11,Affinity Capture-MS
+BTRC,GPRASP2,Affinity Capture-MS
+OSBPL9,HAUS1,Affinity Capture-MS
+COPS5,FBXO17,Affinity Capture-MS
+COPS6,FBXO17,Affinity Capture-MS
+USP44,MRPL53,Affinity Capture-MS
+BABAM1,MRPL53,Affinity Capture-MS
+USP22,TADA1,Affinity Capture-MS
+USP11,SSX2IP,Affinity Capture-MS
+BABAM1,SFXN4,Affinity Capture-MS
+COPS5,LRR1,Affinity Capture-MS
+COPS6,LRR1,Affinity Capture-MS
+CYLD,SPATA2L,Affinity Capture-MS
+USP25,ZG16B,Affinity Capture-MS
+OSBPL10,ZC3H18,Affinity Capture-MS
+BABAM1,FAM210A,Affinity Capture-MS
+USP1,ALDH16A1,Affinity Capture-MS
+OTUD4,RPTN,Affinity Capture-MS
+USP22,ATXN7L2,Affinity Capture-MS
+USP21,RBM45,Affinity Capture-MS
+KEAP1,RBM45,Affinity Capture-MS
+USP15,LRRC15,Affinity Capture-MS
+AMOT,SCLT1,Affinity Capture-MS
+USP36,WDR36,Affinity Capture-MS
+G3BP1,WDR36,Affinity Capture-MS
+G3BP2,WDR36,Affinity Capture-MS
+VCPIP1,UBXN2B,Affinity Capture-MS
+USP11,TCEAL2,Affinity Capture-MS
+TCEAL1,TCEAL2,Affinity Capture-MS
+TCEAL4,TCEAL2,Affinity Capture-MS
+AMOT,DYNLL2,Affinity Capture-MS
+AMOT,MPP7,Affinity Capture-MS
+USP20,PLEKHA7,Affinity Capture-MS
+BRCC3,EXOC8,Affinity Capture-MS
+PAN2,CBWD2,Affinity Capture-MS
+COPS6,MYEOV2,Affinity Capture-MS
+USP22,KLHL23,Affinity Capture-MS
+USP11,AMOT,Affinity Capture-MS
+USP42,AMOT,Affinity Capture-MS
+AMOT,AMOTL1,Affinity Capture-MS
+RAE1,FAM122B,Affinity Capture-MS
+WDR48,FAM122B,Affinity Capture-MS
+KEAP1,SASS6,Affinity Capture-MS
+OTUD5,LONRF2,Affinity Capture-MS
+VCPIP1,UBXN2A,Affinity Capture-MS
+BAP1,ASXL1,Affinity Capture-MS
+RAE1,POLR3H,Affinity Capture-MS
+ZRANB1,PGAM5,Affinity Capture-MS
+USP11,PGAM5,Affinity Capture-MS
+KEAP1,PGAM5,Affinity Capture-MS
+OSBPL10,PGAM5,Affinity Capture-MS
+USP4,DCP1B,Affinity Capture-MS
+USP11,KCTD6,Affinity Capture-MS
+USP39,RPL22L1,Affinity Capture-MS
+G3BP2,RPL22L1,Affinity Capture-MS
+USP11,FBXO45,Affinity Capture-MS
+UBL4A,PDE12,Affinity Capture-MS
+USP46,USP12,Affinity Capture-MS
+PHLPP2,USP12,Affinity Capture-MS
+PHLPP1,USP12,Affinity Capture-MS
+WDR20,USP12,Affinity Capture-MS
+WDR48,USP12,Affinity Capture-MS
+DMWD,USP12,Affinity Capture-MS
+JOSD2,TYSND1,Affinity Capture-MS
+USP11,OTUD1,Affinity Capture-MS
+USP32P2,USP32P2,Affinity Capture-MS
+BAP1,KDM1B,Affinity Capture-MS
+TAF1D,TWISTNB,Affinity Capture-MS
+BAP1,FOXK1,Affinity Capture-MS
+AMOT,FOXK1,Affinity Capture-MS
+USP25,KCTD13,Affinity Capture-MS
+PAN2,PAN3,Affinity Capture-MS
+USP36,SHPRH,Affinity Capture-MS
+USP49,SHPRH,Affinity Capture-MS
+VCPIP1,SVIP,Affinity Capture-MS
+USP43,MAGI3,Affinity Capture-MS
+OSBPL9,BLOC1S2,Affinity Capture-MS
+USP36,ANKRD52,Affinity Capture-MS
+USP49,ANKRD52,Affinity Capture-MS
+UCHL5,INO80E,Affinity Capture-MS
+BTRC,KRT79,Affinity Capture-MS
+EIF3H,EIF3FP3,Affinity Capture-MS
+EIF3F,EIF3FP3,Affinity Capture-MS
+STAMBPL1,HMX3,Affinity Capture-MS
+USP38,HMX3,Affinity Capture-MS
+UIMC1,LOC344382,Affinity Capture-MS
+USP18,USP41,Affinity Capture-MS
+USP32P2,KRT77,Affinity Capture-MS
+USP53,KRT77,Affinity Capture-MS
+USP22,KIF7,Affinity Capture-MS
+USP17L9P,USP17L2,Affinity Capture-MS
+MARK2,CEP85L,Affinity Capture-MS
+USP36,LIN28B,Affinity Capture-MS
+USP22,USP27X,Affinity Capture-MS
+USP15,VSIG8,Affinity Capture-MS
+USP17L9P,USP17L7,Affinity Capture-MS
+USP17L2,USP17L7,Affinity Capture-MS
+USP26,USP17L7,Affinity Capture-MS
+USP20,HERC2P2,Affinity Capture-MS
+USP46,EIF2AK4,Affinity Capture-MS
+TAF1D,RPL6P1,Affinity Capture-MS
+USP8,RPL6P1,Affinity Capture-MS
+USP48,EEF1B2P5,Affinity Capture-MS
+USP22,ATXN7L3B,Affinity Capture-MS
+SLX4,DCAF10,Affinity Capture-MS
+SLX4,ERCC4,Affinity Capture-MS
+SLX4,ERCC1,Affinity Capture-MS
+SLX4,PNMA2,Affinity Capture-MS
+SLX4,TSPYL1,Affinity Capture-MS
+SLX4,PLK1,Affinity Capture-MS
+SLX4,MUS81,Affinity Capture-MS
+SLX4,TERF2,Affinity Capture-MS
+SLX4,SLX1B,Affinity Capture-MS
+SLX4,NUP188,Affinity Capture-MS
+SLX4,EME1,Affinity Capture-MS
+SLX4,TEX10,Affinity Capture-MS
+SLX4,NUP50,Affinity Capture-MS
+SLX4,GLTSCR2,Affinity Capture-MS
+SLX4,SLX4IP,Affinity Capture-MS
+SLX4,TERF2IP,Affinity Capture-MS
+SLX4,PSMB4,Affinity Capture-MS
+SLX4,LRRC1,Affinity Capture-MS
+SLX4,GID8,Affinity Capture-MS
+SLX4,PGAM5,Affinity Capture-MS
+SLX4,KPNA1,Affinity Capture-MS
+SLX4,MSH2,Affinity Capture-MS
+SLX4,MSH3,Affinity Capture-MS
+SLX4IP,PAGR1,Affinity Capture-MS
+SLX4IP,RNF20,Affinity Capture-MS
+SLX4IP,FBXW4,Affinity Capture-MS
+SLX4IP,ERCC4,Affinity Capture-MS
+SLX4IP,SLX4,Affinity Capture-MS
+SLX4IP,STK4,Affinity Capture-MS
+SLX4IP,SYNE2,Affinity Capture-MS
+SLX4IP,COPS7A,Affinity Capture-MS
+SLX4IP,CUL1,Affinity Capture-MS
+SLX4IP,RPN1,Affinity Capture-MS
+SLX4IP,RNH1,Affinity Capture-MS
+SLX1B,FKBP10,Affinity Capture-MS
+SLX1B,PAGR1,Affinity Capture-MS
+SLX1B,GEMIN4,Affinity Capture-MS
+SLX1B,PSMB2,Affinity Capture-MS
+SLX1B,SLX4,Affinity Capture-MS
+SLX1B,SLIRP,Affinity Capture-MS
+SLX1B,PSMB3,Affinity Capture-MS
+SLX1B,ERCC4,Affinity Capture-MS
+SLX1B,ERCC1,Affinity Capture-MS
+SLX1B,PSMA1,Affinity Capture-MS
+SLX1B,GEMIN6,Affinity Capture-MS
+SLX1B,TIMM17B,Affinity Capture-MS
+SLX1B,UQCRC2,Affinity Capture-MS
+SLX1B,SMN1,Affinity Capture-MS
+SLX1B,S100A8,Affinity Capture-MS
+SLX1B,PSMB5,Affinity Capture-MS
+SLX1B,PSME3,Affinity Capture-MS
+SLX1B,SLX4IP,Affinity Capture-MS
+SLX1B,PLK1,Affinity Capture-MS
+SLX1B,PSMA2,Affinity Capture-MS
+SLX1B,DDX20,Affinity Capture-MS
+SLX1B,MUS81,Affinity Capture-MS
+SLX1B,EME1,Affinity Capture-MS
+SLX1B,RAN,Affinity Capture-MS
+SLX1B,PSMA3,Affinity Capture-MS
+SLX1B,PSMA7,Affinity Capture-MS
+SLX1B,ANXA1,Affinity Capture-MS
+SLX1B,PSMA6,Affinity Capture-MS
+SLX1B,LOC344382,Affinity Capture-MS
+SLX1B,PSMA4,Affinity Capture-MS
+SLX1B,PSMB1,Affinity Capture-MS
+SLX1B,HUWE1,Affinity Capture-MS
+SLX1B,CUL1,Affinity Capture-MS
+SLX1B,SLC25A13,Affinity Capture-MS
+SLX1B,MYH11,Affinity Capture-MS
+SLX1B,CALM1,Affinity Capture-MS
+SLX1B,PSMD6,Affinity Capture-MS
+SLX1B,PSMD11,Affinity Capture-MS
+SLX1B,PSMA5,Affinity Capture-MS
+PLK1,SPAG9,Affinity Capture-MS
+PLK1,BICD2,Affinity Capture-MS
+PLK1,ERCC6L,Affinity Capture-MS
+PLK1,BORA,Affinity Capture-MS
+PLK1,C2orf44,Affinity Capture-MS
+PLK1,PPP6R2,Affinity Capture-MS
+PLK1,TMF1,Affinity Capture-MS
+PLK1,BICD1,Affinity Capture-MS
+PLK1,DCTPP1,Affinity Capture-MS
+PLK1,FABP3,Affinity Capture-MS
+PLK1,ANKRD44,Affinity Capture-MS
+PLK1,OSBPL6,Affinity Capture-MS
+PLK1,LPL,Affinity Capture-MS
+PLK1,PTHLH,Affinity Capture-MS
+PLK1,BTN1A1,Affinity Capture-MS
+PLK1,CEP97,Affinity Capture-MS
+PLK1,SRPX,Affinity Capture-MS
+PLK1,ANKRD28,Affinity Capture-MS
+PLK1,ANKRD52,Affinity Capture-MS
+PLK1,SLX4IP,Affinity Capture-MS
+PLK1,GTF3C3,Affinity Capture-MS
+PLK1,RGPD4,Affinity Capture-MS
+PLK1,SLX4,Affinity Capture-MS
+MEPCE,SNRNP200,Affinity Capture-MS
+MEPCE,CCDC87,Affinity Capture-MS
+MEPCE,CCT4,Affinity Capture-MS
+MEPCE,CDK9,Affinity Capture-MS
+MEPCE,DDX5,Affinity Capture-MS
+MEPCE,FBL,Affinity Capture-MS
+MEPCE,HNRNPA1,Affinity Capture-MS
+MEPCE,HNRNPA2B1,Affinity Capture-MS
+MEPCE,HNRNPH1,Affinity Capture-MS
+MEPCE,HNRNPK,Affinity Capture-MS
+MEPCE,HNRNPR,Affinity Capture-MS
+MEPCE,IGF2BP1,Affinity Capture-MS
+MEPCE,ILF2,Affinity Capture-MS
+MEPCE,KPNA2,Affinity Capture-MS
+MEPCE,KPNB1,Affinity Capture-MS
+MEPCE,LARP7,Affinity Capture-MS
+MEPCE,METTL16,Affinity Capture-MS
+MEPCE,NOP56,Affinity Capture-MS
+MEPCE,PCBP2,Affinity Capture-MS
+MEPCE,PRPF3,Affinity Capture-MS
+MEPCE,PRPF31,Affinity Capture-MS
+MEPCE,PRPF4,Affinity Capture-MS
+MEPCE,TUT1,Affinity Capture-MS
+MEPCE,RPAP1,Affinity Capture-MS
+MEPCE,RQCD1,Affinity Capture-MS
+MEPCE,RUVBL1,Affinity Capture-MS
+MEPCE,RUVBL2,Affinity Capture-MS
+MEPCE,SART3,Affinity Capture-MS
+MEPCE,SYNCRIP,Affinity Capture-MS
+RPAP2,URI1,Affinity Capture-MS
+RPAP2,RPAP3,Affinity Capture-MS
+RPAP2,KHDRBS2,Affinity Capture-MS
+RPAP2,PIH1D1,Affinity Capture-MS
+RPAP2,POLR2A,Affinity Capture-MS
+RPAP2,POLR2B,Affinity Capture-MS
+RPAP2,POLR2H,Affinity Capture-MS
+RPAP2,RUVBL2,Affinity Capture-MS
+RPAP2,GPN1,Affinity Capture-MS
+CDK7,RUVBL2,Affinity Capture-MS
+CDK7,CCNH,Affinity Capture-MS
+CDK7,ERCC3,Affinity Capture-MS
+CDK7,MNAT1,Affinity Capture-MS
+CDK9,MEPCE,Affinity Capture-MS
+CDK9,BRD4,Affinity Capture-MS
+CDK9,CCDC87,Affinity Capture-MS
+CDK9,CCNT1,Affinity Capture-MS
+CDK9,DDX5,Affinity Capture-MS
+CDK9,HNRNPA1,Affinity Capture-MS
+CDK9,HNRNPA2B1,Affinity Capture-MS
+CDK9,HNRNPH1,Affinity Capture-MS
+CDK9,HNRNPK,Affinity Capture-MS
+CDK9,HSP90AB1,Affinity Capture-MS
+CDK9,LARP7,Affinity Capture-MS
+CDK9,PCBP2,Affinity Capture-MS
+CDK9,RQCD1,Affinity Capture-MS
+CDK9,RUVBL1,Affinity Capture-MS
+CDK9,RUVBL2,Affinity Capture-MS
+CDK9,SYNCRIP,Affinity Capture-MS
+ERCC3,CDK7,Affinity Capture-MS
+RPAP3,URI1,Affinity Capture-MS
+RPAP3,PIH1D1,Affinity Capture-MS
+RPAP3,POLR2B,Affinity Capture-MS
+RPAP3,GPN1,Affinity Capture-MS
+GTF2A1,GCN1L1,Affinity Capture-MS
+GTF2A1,TBPL1,Affinity Capture-MS
+GTF2F2,POLR2A,Affinity Capture-MS
+GTF2F2,POLR2B,Affinity Capture-MS
+HNRNPA1,MEPCE,Affinity Capture-MS
+HNRNPA1,DDX17,Affinity Capture-MS
+HNRNPA1,DDX5,Affinity Capture-MS
+HNRNPA1,HSP90AB1,Affinity Capture-MS
+HNRNPA1,IGF2BP1,Affinity Capture-MS
+HNRNPA1,IGF2BP3,Affinity Capture-MS
+HNRNPA1,UBR2,Affinity Capture-MS
+HNRNPA1,HNRNPA2B1,Affinity Capture-MS
+HNRNPA1,HNRNPH1,Affinity Capture-MS
+HNRNPA1,HNRNPK,Affinity Capture-MS
+HNRNPA1,HNRNPR,Affinity Capture-MS
+HNRNPA1,ILF2,Affinity Capture-MS
+HNRNPA1,ILF3,Affinity Capture-MS
+HNRNPA1,SYNCRIP,Affinity Capture-MS
+HNRNPH1,CCT4,Affinity Capture-MS
+HNRNPH1,DDX17,Affinity Capture-MS
+HNRNPH1,DDX5,Affinity Capture-MS
+HNRNPH1,KPNA2,Affinity Capture-MS
+HNRNPH1,HNRNPA1,Affinity Capture-MS
+HNRNPH1,HNRNPA2B1,Affinity Capture-MS
+HNRNPH1,HNRNPD,Affinity Capture-MS
+HNRNPH1,HNRNPK,Affinity Capture-MS
+HNRNPH1,SYNCRIP,Affinity Capture-MS
+KHDRBS2,DDX17,Affinity Capture-MS
+KHDRBS2,DDX5,Affinity Capture-MS
+KHDRBS2,HNRNPA1,Affinity Capture-MS
+KHDRBS2,HNRNPA2B1,Affinity Capture-MS
+KHDRBS2,HNRNPH1,Affinity Capture-MS
+KHDRBS2,HNRNPK,Affinity Capture-MS
+KHDRBS2,HNRNPR,Affinity Capture-MS
+POLR2B,RPAP3,Affinity Capture-MS
+POLR2B,POLR2G,Affinity Capture-MS
+POLR2B,POLR2H,Affinity Capture-MS
+POLR2J,RPAP2,Affinity Capture-MS
+POLR2J,RPAP3,Affinity Capture-MS
+POLR2J,GPN1,Affinity Capture-MS
+POLR2J,CTDP1,Affinity Capture-MS
+POLR2J,GTF2F2,Affinity Capture-MS
+POLR2J,POLR2B,Affinity Capture-MS
+POLR2J,POLR2G,Affinity Capture-MS
+POLR2J,POLR2H,Affinity Capture-MS
+POLR2J,RPAP1,Affinity Capture-MS
+RPAP1,ARHGAP23,Affinity Capture-MS
+RPAP1,HNRNPA1,Affinity Capture-MS
+RPAP1,IGF2BP1,Affinity Capture-MS
+RPAP1,GPN1,Affinity Capture-MS
+RPAP1,POLR2B,Affinity Capture-MS
+RUVBL1,CCDC87,Affinity Capture-MS
+RUVBL1,PCBP2,Affinity Capture-MS
+RUVBL1,RUVBL2,Affinity Capture-MS
+RUVBL2,CCDC87,Affinity Capture-MS
+RUVBL2,DDX42,Affinity Capture-MS
+RUVBL2,RPAP3,Affinity Capture-MS
+RUVBL2,TTI1,Affinity Capture-MS
+RUVBL2,CCAR2,Affinity Capture-MS
+RUVBL2,MATR3,Affinity Capture-MS
+RUVBL2,PIH1D1,Affinity Capture-MS
+RUVBL2,PCBP2,Affinity Capture-MS
+RUVBL2,POLR2B,Affinity Capture-MS
+RUVBL2,RFC4,Affinity Capture-MS
+RUVBL2,DPCD,Affinity Capture-MS
+RUVBL2,RUVBL1,Affinity Capture-MS
+RUVBL2,SRCAP,Affinity Capture-MS
+RUVBL2,UXT,Affinity Capture-MS
+GPN1,RPAP2,Affinity Capture-MS
+GPN1,CCT5,Affinity Capture-MS
+GPN1,RPAP3,Affinity Capture-MS
+GPN1,HNRNPH1,Affinity Capture-MS
+GPN1,PIH1D1,Affinity Capture-MS
+GPN1,POLR2B,Affinity Capture-MS
+GPN1,POLR3A,Affinity Capture-MS
+GPN1,RPAP1,Affinity Capture-MS
+MEPCE,PPIH,Affinity Capture-MS
+CDK9,TUBB4B,Affinity Capture-MS
+GTF2E1,GTF2E2,Affinity Capture-MS
+TCEA1,UBR5,Affinity Capture-MS
+GPN1,CCT4,Affinity Capture-MS
+MEPCE,EIF4A1,Affinity Capture-MS
+CDK9,HEXIM2,Affinity Capture-MS
+GTF2B,POLR2A,Affinity Capture-MS
+HNRNPA1,PRMT1,Affinity Capture-MS
+TCEA2,CAND1,Affinity Capture-MS
+MEPCE,HNRNPUL1,Affinity Capture-MS
+HNRNPA1,HNRNPUL2,Affinity Capture-MS
+TAF10,TAF4,Affinity Capture-MS
+TAF10,TAF6L,Affinity Capture-MS
+KHDRBS2,SYNCRIP,Affinity Capture-MS
+KHDRBS2,HNRNPC,Affinity Capture-MS
+MEPCE,CCT2,Affinity Capture-MS
+MEPCE,GTF2I,Affinity Capture-MS
+MEPCE,RFC4,Affinity Capture-MS
+HNRNPA1,IGF2BP2,Affinity Capture-MS
+POLR2J,GTF2B,Affinity Capture-MS
+POLR3H,POLR3B,Affinity Capture-MS
+KHDRBS2,IGF2BP1,Affinity Capture-MS
+RPAP2,POLR3A,Affinity Capture-MS
+RUVBL2,ACTB,Affinity Capture-MS
+RUVBL2,ACTG1,Affinity Capture-MS
+RUVBL2,URI1,Affinity Capture-MS
+CDK9,FKBP5,Affinity Capture-MS
+HNRNPA1,LARP7,Affinity Capture-MS
+CDK9,HEXIM1,Affinity Capture-MS
+TAF13,TAF4,Affinity Capture-MS
+RPAP3,POLR2E,Affinity Capture-MS
+MEPCE,EFTUD2,Affinity Capture-MS
+GPN1,HNRNPU,Affinity Capture-MS
+RUVBL2,YEATS4,Affinity Capture-MS
+MEPCE,HEXIM1,Affinity Capture-MS
+MEPCE,CKAP5,Affinity Capture-MS
+CDK7,ERCC5,Affinity Capture-MS
+MEPCE,HNRNPUL2,Affinity Capture-MS
+MEPCE,SNRPB,Affinity Capture-MS
+MEPCE,SNRPN,Affinity Capture-MS
+RPAP1,HSPD1,Affinity Capture-MS
+MEPCE,ANP32A,Affinity Capture-MS
+RUVBL2,EFTUD2,Affinity Capture-MS
+MEPCE,HSPA5,Affinity Capture-MS
+MEPCE,YBX1,Affinity Capture-MS
+MEPCE,NHP2L1,Affinity Capture-MS
+TAF13,TAF5,Affinity Capture-MS
+GTF2A1,GTF2A2,Affinity Capture-MS
+RPAP1,POLR2C,Affinity Capture-MS
+CDK9,IGF2BP1,Affinity Capture-MS
+KHDRBS2,PRMT1,Affinity Capture-MS
+MEPCE,KIF5B,Affinity Capture-MS
+RUVBL2,NTPCR,Affinity Capture-MS
+TBPL1,TAF4,Affinity Capture-MS
+MEPCE,SART1,Affinity Capture-MS
+HNRNPA1,HNRNPM,Affinity Capture-MS
+POLR2J,GTF2F1,Affinity Capture-MS
+TBPL1,GTF2A2,Affinity Capture-MS
+MEPCE,CCNT1,Affinity Capture-MS
+GTF2A1,TAF4,Affinity Capture-MS
+GTF2A1,HSPA9,Affinity Capture-MS
+HNRNPA1,RBMX,Affinity Capture-MS
+RUVBL2,ZNHIT2,Affinity Capture-MS
+TBPL1,HSPA9,Affinity Capture-MS
+MEPCE,LRRC40,Affinity Capture-MS
+MEPCE,LSM2,Affinity Capture-MS
+MEPCE,SRP72,Affinity Capture-MS
+MEPCE,CDK11B,Affinity Capture-MS
+MEPCE,ANP32B,Affinity Capture-MS
+TBPL1,TAF6,Affinity Capture-MS
+GTF2A1,TAF6,Affinity Capture-MS
+MEPCE,ARID3B,Affinity Capture-MS
+MEPCE,LUC7L3,Affinity Capture-MS
+CDK9,HSPA2,Affinity Capture-MS
+CDK9,SART3,Affinity Capture-MS
+MEPCE,CSNK2B,Affinity Capture-MS
+MEPCE,SAP30BP,Affinity Capture-MS
+RUVBL2,PFDN6,Affinity Capture-MS
+TAF10,TAF5L,Affinity Capture-MS
+MEPCE,HNRNPA0,Affinity Capture-MS
+RUVBL1,HSPA8,Affinity Capture-MS
+CDK7,HSP90AB1,Affinity Capture-MS
+HNRNPA1,HNRNPC,Affinity Capture-MS
+MEPCE,CAND1,Affinity Capture-MS
+CDK9,CCT4,Affinity Capture-MS
+TAF10,TAF2,Affinity Capture-MS
+MEPCE,LSM4,Affinity Capture-MS
+MEPCE,ACTB,Affinity Capture-MS
+MEPCE,ACTG1,Affinity Capture-MS
+HNRNPA1,HSPA9,Affinity Capture-MS
+RUVBL2,PDRG1,Affinity Capture-MS
+MEPCE,TRIM28,Affinity Capture-MS
+GPN1,TCP1,Affinity Capture-MS
+HNRNPA1,SRP72,Affinity Capture-MS
+GTF2A1,TAF5,Affinity Capture-MS
+HNRNPH1,CCT5,Affinity Capture-MS
+MEPCE,PRPF6,Affinity Capture-MS
+RPAP2,POLR2G,Affinity Capture-MS
+RUVBL1,NTPCR,Affinity Capture-MS
+GPN1,POLR2A,Affinity Capture-MS
+CDK9,HSPA6,Affinity Capture-MS
+POLR3H,POLR3D,Affinity Capture-MS
+CDK9,HNRNPU,Affinity Capture-MS
+RUVBL2,POLR2E,Affinity Capture-MS
+RPAP2,PDRG1,Affinity Capture-MS
+CDK9,MATR3,Affinity Capture-MS
+GTF2F2,POLR2G,Affinity Capture-MS
+GTF2F2,POLR2H,Affinity Capture-MS
+CDK9,CCAR2,Affinity Capture-MS
+HNRNPA1,MRPS27,Affinity Capture-MS
+RUVBL1,ACTB,Affinity Capture-MS
+RUVBL1,ACTG1,Affinity Capture-MS
+RUVBL2,KPNB1,Affinity Capture-MS
+POLR3H,POLR3C,Affinity Capture-MS
+CDK9,HNRNPD,Affinity Capture-MS
+GTF2E2,TPR,Affinity Capture-MS
+MEPCE,KPNA6,Affinity Capture-MS
+MEPCE,RPS4X,Affinity Capture-MS
+ERCC3,GTF2H1,Affinity Capture-MS
+RPAP3,POLR3A,Affinity Capture-MS
+RUVBL2,HSPA5,Affinity Capture-MS
+TCEA2,HNRNPK,Affinity Capture-MS
+CDK9,KPNA2,Affinity Capture-MS
+KHDRBS2,ILF2,Affinity Capture-MS
+CDK9,HSPA5,Affinity Capture-MS
+MEPCE,IGF2BP2,Affinity Capture-MS
+HNRNPA1,PABPC1,Affinity Capture-MS
+MEPCE,ZFR,Affinity Capture-MS
+CDK9,RFC4,Affinity Capture-MS
+MEPCE,NTPCR,Affinity Capture-MS
+MEPCE,HNRNPD,Affinity Capture-MS
+HNRNPH1,RQCD1,Affinity Capture-MS
+MEPCE,HEXIM2,Affinity Capture-MS
+RPAP2,MED17,Affinity Capture-MS
+RPAP1,SRP72,Affinity Capture-MS
+RUVBL1,C12orf45,Affinity Capture-MS
+HNRNPA1,CCNT1,Affinity Capture-MS
+HNRNPA1,KHSRP,Affinity Capture-MS
+TBPL1,TAF5,Affinity Capture-MS
+RUVBL2,PPP1CA,Affinity Capture-MS
+RUVBL2,HNRNPU,Affinity Capture-MS
+POLR3H,POLR3E,Affinity Capture-MS
+TCEA2,TNPO1,Affinity Capture-MS
+TAF10,SPTAN1,Affinity Capture-MS
+MEPCE,HSP90AB1,Affinity Capture-MS
+MEPCE,CCAR2,Affinity Capture-MS
+RPAP1,EFTUD2,Affinity Capture-MS
+RUVBL1,DDX42,Affinity Capture-MS
+RUVBL2,RFC5,Affinity Capture-MS
+MEPCE,ILF3,Affinity Capture-MS
+RUVBL2,C12orf45,Affinity Capture-MS
+HNRNPA1,ZFR,Affinity Capture-MS
+TAF10,SUPT7L,Affinity Capture-MS
+RPAP2,INTS1,Affinity Capture-MS
+CDK9,HNRNPR,Affinity Capture-MS
+CDK9,ILF2,Affinity Capture-MS
+RUVBL2,RPS4X,Affinity Capture-MS
+CDK9,CCT3,Affinity Capture-MS
+MEPCE,CCT8,Affinity Capture-MS
+CDK9,TRIM28,Affinity Capture-MS
+HNRNPA1,YTHDF2,Affinity Capture-MS
+MEPCE,AKAP7,Affinity Capture-MS
+CDK9,IGF2BP2,Affinity Capture-MS
+GPN1,URI1,Affinity Capture-MS
+MEPCE,SET,Affinity Capture-MS
+RUVBL2,TTI2,Affinity Capture-MS
+RPAP3,POLR2A,Affinity Capture-MS
+RUVBL2,POLR2H,Affinity Capture-MS
+TCEA2,PNN,Affinity Capture-MS
+RUVBL1,DPCD,Affinity Capture-MS
+GPN1,POLR3E,Affinity Capture-MS
+GPN1,POLR3B,Affinity Capture-MS
+GTF2F2,CTDP1,Affinity Capture-MS
+RUVBL2,PCBP1,Affinity Capture-MS
+MEPCE,HSPA2,Affinity Capture-MS
+HNRNPH1,HNRNPH2,Affinity Capture-MS
+HNRNPH1,HNRNPU,Affinity Capture-MS
+RUVBL1,CAPNS1,Affinity Capture-MS
+MEPCE,DDX23,Affinity Capture-MS
+MEPCE,DDX17,Affinity Capture-MS
+HNRNPA1,RBM39,Affinity Capture-MS
+CDK9,RPS4X,Affinity Capture-MS
+KHDRBS2,KHDRBS1,Affinity Capture-MS
+MEPCE,DDX42,Affinity Capture-MS
+RPAP2,CCT5,Affinity Capture-MS
+RUVBL2,ACTL6A,Affinity Capture-MS
+MEPCE,MATR3,Affinity Capture-MS
+RPAP2,PPP1CA,Affinity Capture-MS
+RPAP2,TCP1,Affinity Capture-MS
+RPAP3,PPP1CA,Affinity Capture-MS
+POLR3H,POLR3A,Affinity Capture-MS
+RPAP1,ZFR,Affinity Capture-MS
+MEPCE,MAP2K2,Affinity Capture-MS
+RPAP3,UXT,Affinity Capture-MS
+ERCC3,GTF2H3,Affinity Capture-MS
+KHDRBS2,RBMX,Affinity Capture-MS
+HNRNPA1,HSPA2,Affinity Capture-MS
+GPN1,KPNA2,Affinity Capture-MS
+KHDRBS2,HNRNPDL,Affinity Capture-MS
+MEPCE,TRIP12,Affinity Capture-MS
+GPN1,RUVBL1,Affinity Capture-MS
+DDX5,IPO11,Affinity Capture-MS
+CDK9,CCNT2,Affinity Capture-MS
+RUVBL2,TRIM28,Affinity Capture-MS
+TAF10,GOLGA3,Affinity Capture-MS
+GTF2E2,HNRNPA1,Affinity Capture-MS
+RUVBL2,RQCD1,Affinity Capture-MS
+HNRNPA1,KIAA0368,Affinity Capture-MS
+HNRNPH1,YTHDF2,Affinity Capture-MS
+TAF10,TAF9,Affinity Capture-MS
+MEPCE,RPS2,Affinity Capture-MS
+RPAP2,INTS7,Affinity Capture-MS
+CDK9,CCT8,Affinity Capture-MS
+HNRNPA1,ARHGAP23,Affinity Capture-MS
+GPN1,EFTUD2,Affinity Capture-MS
+HNRNPA1,SYTL2,Affinity Capture-MS
+RPAP1,POLR3A,Affinity Capture-MS
+RPAP3,RFC5,Affinity Capture-MS
+RUVBL1,KPNB1,Affinity Capture-MS
+RUVBL2,DNM2,Affinity Capture-MS
+GPN1,CCT8,Affinity Capture-MS
+RPAP2,UXT,Affinity Capture-MS
+RPAP3,EFTUD2,Affinity Capture-MS
+HNRNPA1,ARID2,Affinity Capture-MS
+TCEA1,SUPT6H,Affinity Capture-MS
+GTF2B,CTDP1,Affinity Capture-MS
+RUVBL1,PIH1D1,Affinity Capture-MS
+MEPCE,RBMX,Affinity Capture-MS
+HNRNPA1,HNRNPAB,Affinity Capture-MS
+KHDRBS2,EHBP1,Affinity Capture-MS
+GPN1,HSPA8,Affinity Capture-MS
+RPAP2,POLR3B,Affinity Capture-MS
+KHDRBS2,ARID2,Affinity Capture-MS
+MEPCE,SNRPD2,Affinity Capture-MS
+TAF10,ARHGEF1,Affinity Capture-MS
+POLR2J,POLR2E,Affinity Capture-MS
+MEPCE,ARHGAP23,Affinity Capture-MS
+RPAP1,ELAVL1,Affinity Capture-MS
+RPAP3,PDRG1,Affinity Capture-MS
+MEPCE,DHX9,Affinity Capture-MS
+MEPCE,IPO5,Affinity Capture-MS
+TAF10,KAT2B,Affinity Capture-MS
+MEPCE,IGF2BP3,Affinity Capture-MS
+RPAP2,KHDRBS3,Affinity Capture-MS
+TAF10,TRRAP,Affinity Capture-MS
+KHDRBS2,TAF3,Affinity Capture-MS
+MEPCE,LUC7L2,Affinity Capture-MS
+RUVBL2,ACTR6,Affinity Capture-MS
+TAF10,SNAPC4,Affinity Capture-MS
+MEPCE,YTHDF2,Affinity Capture-MS
+RPAP3,CCT5,Affinity Capture-MS
+TAF10,SKIV2L2,Affinity Capture-MS
+MEPCE,KPNA1,Affinity Capture-MS
+MEPCE,SNRNP27,Affinity Capture-MS
+CDK7,GTF2H3,Affinity Capture-MS
+RPAP1,CENPC,Affinity Capture-MS
+RPAP1,ILF3,Affinity Capture-MS
+TCEA2,EIF4A3,Affinity Capture-MS
+TAF10,TAF1,Affinity Capture-MS
+KHDRBS2,DSG1,Affinity Capture-MS
+MEPCE,USP39,Affinity Capture-MS
+TAF10,TAF9B,Affinity Capture-MS
+MEPCE,PHGDH,Affinity Capture-MS
+RPAP1,POLR3B,Affinity Capture-MS
+HNRNPA1,PABPC4,Affinity Capture-MS
+MEPCE,UBE2S,Affinity Capture-MS
+RPAP2,INTS4,Affinity Capture-MS
+TCEA2,TCEA1,Affinity Capture-MS
+MEPCE,RFC5,Affinity Capture-MS
+MEPCE,PARP1,Affinity Capture-MS
+RPAP3,POLR1A,Affinity Capture-MS
+ERCC3,GTF2H2,Affinity Capture-MS
+RPAP1,HSPA8,Affinity Capture-MS
+RUVBL1,HSPA1L,Affinity Capture-MS
+MEPCE,CAPNS1,Affinity Capture-MS
+TAF13,TAF6,Affinity Capture-MS
+GTF2F1,POLR2A,Affinity Capture-MS
+RUVBL2,NOP58,Affinity Capture-MS
+TCEA1,POLR2A,Affinity Capture-MS
+MEPCE,LSM7,Affinity Capture-MS
+SRSF9,HNRNPR,Affinity Capture-MS
+TCEA1,SF3B2,Affinity Capture-MS
+CDK9,CKAP5,Affinity Capture-MS
+KHDRBS2,HNRNPA0,Affinity Capture-MS
+MEPCE,SNRPA1,Affinity Capture-MS
+POLR3H,POLR2H,Affinity Capture-MS
+RUVBL2,NFRKB,Affinity Capture-MS
+MEPCE,PRPF8,Affinity Capture-MS
+POLR3H,POLR3G,Affinity Capture-MS
+KHDRBS2,IGF2BP3,Affinity Capture-MS
+MEPCE,ARHGEF1,Affinity Capture-MS
+MEPCE,SNRPEP2,Affinity Capture-MS
+CDK9,RBM39,Affinity Capture-MS
+TAF10,KAT2A,Affinity Capture-MS
+MEPCE,SNRPG,Affinity Capture-MS
+TCEA1,TCEA2,Affinity Capture-MS
+MEPCE,DOCK1,Affinity Capture-MS
+MEPCE,SF3B2,Affinity Capture-MS
+GPN1,CCT6A,Affinity Capture-MS
+MEPCE,RFC3,Affinity Capture-MS
+KHDRBS2,HNRNPL,Affinity Capture-MS
+MEPCE,TRIP13,Affinity Capture-MS
+RPAP1,BAG6,Affinity Capture-MS
+MEPCE,ALYREF,Affinity Capture-MS
+HNRNPA1,PRMT8,Affinity Capture-MS
+RUVBL2,TFPT,Affinity Capture-MS
+TAF10,GTF3C5,Affinity Capture-MS
+TAF10,PFKL,Affinity Capture-MS
+CDK9,ARID3B,Affinity Capture-MS
+TAF10,DHX15,Affinity Capture-MS
+MEPCE,YBX3,Affinity Capture-MS
+RUVBL1,ELAVL1,Affinity Capture-MS
+MEPCE,HNRNPC,Affinity Capture-MS
+GTF2E2,MTA2,Affinity Capture-MS
+TAF10,TADA1,Affinity Capture-MS
+KHDRBS2,HNRNPUL2,Affinity Capture-MS
+RPAP1,KIF11,Affinity Capture-MS
+MEPCE,ANP32E,Affinity Capture-MS
+TAF13,TAF1,Affinity Capture-MS
+RUVBL2,DMAP1,Affinity Capture-MS
+RPAP1,CCT6A,Affinity Capture-MS
+GTF2A1,DOCK7,Affinity Capture-MS
+RPAP2,GPN3,Affinity Capture-MS
+SRSF9,NCBP1,Affinity Capture-MS
+TAF13,TAF7L,Affinity Capture-MS
+POLR3H,PCBP2,Affinity Capture-MS
+TAF10,TAF3,Affinity Capture-MS
+MEPCE,HNRNPH2,Affinity Capture-MS
+HNRNPH1,KHSRP,Affinity Capture-MS
+MEPCE,SNRPD3,Affinity Capture-MS
+RPAP2,INTS3,Affinity Capture-MS
+RPAP2,MED4,Affinity Capture-MS
+KHDRBS2,RBM39,Affinity Capture-MS
+POLR3H,HSPA5,Affinity Capture-MS
+HNRNPA1,HNRNPCL2,Affinity Capture-MS
+RUVBL2,INO80E,Affinity Capture-MS
+MEPCE,ARF6,Affinity Capture-MS
+MEPCE,TUBA8,Affinity Capture-MS
+KHDRBS2,ILF3,Affinity Capture-MS
+TAF13,PARP1,Affinity Capture-MS
+TCEA1,SF3B3,Affinity Capture-MS
+MEPCE,CSNK2A2,Affinity Capture-MS
+TCEA1,SF3A1,Affinity Capture-MS
+TAF10,HSP90AB1,Affinity Capture-MS
+RPAP2,GTF3C3,Affinity Capture-MS
+MEPCE,IPO9,Affinity Capture-MS
+MEPCE,MAGED2,Affinity Capture-MS
+KHDRBS2,HNRNPH3,Affinity Capture-MS
+KHDRBS2,PRMT5,Affinity Capture-MS
+MEPCE,RANGAP1,Affinity Capture-MS
+MEPCE,KPNA3,Affinity Capture-MS
+TAF10,ELAVL1,Affinity Capture-MS
+MEPCE,YWHAZ,Affinity Capture-MS
+HNRNPA1,TARDBP,Affinity Capture-MS
+HNRNPH1,HNRNPM,Affinity Capture-MS
+MEPCE,SRP68,Affinity Capture-MS
+TCEA1,INTS1,Affinity Capture-MS
+RPAP3,HSP90AB1,Affinity Capture-MS
+MEPCE,AK2,Affinity Capture-MS
+MEPCE,CAPZB,Affinity Capture-MS
+MEPCE,EXOSC5,Affinity Capture-MS
+MEPCE,RPLP0,Affinity Capture-MS
+MEPCE,XPO1,Affinity Capture-MS
+GTF2F1,POLR2B,Affinity Capture-MS
+MEPCE,SNRPF,Affinity Capture-MS
+RPAP3,PFDN2,Affinity Capture-MS
+TAF10,ARHGEF18,Affinity Capture-MS
+MEPCE,KPNA5,Affinity Capture-MS
+RPAP2,YBX1,Affinity Capture-MS
+CDK9,CCT5,Affinity Capture-MS
+RUVBL1,DMAP1,Affinity Capture-MS
+MEPCE,CCNT2,Affinity Capture-MS
+ERCC3,CCNH,Affinity Capture-MS
+GTF2F1,KPNA2,Affinity Capture-MS
+TAF10,ARHGEF2,Affinity Capture-MS
+HNRNPA1,UBR1,Affinity Capture-MS
+TAF10,ERCC5,Affinity Capture-MS
+GPN1,HSP90AB1,Affinity Capture-MS
+CDK7,GTF2H4,Affinity Capture-MS
+GTF2A1,CNOT1,Affinity Capture-MS
+RUVBL2,UCHL5,Affinity Capture-MS
+TAF10,TADA3,Affinity Capture-MS
+POLR2J,HNRNPU,Affinity Capture-MS
+GPN1,HSP90AA2P,Affinity Capture-MS
+RPAP2,EIF4A2,Affinity Capture-MS
+RUVBL2,TELO2,Affinity Capture-MS
+KHDRBS2,RPS3,Affinity Capture-MS
+TCEA2,SNW1,Affinity Capture-MS
+RPAP2,POLR2C,Affinity Capture-MS
+MEPCE,U2AF1,Affinity Capture-MS
+RPAP3,EIF4A1,Affinity Capture-MS
+RPAP1,DDX3Y,Affinity Capture-MS
+CDK9,YBX1,Affinity Capture-MS
+GTF2A1,TBP,Affinity Capture-MS
+GTF2A1,TBPL2,Affinity Capture-MS
+KHDRBS2,FGA,Affinity Capture-MS
+KHDRBS2,YBX1,Affinity Capture-MS
+POLR2J,DDB1,Affinity Capture-MS
+GTF2A1,HNRNPA1,Affinity Capture-MS
+GTF2B,POLR2H,Affinity Capture-MS
+MEPCE,C14orf166,Affinity Capture-MS
+KHDRBS2,FGG,Affinity Capture-MS
+RPAP2,EHBP1,Affinity Capture-MS
+HNRNPA1,PLOD3,Affinity Capture-MS
+CDK7,GTF2H2,Affinity Capture-MS
+RPAP1,PHF8,Affinity Capture-MS
+TAF10,SMARCC1,Affinity Capture-MS
+MEPCE,LSM3,Affinity Capture-MS
+TCEA2,NELFA,Affinity Capture-MS
+HNRNPA1,PURA,Affinity Capture-MS
+MEPCE,RPS3,Affinity Capture-MS
+KHDRBS2,HNRNPD,Affinity Capture-MS
+MEPCE,TRIM26,Affinity Capture-MS
+RPAP3,HSPA6,Affinity Capture-MS
+RPAP1,NUMA1,Affinity Capture-MS
+MEPCE,BAX,Affinity Capture-MS
+TCEA2,PARP1,Affinity Capture-MS
+MEPCE,DNM2,Affinity Capture-MS
+MEPCE,SNRPD2P1,Affinity Capture-MS
+GPN1,GPN3,Affinity Capture-MS
+ERCC3,ERCC5,Affinity Capture-MS
+HNRNPA1,MOV10,Affinity Capture-MS
+TCEA1,POLR2B,Affinity Capture-MS
+RUVBL1,YEATS4,Affinity Capture-MS
+MEPCE,MOB1A,Affinity Capture-MS
+HNRNPH1,CPNE1,Affinity Capture-MS
+GPN1,PUF60,Affinity Capture-MS
+MEPCE,HNRNPAB,Affinity Capture-MS
+CDK9,CSNK2B,Affinity Capture-MS
+CDK9,UBL4A,Affinity Capture-MS
+RUVBL2,RPL38,Affinity Capture-MS
+GTF2E2,HSP90AB1,Affinity Capture-MS
+TAF13,TAF2,Affinity Capture-MS
+KHDRBS2,MRPS27,Affinity Capture-MS
+MEPCE,HNRNPA3P1,Affinity Capture-MS
+RUVBL2,HSP90AA2P,Affinity Capture-MS
+CDK9,HNRNPA0,Affinity Capture-MS
+MEPCE,EXOSC2,Affinity Capture-MS
+MEPCE,YRDC,Affinity Capture-MS
+MEPCE,UBE2M,Affinity Capture-MS
+HNRNPA1,HNRNPA1P70,Affinity Capture-MS
+POLR3H,POLR1D,Affinity Capture-MS
+HNRNPA1,HNRNPDL,Affinity Capture-MS
+ERCC3,BCR,Affinity Capture-MS
+GTF2E2,EXOC4,Affinity Capture-MS
+HNRNPH1,YKT6,Affinity Capture-MS
+MEPCE,SDE2,Affinity Capture-MS
+MEPCE,GTF2F1,Affinity Capture-MS
+MEPCE,TBC1D15,Affinity Capture-MS
+CDK7,HNRNPU,Affinity Capture-MS
+POLR2J,INTS3,Affinity Capture-MS
+RUVBL1,TTI1,Affinity Capture-MS
+RPAP2,POLR3E,Affinity Capture-MS
+HNRNPA1,PLOD2,Affinity Capture-MS
+GPN1,HNRNPH2,Affinity Capture-MS
+TAF10,SUPT20H,Affinity Capture-MS
+MEPCE,PURA,Affinity Capture-MS
+RPAP2,HELLS,Affinity Capture-MS
+RPAP2,LRCH2,Affinity Capture-MS
+RPAP2,RXRG,Affinity Capture-MS
+TAF10,ANLN,Affinity Capture-MS
+TAF10,PRPF31,Affinity Capture-MS
+TAF10,SMARCA4,Affinity Capture-MS
+RPAP3,PFDN6,Affinity Capture-MS
+RPAP2,NELFE,Affinity Capture-MS
+KHDRBS2,TARDBP,Affinity Capture-MS
+GPN1,TCOF1,Affinity Capture-MS
+MEPCE,RPL38,Affinity Capture-MS
+MEPCE,UBE2NL,Affinity Capture-MS
+RPAP2,PRPF31,Affinity Capture-MS
+RUVBL2,ACTR5,Affinity Capture-MS
+KHDRBS2,NUSAP1,Affinity Capture-MS
+TAF10,PCBP1,Affinity Capture-MS
+RPAP2,DNM2,Affinity Capture-MS
+CDK9,CDC73,Affinity Capture-MS
+CDK9,DTYMK,Affinity Capture-MS
+HNRNPA1,ROCK1,Affinity Capture-MS
+POLR2J,HCFC1,Affinity Capture-MS
+MEPCE,DTYMK,Affinity Capture-MS
+RPAP3,LRCH2,Affinity Capture-MS
+KHDRBS2,SAFB,Affinity Capture-MS
+POLR2J,ELAVL1,Affinity Capture-MS
+GPN1,MED17,Affinity Capture-MS
+TAF13,PFKL,Affinity Capture-MS
+TAF13,SMARCC2,Affinity Capture-MS
+RPAP1,IPO9,Affinity Capture-MS
+KHDRBS2,WDR77,Affinity Capture-MS
+TCEA1,DDX5,Affinity Capture-MS
+RPAP2,MED24,Affinity Capture-MS
+HNRNPA1,CENPC,Affinity Capture-MS
+POLR3H,CDC42EP4,Affinity Capture-MS
+RPAP1,SLFN11,Affinity Capture-MS
+MEPCE,KIF11,Affinity Capture-MS
+KHDRBS2,MOV10,Affinity Capture-MS
+KHDRBS2,HRNR,Affinity Capture-MS
+POLR2J,MED29,Affinity Capture-MS
+RPAP1,CSNK2B,Affinity Capture-MS
+RPAP1,MAGED2,Affinity Capture-MS
+RPAP1,HLTF,Affinity Capture-MS
+KHDRBS2,KHDRBS3,Affinity Capture-MS
+MEPCE,SRSF3,Affinity Capture-MS
+HNRNPH1,HSPD1,Affinity Capture-MS
+RPAP2,TOPBP1,Affinity Capture-MS
+ERCC3,GCN1L1,Affinity Capture-MS
+CDK9,TRIP12,Affinity Capture-MS
+ERCC3,MNAT1,Affinity Capture-MS
+POLR2B,KDM1A,Affinity Capture-MS
+RUVBL1,PCBP1,Affinity Capture-MS
+RUVBL1,PCBP3,Affinity Capture-MS
+HNRNPA1,CAPN2,Affinity Capture-MS
+KHDRBS2,FGB,Affinity Capture-MS
+TCEA1,SNRNP200,Affinity Capture-MS
+CDK7,CCAR2,Affinity Capture-MS
+CDK9,SNRPD2P1,Affinity Capture-MS
+CDK9,MRPS27,Affinity Capture-MS
+HNRNPA1,HNRNPL,Affinity Capture-MS
+CDK7,CCT2,Affinity Capture-MS
+POLR2J,MEIG1,Affinity Capture-MS
+TCEA1,DDX46,Affinity Capture-MS
+TCEA2,KLC4,Affinity Capture-MS
+RPAP1,MCM10,Affinity Capture-MS
+GPN1,HNRNPD,Affinity Capture-MS
+KHDRBS2,DEK,Affinity Capture-MS
+TCEA2,MAGED2,Affinity Capture-MS
+RUVBL2,PCBP3,Affinity Capture-MS
+GPN1,ARMCX3,Affinity Capture-MS
+GTF2A1,MYLK2,Affinity Capture-MS
+POLR2J,TCEA2,Affinity Capture-MS
+MEPCE,CDC73,Affinity Capture-MS
+RPAP3,INTS1,Affinity Capture-MS
+RPAP1,SYTL2,Affinity Capture-MS
+RUVBL2,ARF6,Affinity Capture-MS
+GTF2F2,BAG6,Affinity Capture-MS
+TAF10,POLR2E,Affinity Capture-MS
+RPAP3,ANAPC1,Affinity Capture-MS
+GTF2F2,MED29,Affinity Capture-MS
+RPAP1,ERBB2IP,Affinity Capture-MS
+CDK9,AFF4,Affinity Capture-MS
+TAF13,POLR1A,Affinity Capture-MS
+RPAP2,ARMCX3,Affinity Capture-MS
+RPAP3,HELLS,Affinity Capture-MS
+RPAP3,HSP90AA2P,Affinity Capture-MS
+RPAP3,RGPD1,Affinity Capture-MS
+RUVBL2,RPS2,Affinity Capture-MS
+TAF10,TRAF3IP1,Affinity Capture-MS
+KHDRBS2,FBXW11,Affinity Capture-MS
+KHDRBS2,LRRC15,Affinity Capture-MS
+POLR3H,YWHAE,Affinity Capture-MS
+TAF10,TAF7,Affinity Capture-MS
+TBPL1,TAF1L,Affinity Capture-MS
+TBPL1,TAF1,Affinity Capture-MS
+TBPL1,TBP,Affinity Capture-MS
+TBPL1,TBPL2,Affinity Capture-MS
+MEPCE,RPS14,Affinity Capture-MS
+MEPCE,RPS9,Affinity Capture-MS
+GTF2E2,DNM2,Affinity Capture-MS
+GTF2E2,UBR5,Affinity Capture-MS
+RUVBL2,ACTR8,Affinity Capture-MS
+MEPCE,HSPA6,Affinity Capture-MS
+KHDRBS2,HSP90AB1,Affinity Capture-MS
+TAF10,PHF21A,Affinity Capture-MS
+GTF2F1,RFC2,Affinity Capture-MS
+RPAP1,ANAPC1,Affinity Capture-MS
+RPAP2,POLR2D,Affinity Capture-MS
+RPAP2,RFC4,Affinity Capture-MS
+CDK9,EXOSC5,Affinity Capture-MS
+CDK9,HSPD1,Affinity Capture-MS
+TAF10,MCM6,Affinity Capture-MS
+HNRNPA1,MRPL37,Affinity Capture-MS
+TAF13,TAF9B,Affinity Capture-MS
+TAF13,TAF9,Affinity Capture-MS
+GPN1,HSPA9,Affinity Capture-MS
+HNRNPA1,FRMD4A,Affinity Capture-MS
+HNRNPA1,NNT,Affinity Capture-MS
+POLR2J,POLR2D,Affinity Capture-MS
+RUVBL1,SRI,Affinity Capture-MS
+RUVBL2,HSPA1L,Affinity Capture-MS
+GPN1,DDB1,Affinity Capture-MS
+ATM,HUWE1,Affinity Capture-Western
+ATM,USP34,Affinity Capture-Western
+ATM,MED1,Affinity Capture-Western
+ATM,FANCI,Affinity Capture-Western
+ATM,SMC3,Affinity Capture-Western
+ATM,TAOK3,Affinity Capture-Western
+ATM,TDP1,Affinity Capture-Western
+BRCA1,ATM,Affinity Capture-Western
+BRCA1,ATR,Affinity Capture-Western
+CDKN1A,SKP2,Affinity Capture-Western
+MDM2,RBBP6,Affinity Capture-Western
+TP53,MDM2,Affinity Capture-Western
+ITCH,ERBB4,Far Western
+ITCH,ERBB4,Affinity Capture-Western
+ITCH,ERBB4,Reconstituted Complex
+KEAP1,NFE2L2,Affinity Capture-Western
+NFE2L2,KEAP1,Affinity Capture-Western
+ETS1,PIAS4,Affinity Capture-Western
+DIO2,DIO2,FRET
+DIO2,UBE2G1,FRET
+DIO2,WSB1,FRET
+DIO2,USP33,FRET
+CHUK,TP73,Affinity Capture-Western
+TP73,CHUK,Reconstituted Complex
+SEC13,NUP145,Co-crystal Structure
+SEC13,NUP145,Co-purification
+SEC13,SEC13,Reconstituted Complex
+CDC20,MAD2L1,Affinity Capture-Western
+USP7,CHFR,Affinity Capture-Western
+CUL1,SKP2,Affinity Capture-Western
+CUL3,KEAP1,Affinity Capture-Western
+WDR48,USP46,Affinity Capture-MS
+WDR20,USP46,Affinity Capture-MS
+KLHL13,COPS5,Affinity Capture-MS
+KLHL13,USP25,Affinity Capture-MS
+AMOT,USP11,Affinity Capture-MS
+RAE1,USP7,Affinity Capture-MS
+KEAP1,USP11,Affinity Capture-MS
+PRPF4,USP15,Affinity Capture-MS
+SART3,USP15,Affinity Capture-MS
+SART3,USP39,Affinity Capture-MS
+SART3,USP4,Affinity Capture-MS
+USP7,USP11,Affinity Capture-Western
+USP11,USP7,Affinity Capture-Western
+USP15,PSMD7,Affinity Capture-Western
+PSMD14,PSMD7,Affinity Capture-Western
+PSMD7,PSMD14,Affinity Capture-Western
+USP4,USP11,Affinity Capture-Western
+USP15,USP11,Affinity Capture-Western
+WRNIP1,USP11,Affinity Capture-Western
+TCEAL1,USP11,Affinity Capture-Western
+TCEAL4,USP11,Affinity Capture-Western
+AMOT,USP11,Affinity Capture-Western
+KEAP1,USP11,Affinity Capture-Western
+USP20,VAPA,Affinity Capture-Western
+SLX4,TERF2,Affinity Capture-Western
+SLX4,TERF2IP,Affinity Capture-Western
+SLX4,PLK1,Affinity Capture-Western
+SLX4,MSH2,Affinity Capture-Western
+SLX4,SLX4IP,Affinity Capture-Western
+SLX4,ERCC4,Affinity Capture-Western
+SLX4,MUS81,Affinity Capture-Western
+PLK1,ERCC4,Affinity Capture-Western
+ERCC4,PLK1,Affinity Capture-Western
+ARF1,GEA1,Co-crystal Structure
+CUL1,CAND1,Affinity Capture-Western
+SKP2,CUL1,Affinity Capture-Western
+KEAP1,CUL3,Affinity Capture-Western
+KEAP1,GABPA,Affinity Capture-Western
+VHL,CUL2,Affinity Capture-Western
+HIF1A,CUL2,Affinity Capture-Western
+LDB1,RLIM,Affinity Capture-Western
+LDB1,LMO2,Affinity Capture-Western
+SSBP2,LMO2,Affinity Capture-Western
+SKP1,FBXW7,Co-crystal Structure
+FBXW7,CCNE1,Co-crystal Structure
+FBXW7,CCNE1,Affinity Capture-Western
+PTGS2,COPS5,Co-fractionation
+COPS7A,PTGS2,Affinity Capture-Western
+PTGS2,COPS5,Affinity Capture-Western
+COPS7A,COPS5,Affinity Capture-Western
+PTGS2,COPS3,Affinity Capture-Western
+PTGS2,CUL1,Affinity Capture-Western
+PTGS2,CUL4A,Affinity Capture-Western
+ERCC4,SLX4,Affinity Capture-Western
+SLX4IP,SLX4,Two-hybrid
+ERCC1,SLX4,Two-hybrid
+MSH2,SLX4,Two-hybrid
+POLD3,pcn1,Two-hybrid
+PTGS2,RBX1,Affinity Capture-Western
+PTGS2,PSMD1,Affinity Capture-Western
+PTGS2,PSMC5,Affinity Capture-Western
+SIAH1,SIAH1,Biochemical Activity
+SIAH1,SIAH1,Affinity Capture-Western
+TRIM25,ESR1,Affinity Capture-Western
+TRIM25,ESR1,Reconstituted Complex
+TRIM25,ESR1,Biochemical Activity
+KAT5,ESR1,Affinity Capture-Western
+PSMD9,SKP2,FRET
+PSMD9,CKS1B,FRET
+SKP2,CKS1B,FRET
+CKS1B,CDK2,Affinity Capture-Western
+ING4,PPFIA1,Affinity Capture-Western
+ING4,G3BP2,Affinity Capture-Western
+MBD4,Trim27,Two-hybrid
+MBD4,TRIM27,Affinity Capture-Western
+TRIM27,MBD4,Affinity Capture-Western
+TRIM27,MBD4,Reconstituted Complex
+MBD4,TRIM27,Reconstituted Complex
+MBD2,TRIM27,Affinity Capture-Western
+MBD3,TRIM27,Affinity Capture-Western
+TRIM27,MBD2,Affinity Capture-Western
+TRIM27,MBD3,Affinity Capture-Western
+ING4,HIST3H3,Co-crystal Structure
+DNMT3A,Tdg,Two-hybrid
+CAPRIN1,G3BP1,Affinity Capture-Western
+G3BP1,CAPRIN1,Reconstituted Complex
+G3BP1,CAPRIN1,Affinity Capture-Western
+TRIM25,DDX58,Affinity Capture-Western
+DDX58,TRIM25,Reconstituted Complex
+TRIM25,DDX58,Biochemical Activity
+CXXC1,SETD1A,Affinity Capture-Western
+CXXC1,SETD1B,Affinity Capture-Western
+SETD1B,CXXC1,Affinity Capture-MS
+SETD1B,RBBP5,Affinity Capture-MS
+SETD1B,WDR5,Affinity Capture-MS
+SETD1B,CXXC1,Affinity Capture-Western
+SETD1B,RBBP5,Affinity Capture-Western
+SETD1B,WDR5,Affinity Capture-Western
+SETD1A,CXXC1,Affinity Capture-Western
+SETD1A,RBBP5,Affinity Capture-Western
+SETD1A,WDR5,Affinity Capture-Western
+SETD1A,WDR82,Affinity Capture-Western
+RBBP5,SETD1A,Affinity Capture-Western
+WDR5,SETD1A,Affinity Capture-Western
+WDR82,SETD1A,Affinity Capture-Western
+RBBP5,SETD1B,Affinity Capture-Western
+WDR5,SETD1B,Affinity Capture-Western
+WDR82,SETD1B,Affinity Capture-Western
+SETD1B,HIST1H3E,Biochemical Activity
+ING4,UBE2D2,Affinity Capture-MS
+ING4,PPFIA1,Affinity Capture-MS
+ING4,PPFIA1,Affinity Capture-Western
+MBD1,RNF2,Reconstituted Complex
+MBD1,Rnf2,Two-hybrid
+MBD1,CBX4,Reconstituted Complex
+MBD1,CBX4,Affinity Capture-Western
+MBD1,RNF2,Affinity Capture-Western
+ING4,EGLN1,Affinity Capture-Western
+EGLN1,ING4,Affinity Capture-Western
+PADI4,TP53,Affinity Capture-Western
+PADI4,TP53,Reconstituted Complex
+TP53,PADI4,Reconstituted Complex
+TP53,PADI4,Affinity Capture-Western
+PADI4,TP53,Co-localization
+KDM1A,PRDM1,Affinity Capture-Western
+PRDM1,KDM1A,Affinity Capture-Western
+PRDM1,KDM1A,Reconstituted Complex
+HDAC1,PRDM1,Affinity Capture-Western
+EHMT2,PRDM1,Affinity Capture-Western
+HDAC2,PRDM1,Affinity Capture-Western
+LPAR2,TRIP6,Affinity Capture-Western
+LPAR2,SIVA1,Reconstituted Complex
+LPAR2,SIVA1,Affinity Capture-Western
+S1PR4,SIVA1,Affinity Capture-Western
+S1PR1,TRIP6,Affinity Capture-Western
+SIVA1,LPAR2,Affinity Capture-Western
+TRIP6,LPAR2,Affinity Capture-Western
+SLC9A3R2,LPAR2,Affinity Capture-Western
+TRIP6,SLC9A3R2,Affinity Capture-Western
+ZC3HC1,CCNB1,Reconstituted Complex
+ZC3HC1,SKP1,Affinity Capture-Western
+ZC3HC1,CUL1,Affinity Capture-Western
+PRDM2,PRDM2,Reconstituted Complex
+SKP1,FBXO2,Co-crystal Structure
+BSCL2,CANX,Affinity Capture-Western
+UBASH3A,DNM1,Affinity Capture-Western
+AP1M2,SCNN1G,Affinity Capture-Western
+USP7,TP53,Affinity Capture-Western
+MDM2,TP53,Affinity Capture-Western
+MDM2,USP7,Affinity Capture-Western
+TP53,CUL9,Affinity Capture-Western
+CBL,PLCG1,Affinity Capture-Western
+CBL,KDR,Reconstituted Complex
+SEMA4B,DCBLD2,Affinity Capture-Western
+USP8,AKT1,Affinity Capture-Western
+TCF19,NGFR,Two-hybrid
+TCF19,NGFR,Affinity Capture-Western
+GAB1,MET,Affinity Capture-Western
+GAB2,MET,Affinity Capture-Western
+GAB2,CRKL,Affinity Capture-Western
+GAB2,PTPN11,Affinity Capture-Western
+GAB2,PIK3R1,Affinity Capture-Western
+FOS,JUND,Affinity Capture-Western
+FOSL1,JUN,Affinity Capture-Western
+JUN,FOS,Affinity Capture-Western
+JUN,FOSL1,Affinity Capture-Western
+JUN,MAPK1,Affinity Capture-Western
+FOS,MAPK1,Affinity Capture-Western
+G3BP1,G3BP1,Affinity Capture-Western
+ATOX1,ATP7A,Two-hybrid
+GFER,GFER,Reconstituted Complex
+GFER,GFER,Affinity Capture-Western
+GFER,GFER,Two-hybrid
+GFER,COPS5,Two-hybrid
+COPS5,GFER,Affinity Capture-Western
+STUB1,AHR,Affinity Capture-Western
+TOR1A,Sgce,Affinity Capture-Western
+CYBA,VHL,Affinity Capture-Western
+DDX39A,ALYREF,Affinity Capture-Western
+SARNP,FUS,Affinity Capture-Western
+DDX39A,SARNP,Affinity Capture-MS
+DDX39A,SARNP,Affinity Capture-Western
+SARNP,DDX39A,Affinity Capture-Western
+SARNP,DDX39A,Reconstituted Complex
+CUL3,CUL3,FRET
+CUL3,CUL3,Affinity Capture-Western
+CCNE1,CUL3,Affinity Capture-Western
+COMMD1,SOCS1,Affinity Capture-Western
+CUL2,COMMD1,Reconstituted Complex
+TCEB1,COMMD1,Reconstituted Complex
+SOCS1,COMMD1,Reconstituted Complex
+COMMD1,CUL2,Affinity Capture-Western
+COMMD1,RELA,Biochemical Activity
+RELA,SOCS1,Reconstituted Complex
+SOCS1,RELA,Reconstituted Complex
+CUL2,RBX1,Reconstituted Complex
+CUL2,TCEB1,Reconstituted Complex
+LRIG1,MET,Affinity Capture-Western
+FGR,FASLG,Reconstituted Complex
+LYN,FASLG,Reconstituted Complex
+FYN,FASLG,Reconstituted Complex
+STAMBP,CHMP3,Affinity Capture-MS
+CHMP3,STAMBP,Affinity Capture-Western
+CHMP3,STAMBP,Reconstituted Complex
+CHMP2A,STAMBP,Affinity Capture-Western
+CHMP2A,CHMP3,Affinity Capture-Western
+VHL,JADE1,Affinity Capture-Western
+VHL,JADE1,Reconstituted Complex
+TP53,ING4,Affinity Capture-Western
+TP53,ING4,Reconstituted Complex
+CDKL5,MECP2,Reconstituted Complex
+CDKL5,MECP2,Affinity Capture-Western
+MECP2,YBX1,Affinity Capture-Western
+BMI1,RNF2,Affinity Capture-Western
+MLH1,PMS2,Affinity Capture-MS
+MLH1,PMS1,Affinity Capture-MS
+PMS2,MLH1,Affinity Capture-MS
+PMS2,MLH1,Affinity Capture-Western
+MLH1,PMS2,Affinity Capture-Western
+MLH1,BRIP1,Affinity Capture-Western
+MLH1,MSH3,Affinity Capture-MS
+MLH1,BRCA1,Affinity Capture-MS
+MLH1,SMC1A,Affinity Capture-MS
+MLH1,XRN1,Affinity Capture-MS
+MLH1,PSD3,Affinity Capture-MS
+MLH1,UBC,Affinity Capture-MS
+MLH1,UBAP2L,Affinity Capture-MS
+MLH1,YLPM1,Affinity Capture-MS
+MLH1,EXO1,Affinity Capture-MS
+MLH1,PRKDC,Affinity Capture-MS
+MLH1,KPNA2,Affinity Capture-MS
+MLH1,KPNB1,Affinity Capture-MS
+MLH1,RUVBL1,Affinity Capture-MS
+MLH1,RUVBL2,Affinity Capture-MS
+MLH1,FAN1,Affinity Capture-MS
+MLH1,PPP2R1A,Affinity Capture-MS
+MLH1,PPP2R2A,Affinity Capture-MS
+MLH1,PPP2R2B,Affinity Capture-MS
+MLH1,PPP3CB,Affinity Capture-MS
+MLH1,PPP3CC,Affinity Capture-MS
+MLH1,PPP2R2D,Affinity Capture-MS
+MLH1,AIFM1,Affinity Capture-MS
+MLH1,PIK3C2A,Affinity Capture-MS
+MLH1,AMOT,Affinity Capture-MS
+MLH1,ATAD3A,Affinity Capture-MS
+MLH1,DOCK7,Affinity Capture-MS
+MLH1,PYGB,Affinity Capture-MS
+MLH1,ATP5A1,Affinity Capture-MS
+MLH1,ATAD3B,Affinity Capture-MS
+MLH1,WDR61,Affinity Capture-MS
+PMS2,MSH3,Affinity Capture-MS
+PMS2,BRCA2,Affinity Capture-MS
+PMS2,PSD2,Affinity Capture-MS
+PMS2,UBC,Affinity Capture-MS
+PMS2,EXO1,Affinity Capture-MS
+PMS2,PRKDC,Affinity Capture-MS
+PMS2,KPNA2,Affinity Capture-MS
+PMS2,KPNB1,Affinity Capture-MS
+PMS2,RUVBL1,Affinity Capture-MS
+PMS2,RUVBL2,Affinity Capture-MS
+PMS2,FAN1,Affinity Capture-MS
+PMS2,PPP2CA,Affinity Capture-MS
+PMS2,AIFM1,Affinity Capture-MS
+PMS2,PIK3C2A,Affinity Capture-MS
+PMS2,ATAD3A,Affinity Capture-MS
+PMS2,MSH2,Affinity Capture-MS
+PMS2,MSH6,Affinity Capture-MS
+PMS2,PCNA,Affinity Capture-MS
+PMS2,RFC2,Affinity Capture-MS
+PMS2,DDB1,Affinity Capture-MS
+PMS2,MCM3,Affinity Capture-MS
+PMS2,SMARCA4,Affinity Capture-MS
+PMS2,XPO1,Affinity Capture-MS
+PMS2,COPB1,Affinity Capture-MS
+PMS2,COPG1,Affinity Capture-MS
+PMS2,COPG2,Affinity Capture-MS
+PMS2,PSMC1,Affinity Capture-MS
+PMS2,PSMC6,Affinity Capture-MS
+PMS2,PSMD5,Affinity Capture-MS
+PMS2,PSD3,Affinity Capture-MS
+PMS2,PSMC3,Affinity Capture-MS
+PMS2,PSMC2,Affinity Capture-MS
+PMS2,CYLD,Affinity Capture-MS
+PMS2,UBR5,Affinity Capture-MS
+PMS2,NSUN2,Affinity Capture-MS
+PMS1,BRCA2,Affinity Capture-Western
+PMS1,PSD2,Affinity Capture-Western
+PMS1,UBC,Affinity Capture-Western
+PMS1,EXO1,Affinity Capture-Western
+PMS1,MLH1,Affinity Capture-Western
+PMS1,RFC2,Affinity Capture-Western
+PMS1,PMS1,Affinity Capture-Western
+PMS1,RFC4,Affinity Capture-Western
+PMS1,RFC1,Affinity Capture-Western
+PMS1,POLR1C,Affinity Capture-Western
+PMS1,ATR,Affinity Capture-Western
+PMS1,NONO,Affinity Capture-Western
+PMS1,PGK1,Affinity Capture-Western
+PMS1,TOP1,Affinity Capture-Western
+PMS1,MCM6,Affinity Capture-Western
+PMS1,SMC3,Affinity Capture-Western
+PMS1,REV3L,Affinity Capture-Western
+PMS1,IPO5,Affinity Capture-Western
+PMS1,IPO9,Affinity Capture-Western
+PMS1,RANBP9,Affinity Capture-Western
+PMS1,RANGAP1,Affinity Capture-Western
+PMS1,MMS19,Affinity Capture-Western
+PMS1,USP5,Affinity Capture-Western
+PMS1,USP13,Affinity Capture-Western
+PMS1,UBAP2L,Affinity Capture-Western
+PMS1,HERC2,Affinity Capture-Western
+PMS1,CUL3,Affinity Capture-Western
+PMS1,CUL1,Affinity Capture-Western
+PMS1,USP9Y,Affinity Capture-Western
+PMS1,RNF20,Affinity Capture-Western
+PMS1,HELB,Affinity Capture-Western
+PMS1,MOV10,Affinity Capture-Western
+PMS1,BRIP1,Affinity Capture-Western
+PMS1,KPNA2,Affinity Capture-Western
+PMS1,SBF2,Affinity Capture-Western
+PMS1,SBF1,Affinity Capture-Western
+PMS1,CCNT1,Affinity Capture-Western
+PMS1,CDK9,Affinity Capture-Western
+PMS1,PIK3C2A,Affinity Capture-Western
+PMS1,CDC5L,Affinity Capture-Western
+PMS1,AKAP9,Affinity Capture-Western
+PMS1,PPP2R1A,Affinity Capture-Western
+PMS1,UBR5,Affinity Capture-Western
+PMS1,CYLD,Affinity Capture-Western
+PMS1,PSMC1,Affinity Capture-Western
+PMS2,BRIP1,Affinity Capture-MS
+PMS2,MMS19,Affinity Capture-MS
+PMS1,RNF123,Affinity Capture-Western
+NR4A1,TP53,Affinity Capture-Western
+MDM2,TP53,Affinity Capture-Western
+MDM2,TP53,Reconstituted Complex
+NR4A1,TP53,Reconstituted Complex
+TP53,NR4A1,Reconstituted Complex
+TRAF6,IKBKG,Biochemical Activity
+NEDD4,LAPTM5,Affinity Capture-Western
+UBC,LAPTM5,Reconstituted Complex
+LAPTM5,GGA3,Affinity Capture-Western
+NEDD4,GGA3,Affinity Capture-Western
+GATA3,BMI1,Affinity Capture-Western
+TOLLIP,IL1R1,Affinity Capture-Western
+IL1R1,TOLLIP,Affinity Capture-Western
+TOLLIP,IRAK1,Affinity Capture-Western
+IL1R1,TOM1,Affinity Capture-Western
+TP73,ITCH,Affinity Capture-Western
+TP73,YAP1,Affinity Capture-Western
+YAP1,ITCH,Affinity Capture-Western
+YAP1,TP73,Affinity Capture-Western
+PDLIM7,ZMYND11,Two-hybrid
+ZMYND11,PDLIM7,Affinity Capture-Western
+ZMYND11,TRAF6,Affinity Capture-Western
+ATP7B,DCTN4,Two-hybrid
+ATP7B,DCTN4,Affinity Capture-Western
+TP53,FBXO11,Affinity Capture-MS
+TP53,MDM2,Affinity Capture-MS
+FBXO11,CUL1,Affinity Capture-Western
+FBXO11,SKP1,Affinity Capture-Western
+FBXO11,RBX1,Affinity Capture-Western
+TP53,FBXO11,Reconstituted Complex
+FBXO11,TP53,Affinity Capture-Western
+CDKL5,CDKL5,Biochemical Activity
+PACSIN1,CARS,Affinity Capture-MS
+PACSIN1,CYFIP2,Affinity Capture-MS
+PACSIN1,ASAP1,Affinity Capture-MS
+PACSIN1,DNM2,Affinity Capture-MS
+PACSIN1,HSPA1A,Affinity Capture-MS
+PACSIN1,HSPA8,Affinity Capture-MS
+PACSIN1,KHDRBS1,Affinity Capture-MS
+PACSIN1,MICALL1,Affinity Capture-MS
+PACSIN1,APBB1IP,Affinity Capture-MS
+PACSIN1,WAS,Affinity Capture-MS
+PACSIN1,WIPF1,Affinity Capture-MS
+PACSIN2,CARS,Affinity Capture-MS
+PACSIN2,CYFIP2,Affinity Capture-MS
+PACSIN2,ASAP1,Affinity Capture-MS
+PACSIN2,DNM2,Affinity Capture-MS
+PACSIN2,HSPA1A,Affinity Capture-MS
+PACSIN2,HSPA8,Affinity Capture-MS
+PACSIN2,KHDRBS1,Affinity Capture-MS
+PACSIN2,MICALL1,Affinity Capture-MS
+PACSIN2,APBB1IP,Affinity Capture-MS
+PACSIN2,WAS,Affinity Capture-MS
+PACSIN2,WIPF1,Affinity Capture-MS
+PACSIN2,SBK1,Affinity Capture-MS
+PACSIN3,CARS,Affinity Capture-MS
+PACSIN3,CYFIP2,Affinity Capture-MS
+PACSIN3,ASAP1,Affinity Capture-MS
+PACSIN3,DNM2,Affinity Capture-MS
+PACSIN3,HSPA1A,Affinity Capture-MS
+PACSIN3,HSPA8,Affinity Capture-MS
+PACSIN3,KHDRBS1,Affinity Capture-MS
+PACSIN3,MICALL1,Affinity Capture-MS
+PACSIN3,APBB1IP,Affinity Capture-MS
+PACSIN3,WAS,Affinity Capture-MS
+PACSIN3,WIPF1,Affinity Capture-MS
+PACSIN3,SBK1,Affinity Capture-MS
+FNBP1,TUBB,Affinity Capture-MS
+FNBP1,HSPA1A,Affinity Capture-MS
+FNBP1,WAS,Affinity Capture-MS
+TRIP10,ASAP1,Affinity Capture-MS
+TRIP10,DNM2,Affinity Capture-MS
+TRIP10,INPP5D,Affinity Capture-MS
+TRIP10,SBK1,Affinity Capture-MS
+PSTPIP1,ACTB,Affinity Capture-MS
+PSTPIP1,TUBB,Affinity Capture-MS
+PSTPIP1,CARS,Affinity Capture-MS
+PSTPIP1,DNM2,Affinity Capture-MS
+PSTPIP1,HSPA1A,Affinity Capture-MS
+PSTPIP1,WAS,Affinity Capture-MS
+PSTPIP1,WIPF1,Affinity Capture-MS
+FCHSD1,XRCC6,Affinity Capture-MS
+FCHSD1,ASAP1,Affinity Capture-MS
+FCHSD1,DNM2,Affinity Capture-MS
+FCHSD1,HSPA1A,Affinity Capture-MS
+FCHSD1,ITSN2,Affinity Capture-MS
+FCHSD1,SBK1,Affinity Capture-MS
+SRGAP2,ATAD3A,Affinity Capture-MS
+SRGAP2,DIAPH1,Affinity Capture-MS
+SRGAP2,ITSN2,Affinity Capture-MS
+SRGAP2,MYO1G,Affinity Capture-MS
+SRGAP2,YLPM1,Affinity Capture-MS
+SRGAP2,SLC25A12,Affinity Capture-MS
+SRGAP2,WAS,Affinity Capture-MS
+SRGAP2,WIPF1,Affinity Capture-MS
+ALK,RAB35,Affinity Capture-MS
+ALK,HSPD1,Affinity Capture-MS
+ALK,MAP3K4,Affinity Capture-MS
+ALK,DYT10,Affinity Capture-MS
+ALK,GRB2,Affinity Capture-MS
+ALK,SOCS1,Affinity Capture-MS
+ALK,PIK3CB,Affinity Capture-MS
+ALK,RAD17,Affinity Capture-MS
+ALK,IRF7,Affinity Capture-MS
+ALK,EPHB2,Affinity Capture-MS
+ALK,EIF4B,Affinity Capture-MS
+ALK,MAPK8IP3,Affinity Capture-MS
+ALK,CENPF,Affinity Capture-MS
+ALK,PLCB2,Affinity Capture-MS
+ALK,PDX1,Affinity Capture-MS
+ALK,STAT3,Affinity Capture-MS
+ALK,MYBPC3,Affinity Capture-MS
+ALK,MAP2K7,Affinity Capture-MS
+ALK,JAK2,Affinity Capture-MS
+ALK,MAP3K5,Affinity Capture-MS
+ALK,MEP1B,Affinity Capture-MS
+ALK,GAK,Affinity Capture-MS
+ALK,EPHA1,Affinity Capture-MS
+ALK,UBASH3A,Affinity Capture-MS
+ALK,JAK3,Affinity Capture-MS
+ALK,MTIF2,Affinity Capture-MS
+ALK,MYLK,Affinity Capture-MS
+ALK,MAP3K1,Affinity Capture-MS
+ALK,MAPK1,Affinity Capture-MS
+ALK,SOCS5,Affinity Capture-MS
+ALK,CDK13,Affinity Capture-MS
+ALK,SMC6,Affinity Capture-MS
+ALK,IRS4,Affinity Capture-MS
+ALK,KRT18,Affinity Capture-MS
+ALK,KRT74,Affinity Capture-MS
+ALK,PLCG1,Affinity Capture-MS
+NPM1,GRB2,Affinity Capture-MS
+NPM1,CENPF,Affinity Capture-MS
+NPM1,CASKIN1,Affinity Capture-MS
+NPM1,CDC14A,Affinity Capture-MS
+NPM1,PIK3R1,Affinity Capture-MS
+NPM1,NUP98,Affinity Capture-MS
+NPM1,PPID,Affinity Capture-MS
+NPM1,GRB7,Affinity Capture-MS
+NPM1,NCAPG,Affinity Capture-MS
+NPM1,NUMA1,Affinity Capture-MS
+ALK,PLCG1,Affinity Capture-Western
+ALK,EPHA1,Affinity Capture-Western
+ALK,MAP3K1,Affinity Capture-Western
+GRB2,ALK,Affinity Capture-Western
+HSPD1,ALK,Affinity Capture-Western
+STAT3,ALK,Affinity Capture-Western
+IRS1,ALK,Affinity Capture-Western
+PDCD6IP,PDGFRB,Affinity Capture-Western
+STAM,STAMBP,Reconstituted Complex
+STAM,UBC,Reconstituted Complex
+NDEL1,TACC3,Affinity Capture-Western
+TACC3,NDEL1,Affinity Capture-Western
+NDEL1,TACC3,Reconstituted Complex
+TACC3,NDEL1,Reconstituted Complex
+UBE2N,AURKA,Biochemical Activity
+NFKBIA,AURKA,Reconstituted Complex
+SYVN1,GPR37,Affinity Capture-Western
+GPR37,SYVN1,Affinity Capture-Western
+SYVN1,GPR37,Reconstituted Complex
+SYVN1,GPR37,Biochemical Activity
+VHL,HIF1A,Affinity Capture-Western
+PGAM5,KEAP1,Affinity Capture-Western
+PGAM5,BCL2L1,Affinity Capture-Western
+KEAP1,PGAM5,Affinity Capture-Western
+PGAM5,CUL3,Affinity Capture-Western
+PGAM5,RBX1,Affinity Capture-Western
+CCNA1,SKP2,Affinity Capture-Western
+CCNA1,SKP2,Biochemical Activity
+SKP2,CCNA1,Reconstituted Complex
+SKP2,CUL1,Affinity Capture-Western
+SKP2,CDKN1B,Biochemical Activity
+CDKN1B,CCNA1,Reconstituted Complex
+E2F1,CCNA1,Reconstituted Complex
+ITCH,USP9X,Affinity Capture-Western
+ITCH,USP9X,Reconstituted Complex
+ITCH,ITCH,Biochemical Activity
+DVL3,PRICKLE1,Affinity Capture-Western
+PRICKLE1,DVL3,Affinity Capture-Western
+MAPK8,NR4A1,Biochemical Activity
+TOMM40,BAX,Affinity Capture-Western
+BAX,TOMM40,Affinity Capture-Western
+TOMM22,TOMM40,Affinity Capture-Western
+TOMM22,BAX,Affinity Capture-Western
+SUPT4H1,SUPT5H,Co-crystal Structure
+CD27,SIVA1,Two-hybrid
+SIVA1,PXMP2,Two-hybrid
+SIVA1,PXMP2,Reconstituted Complex
+GTF3C6,GTF3C5,Reconstituted Complex
+GTF3C6,GTF3C4,Reconstituted Complex
+UBE2C,ANAPC2,Co-fractionation
+UBE2C,CDC20,Co-fractionation
+UBE2C,MAD2L1,Co-fractionation
+UBE2C,BUB1B,Co-fractionation
+POLD3,POLD2,Two-hybrid
+POLD3,PCNA,Affinity Capture-Western
+HSP90AA1,RAF1,Affinity Capture-Western
+HSP90AA1,ERBB2,Affinity Capture-Western
+HSP90AA1,AHSA1,Affinity Capture-Western
+HSP90AA1,PTGES3,Affinity Capture-Western
+HSP90AA1,CDC37,Affinity Capture-Western
+HSP90AA1,STIP1,Affinity Capture-Western
+TP53,UBE2N,Reconstituted Complex
+TP53,UBE2N,Affinity Capture-Western
+UBE2N,TP53,Affinity Capture-Western
+GGA1,VPS18,Reconstituted Complex
+GGA2,VPS18,Reconstituted Complex
+GGA3,VPS18,Reconstituted Complex
+GGA1,VPS18,Affinity Capture-Western
+GGA2,VPS18,Affinity Capture-Western
+GGA3,VPS18,Affinity Capture-Western
+VPS11,GGA3,Biochemical Activity
+VPS18,GGA3,Biochemical Activity
+ADRM1,PSMD2,Co-fractionation
+ADRM1,PSMC5,Co-fractionation
+ADRM1,PSMD4,Affinity Capture-Western
+ADRM1,PSMD2,Affinity Capture-Western
+PSMD2,ADRM1,Reconstituted Complex
+PSMD1,ADRM1,Reconstituted Complex
+ADRM1,UCHL5,Affinity Capture-Western
+UCHL5,ADRM1,Affinity Capture-Western
+UCHL5,PSMD2,Affinity Capture-Western
+UCHL5,ADRM1,Co-fractionation
+UCHL5,ADRM1,Reconstituted Complex
+CEBPA,SPI1,Reconstituted Complex
+CEBPA,MAPK8,Reconstituted Complex
+JUN,MAPK8,Reconstituted Complex
+MAPK8,CEBPA,Affinity Capture-Western
+MAPK8,CEBPA,Biochemical Activity
+EGFR,MUC1,Affinity Capture-Western
+MDM2,CDH1,Affinity Capture-Western
+CDH1,MDM2,Affinity Capture-Western
+CDH1,MDM2,Reconstituted Complex
+CTNNB1,HDAC7,Co-localization
+HDAC7,CTNNB1,Affinity Capture-Western
+CTNNB1,HDAC7,Affinity Capture-Western
+HDAC7,CTNNB1,Affinity Capture-MS
+HDAC7,YWHAE,Affinity Capture-MS
+HDAC7,YWHAH,Affinity Capture-MS
+HDAC7,YWHAZ,Affinity Capture-MS
+HDAC7,YWHAE,Affinity Capture-Western
+HDAC7,YWHAH,Affinity Capture-Western
+HDAC7,YWHAZ,Affinity Capture-Western
+CTNNB1,CDH5,Affinity Capture-Western
+HIST1H3E,DNMT3A,Reconstituted Complex
+HIST1H3E,DNMT3A,Far Western
+BRCA1,BARD1,Two-hybrid
+BRCA1,MYC,Two-hybrid
+BRCA1,BRD7,Two-hybrid
+BRD7,BRCA1,Affinity Capture-Western
+BRD7,MYC,Affinity Capture-Western
+BRCA1,BRD7,Affinity Capture-Western
+BRCA1,MYC,Affinity Capture-Western
+BRCA1,BRD7,Co-localization
+POU2F1,BRD7,Co-localization
+H3F3A,HIRA,Co-localization
+HIST1H3A,PHF8,Reconstituted Complex
+PHF8,WDR5,Affinity Capture-Western
+PHF8,ASH2L,Affinity Capture-Western
+PHF8,WDR5,Co-localization
+PHF8,HIST1H3A,Biochemical Activity
+EGFR,CBL,Affinity Capture-Western
+RNF216,RIPK1,Affinity Capture-Western
+RNF216,TIRAP,Affinity Capture-Western
+TICAM1,RNF216,Affinity Capture-Western
+TNFRSF1A,RIPK1,Affinity Capture-Western
+RIPK1,RNF216,Affinity Capture-Western
+RIPK1,HSP90AA1,Affinity Capture-Western
+MDM2,MDM2,Co-crystal Structure
+THAP3,HCFC1,Affinity Capture-MS
+THAP3,OGT,Affinity Capture-MS
+THAP3,HCFC1,Affinity Capture-Western
+THAP3,OGT,Affinity Capture-Western
+HCFC1,THAP3,Reconstituted Complex
+THAP1,HCFC1,Two-hybrid
+THAP1,HCFC1,Reconstituted Complex
+THAP1,HCFC1,Affinity Capture-Western
+THAP1,OGT,Affinity Capture-Western
+HCFC1,THAP1,Affinity Capture-Western
+HCFC1,OGT,Affinity Capture-Western
+THAP3,HCFC1,Co-localization
+HCFC1,THAP1,Co-localization
+INO80,ACTN4,Affinity Capture-Western
+INO80,ACTR5,Affinity Capture-Western
+INO80,ACTB,Affinity Capture-Western
+ACTN4,INO80,Reconstituted Complex
+UBTF,ACTN4,Affinity Capture-Western
+MYOD1,PBX1,Affinity Capture-MS
+MYOD1,IFRD1,Affinity Capture-MS
+MYOD1,ID1,Affinity Capture-MS
+MYOD1,ELSPBP1,Affinity Capture-MS
+MYOD1,SMARCA4,Affinity Capture-MS
+MYOD1,PHB,Affinity Capture-MS
+MYOD1,CBX1,Affinity Capture-MS
+MYOD1,PRMT5,Affinity Capture-MS
+MYOD1,CBFB,Affinity Capture-Western
+MYOD1,RUNX1,Affinity Capture-Western
+CBFB,MYOD1,Affinity Capture-Western
+CBFB,RUNX1,Affinity Capture-Western
+MYOD1,RUNX1,Reconstituted Complex
+PADI4,HDAC2,Affinity Capture-Western
+PADI4,TP53,Affinity Capture-Western
+HDAC2,PADI4,Reconstituted Complex
+PADI4,HDAC2,Reconstituted Complex
+TP53,HDAC2,Reconstituted Complex
+FOXO4,USP7,Affinity Capture-Western
+FOXO3,USP7,Affinity Capture-Western
+TP53,MDM2,Affinity Capture-Western
+HDAC5,PKN2,Affinity Capture-MS
+PKN1,HDAC5,Biochemical Activity
+PKN2,HDAC5,Biochemical Activity
+FOXP1,GATAD2B,Affinity Capture-Western
+FOXP2,GATAD2B,Affinity Capture-Western
+FOXP1,MTA1,Affinity Capture-Western
+SIN3B,RNF220,Affinity Capture-Western
+RNF220,SIN3B,Reconstituted Complex
+RNF220,SIN3B,Biochemical Activity
+DDB1,UBC,Affinity Capture-MS
+DDB1,PCNA,Affinity Capture-MS
+DDB1,CUL4B,Affinity Capture-MS
+DDB1,TRPC4AP,Affinity Capture-MS
+DDB1,DET1,Affinity Capture-MS
+DDB1,DDA1,Affinity Capture-MS
+DDB1,NEDD8,Affinity Capture-MS
+DDB1,CRBN,Affinity Capture-MS
+DDB1,COPS3,Affinity Capture-MS
+DDB1,COPS4,Affinity Capture-MS
+DDB1,COPS5,Affinity Capture-MS
+DDB1,COPS2,Affinity Capture-MS
+DDB1,COPS8,Affinity Capture-MS
+DDB1,COPS7B,Affinity Capture-MS
+DDB1,COPS7A,Affinity Capture-MS
+DDB1,COPS6,Affinity Capture-MS
+DDB1,CUL4A,Affinity Capture-MS
+DDB1,DDB2,Affinity Capture-MS
+DDB1,DCAF11,Affinity Capture-MS
+DDB1,DCAF5,Affinity Capture-MS
+DDB1,BRWD1,Affinity Capture-MS
+DDB1,PHIP,Affinity Capture-MS
+DDB1,DCAF6,Affinity Capture-MS
+DDB1,DCAF12,Affinity Capture-MS
+DDB1,DCAF10,Affinity Capture-MS
+DDB1,DCAF4,Affinity Capture-MS
+DDB1,WDTC1,Affinity Capture-MS
+CUL4A,UBC,Affinity Capture-MS
+CUL4A,PCNA,Affinity Capture-MS
+CUL4A,CUL4B,Affinity Capture-MS
+CUL4A,TRPC4AP,Affinity Capture-MS
+CUL4A,DET1,Affinity Capture-MS
+CUL4A,DDA1,Affinity Capture-MS
+CUL4A,NEDD8,Affinity Capture-MS
+CUL4A,CRBN,Affinity Capture-MS
+CUL4A,COPS3,Affinity Capture-MS
+CUL4A,COPS4,Affinity Capture-MS
+CUL4A,COPS5,Affinity Capture-MS
+CUL4A,COPS2,Affinity Capture-MS
+CUL4A,COPS8,Affinity Capture-MS
+CUL4A,COPS7B,Affinity Capture-MS
+CUL4A,COPS7A,Affinity Capture-MS
+CUL4A,COPS6,Affinity Capture-MS
+CUL4A,DDB1,Affinity Capture-MS
+CUL4A,DDB2,Affinity Capture-MS
+CUL4A,DCAF11,Affinity Capture-MS
+CUL4A,DCAF5,Affinity Capture-MS
+CUL4A,BRWD1,Affinity Capture-MS
+CUL4A,PHIP,Affinity Capture-MS
+CUL4A,DCAF6,Affinity Capture-MS
+CUL4A,DCAF12,Affinity Capture-MS
+CUL4A,DCAF10,Affinity Capture-MS
+CUL4A,DCAF4,Affinity Capture-MS
+CUL4A,WDTC1,Affinity Capture-MS
+CUL4A,CAND1,Affinity Capture-MS
+DCAF11,DDB1,Reconstituted Complex
+DCAF8,DDB1,Reconstituted Complex
+HSPA4,PRKCB,Affinity Capture-Western
+PRKCB,HSPA4,Reconstituted Complex
+NASP,HIST1H3A,Reconstituted Complex
+NASP,HIST1H4A,Reconstituted Complex
+UBTF,TLE1,Affinity Capture-Western
+RUNX2,TLE1,Affinity Capture-Western
+TLE1,RUNX2,Co-localization
+ZMIZ2,PIAS3,Two-hybrid
+ZMIZ1,PIAS3,Two-hybrid
+ZMIZ2,PIAS3,Affinity Capture-Western
+PIAS3,ZMIZ2,Reconstituted Complex
+PIAS3,ZMIZ2,Affinity Capture-Western
+PIAS1,ZMIZ2,Affinity Capture-Western
+PIAS4,ZMIZ2,Affinity Capture-Western
+ATRX,SMC1A,Affinity Capture-Western
+DNAJB6,HDAC4,Affinity Capture-Western
+DNAJB6,HDAC6,Affinity Capture-Western
+DNAJB6,SIRT2,Affinity Capture-Western
+DNAJB8,HDAC4,Affinity Capture-Western
+DNAJB8,HDAC6,Affinity Capture-Western
+DNAJB8,SIRT2,Affinity Capture-Western
+HDAC4,DNAJB8,Affinity Capture-Western
+HDAC6,DNAJB8,Affinity Capture-Western
+SIRT2,DNAJB8,Affinity Capture-Western
+HDAC4,DNAJB6,Affinity Capture-Western
+HDAC6,DNAJB6,Affinity Capture-Western
+SIRT2,DNAJB6,Affinity Capture-Western
+SIRT6,PRKDC,Affinity Capture-MS
+SIRT6,XRCC5,Affinity Capture-MS
+SIRT6,XRCC6,Affinity Capture-MS
+SIRT6,PRKDC,Affinity Capture-Western
+SIRT6,XRCC5,Affinity Capture-Western
+SIRT6,XRCC6,Affinity Capture-Western
+PRKDC,SIRT6,Co-localization
+ERBB3,RPN1,PCA
+ERBB3,EGR1,PCA
+ERBB3,ZNF207,PCA
+BCAP31,APP,PCA
+HDAC1,FRA10F,Affinity Capture-Western
+FRA10F,HDAC1,Affinity Capture-Western
+FRA10F,HDAC1,Reconstituted Complex
+CDKN1A,HDAC1,Reconstituted Complex
+HDAC1,CDKN1A,Affinity Capture-Western
+SMAD3,SMAD4,Affinity Capture-Western
+CDK1,HMGB1,Biochemical Activity
+CDK1,HMGB1,Reconstituted Complex
+PRKACA,POU2F1,Biochemical Activity
+EGFR,HDAC6,Affinity Capture-Western
+HDAC6,EGFR,Co-fractionation
+HDAC6,EEA1,Co-fractionation
+HCFC1,UL9,Two-hybrid
+HCFC1,UL30,Two-hybrid
+HCFC1,UL52,Two-hybrid
+HCFC1,UL9,Affinity Capture-Western
+HCFC1,UL30,Affinity Capture-Western
+HCFC1,UL52,Affinity Capture-Western
+CDK1,CCNA1,Reconstituted Complex
+TP53,SP1,Affinity Capture-Western
+HCFC1,ASF1B,Two-hybrid
+HCFC1,ASF1B,Affinity Capture-Western
+AJUBA,RARA,Affinity Capture-Western
+RARA,AJUBA,Affinity Capture-Western
+RARA,AJUBA,Reconstituted Complex
+AJUBA,RARG,Affinity Capture-Western
+AJUBA,RXRG,Affinity Capture-Western
+RARA,LIMD1,Affinity Capture-Western
+RARA,WTIP,Affinity Capture-Western
+AJUBA,RARA,Co-fractionation
+KAT7,HIST1H4A,Biochemical Activity
+HCFC1,SIN3A,Affinity Capture-Western
+EZH2,JARID2,Affinity Capture-MS
+EZH2,MTF2,Affinity Capture-MS
+EZH2,JARID2,Affinity Capture-Western
+EZH2,MTF2,Affinity Capture-Western
+EZH2,SUZ12,Affinity Capture-MS
+EZH2,RBBP4,Affinity Capture-MS
+JARID2,EZH2,Affinity Capture-Western
+JARID2,SUZ12,Affinity Capture-Western
+MTF2,EZH2,Affinity Capture-Western
+MTF2,SUZ12,Affinity Capture-Western
+MTF2,JARID2,Affinity Capture-Western
+JARID2,EZH2,Reconstituted Complex
+ANXA2,STAT6,Two-hybrid
+TP53,STAT6,Two-hybrid
+ANXA2,STAT6,Affinity Capture-Western
+STAT6,ANXA2,Affinity Capture-Western
+ANXA2,STAT6,Reconstituted Complex
+ANXA2,STAT6,Co-localization
+ATF2,HDAC4,Affinity Capture-Western
+HDAC4,ATF2,Affinity Capture-Western
+CBX5,ATRX,Co-localization
+ATRX,H3F3A,Affinity Capture-Western
+ATRX,H3F3B,Affinity Capture-Western
+MORC2,HDAC4,Co-localization
+RAD51,MCPH1,Co-localization
+BRCA2,MCPH1,Co-localization
+CDKN1A,CDK2,Affinity Capture-Western
+CDKN1A,CDK4,Affinity Capture-Western
+CDKN1A,CDK6,Affinity Capture-Western
+CDKN1A,MAPK8,Affinity Capture-Western
+CDKN1A,JUN,Affinity Capture-Western
+JUN,CDKN1A,Affinity Capture-Western
+MAPK8,CDKN1A,Affinity Capture-Western
+PPM1D,H2AFX,Biochemical Activity
+KAT5,KAT5,Biochemical Activity
+KAT5,SIRT1,Affinity Capture-Western
+SIRT1,KAT5,Biochemical Activity
+RUNX2,HDAC4,Affinity Capture-Western
+HDAC4,RUNX2,Affinity Capture-Western
+DAXX,PLAGL1,Two-hybrid
+PLAGL1,DAXX,Reconstituted Complex
+PML,PLAGL1,Reconstituted Complex
+TP53,TAF6,Reconstituted Complex
+TP53,TAF6,Affinity Capture-Western
+TAF6,TP53,Affinity Capture-Western
+MYB,KMT2A,Affinity Capture-Western
+MYB,WDR5,Affinity Capture-Western
+MYB,RBBP5,Affinity Capture-Western
+MYB,ASH2L,Affinity Capture-Western
+MYB,MEN1,Affinity Capture-Western
+SMAD3,BMP7,Co-localization
+ASH2L,CHD8,Co-localization
+CHD8,WDR5,Reconstituted Complex
+CHD8,ASH2L,Reconstituted Complex
+CHD8,RBBP5,Reconstituted Complex
+AIRE,MYBBP1A,Affinity Capture-MS
+AIRE,NOP56,Affinity Capture-MS
+AIRE,DDX5,Affinity Capture-MS
+AIRE,DDX17,Affinity Capture-MS
+AIRE,RUVBL2,Affinity Capture-MS
+AIRE,TOP2A,Affinity Capture-MS
+AIRE,PRKDC,Affinity Capture-MS
+AIRE,SSRP1,Affinity Capture-MS
+AIRE,PARP1,Affinity Capture-MS
+AIRE,POLR2A,Affinity Capture-MS
+AIRE,PCNA,Affinity Capture-MS
+AIRE,POLR2B,Affinity Capture-MS
+AIRE,MCM2,Affinity Capture-MS
+AIRE,MCM5,Affinity Capture-MS
+AIRE,MCM6,Affinity Capture-MS
+AIRE,MSH6,Affinity Capture-MS
+AIRE,HIST1H2AC,Affinity Capture-MS
+AIRE,HIST1H2BO,Affinity Capture-MS
+AIRE,MSH2,Affinity Capture-MS
+AIRE,NASP,Affinity Capture-MS
+AIRE,RAD21,Affinity Capture-MS
+AIRE,SMC1A,Affinity Capture-MS
+AIRE,SMC3,Affinity Capture-MS
+AIRE,CHD6,Affinity Capture-MS
+AIRE,TRIM28,Affinity Capture-MS
+AIRE,LMNB1,Affinity Capture-MS
+AIRE,KPNB1,Affinity Capture-MS
+AIRE,XPO1,Affinity Capture-MS
+AIRE,IPO7,Affinity Capture-MS
+AIRE,XPOT,Affinity Capture-MS
+AIRE,RANBP2,Affinity Capture-MS
+AIRE,RANBP9,Affinity Capture-MS
+AIRE,NUP93,Affinity Capture-MS
+AIRE,SRSF3,Affinity Capture-MS
+AIRE,SRSF1,Affinity Capture-MS
+AIRE,PABPC1,Affinity Capture-MS
+AIRE,SRSF2,Affinity Capture-MS
+AIRE,SNRPD3,Affinity Capture-MS
+AIRE,EFTUD2,Affinity Capture-MS
+AIRE,SNRPB,Affinity Capture-MS
+AIRE,GEMIN5,Affinity Capture-MS
+PRKDC,AIRE,Affinity Capture-Western
+SSRP1,AIRE,Affinity Capture-Western
+TOP2A,AIRE,Affinity Capture-Western
+LMNB1,AIRE,Affinity Capture-Western
+NUP93,AIRE,Affinity Capture-Western
+NASP,AIRE,Affinity Capture-Western
+DDX5,AIRE,Affinity Capture-Western
+SRSF2,AIRE,Affinity Capture-Western
+MYBBP1A,AIRE,Affinity Capture-Western
+TRIM28,AIRE,Affinity Capture-Western
+RAD21,AIRE,Affinity Capture-Western
+SMC1A,AIRE,Affinity Capture-Western
+HIST1H3A,EHMT1,Co-crystal Structure
+ACSM3,EHMT2,Co-crystal Structure
+SASH1,SUV39H2,Co-crystal Structure
+RANBP1,RAN,Affinity Capture-Western
+SMARCA4,SMARCA2,Co-fractionation
+SMARCA4,SMARCB1,Co-fractionation
+SMARCA4,RB1,Co-fractionation
+SMARCA4,NR3C1,Co-fractionation
+SMARCA4,JUNB,Co-fractionation
+SMARCA4,POLR2A,Co-fractionation
+SMARCA4,LMNB1,Co-fractionation
+TAF6,TAF12,Two-hybrid
+STAT1,CREBBP,Affinity Capture-Western
+CREBBP,STAT1,Reconstituted Complex
+ORMDL3,SPTLC1,Affinity Capture-Western
+GLI1,HDAC1,Affinity Capture-Western
+HDAC1,GLI1,Affinity Capture-Western
+HDAC2,GLI1,Affinity Capture-Western
+HDAC1,GLI2,Affinity Capture-Western
+KCTD11,HDAC1,Affinity Capture-Western
+KCTD11,CUL3,Affinity Capture-Western
+RELA,KDM2A,Affinity Capture-Western
+RELA,NSD1,Affinity Capture-Western
+KDM2A,RELA,Biochemical Activity
+HDAC4,SENP1,Co-localization
+HDAC2,MTA1,Co-localization
+TP53,MTA1,Co-localization
+MEN1,KMT2A,Co-localization
+ASH2L,KMT2A,Co-localization
+RBBP5,KMT2A,Co-localization
+MRGBP,BRD8,Two-hybrid
+MRGBP,BRD8,Affinity Capture-Western
+BRD8,MRGBP,Affinity Capture-Western
+CDC6,ATR,Reconstituted Complex
+CDC6,ATM,Reconstituted Complex
+CDC6,ATR,Affinity Capture-Western
+CDC6,ATRIP,Reconstituted Complex
+CDC6,atr,Reconstituted Complex
+TBP,HMGB1,Reconstituted Complex
+RAN,RCC1,Reconstituted Complex
+RAN,RCC1,Co-fractionation
+RAN,RANBP1,Co-fractionation
+RPS6KA2,RPS6KA2,Biochemical Activity
+RPS6KA2,JUN,Biochemical Activity
+RPS6KA2,FOS,Biochemical Activity
+RPA1,CCNA2,Reconstituted Complex
+RBL1,CCNA2,Reconstituted Complex
+CDKN1B,COPS5,Reconstituted Complex
+COPS5,CDKN1B,Reconstituted Complex
+CDKN1B,COPS5,Affinity Capture-Western
+CREBBP,NCOA3,Reconstituted Complex
+EP300,HDAC6,Affinity Capture-Western
+HDAC6,EP300,Affinity Capture-Western
+TSHZ1,APBB1,Reconstituted Complex
+TSHZ2,APBB1,Reconstituted Complex
+TSHZ3,APBB1,Reconstituted Complex
+APBB1,TSHZ3,Affinity Capture-Western
+APBB1,HDAC1,Affinity Capture-Western
+SMARCA4,SRF,Affinity Capture-Western
+SMARCA4,MYOCD,Affinity Capture-Western
+SRF,SMARCA4,Affinity Capture-Western
+SRF,MYOCD,Affinity Capture-Western
+MYOCD,SMARCA4,Affinity Capture-Western
+MYOCD,SRF,Affinity Capture-Western
+MYOCD,SMARCA4,Reconstituted Complex
+RARA,SKI,Affinity Capture-Western
+SKI,HDAC3,Affinity Capture-Western
+BNIP3,HDAC1,Affinity Capture-Western
+SFPQ,SP1,Affinity Capture-Western
+SFPQ,SP3,Affinity Capture-Western
+SFPQ,HDAC1,Affinity Capture-Western
+SFPQ,HDAC2,Affinity Capture-Western
+SFPQ,SIN3A,Affinity Capture-Western
+SFPQ,NR3C1,Affinity Capture-Western
+SSX2,RNF2,Reconstituted Complex
+KDM5B,CACNA1H,Affinity Capture-MS
+KDM5B,CDC20,Affinity Capture-MS
+KDM5B,PCNX,Affinity Capture-MS
+KDM5B,SMARCC2,Affinity Capture-MS
+KDM5B,DGKQ,Affinity Capture-MS
+KDM5B,CACNA1A,Affinity Capture-MS
+KDM5B,NR4A3,Affinity Capture-MS
+KDM5B,BMP2K,Affinity Capture-MS
+KDM5B,VGLL3,Affinity Capture-MS
+KDM5B,CDX2,Affinity Capture-MS
+KDM5B,CBX4,Affinity Capture-MS
+KDM5B,SLITRK3,Affinity Capture-MS
+KDM5B,AXIN2,Affinity Capture-MS
+KDM5B,FOXC2,Affinity Capture-MS
+KDM5B,ONECUT2,Affinity Capture-MS
+KDM5B,MAF,Affinity Capture-MS
+KDM5B,ELF4,Affinity Capture-MS
+KDM5B,SLC39A6,Affinity Capture-MS
+KDM5B,BRD4,Affinity Capture-MS
+KDM5B,RNF43,Affinity Capture-MS
+KDM5B,RBM15B,Affinity Capture-MS
+KDM5B,PRDM13,Affinity Capture-MS
+KDM5B,GTF2A1,Affinity Capture-MS
+KDM5B,DBNL,Affinity Capture-MS
+KDM5B,CECR6,Affinity Capture-MS
+KDM5B,RHOBTB2,Affinity Capture-MS
+KDM5B,TAF2,Affinity Capture-MS
+KDM5B,SHOX2,Affinity Capture-MS
+KDM5B,ARID1B,Affinity Capture-MS
+KDM5B,HOXA1,Affinity Capture-MS
+KDM5B,GRIN2B,Affinity Capture-MS
+KDM5B,MEOX2,Affinity Capture-MS
+KDM5B,CBX4,Affinity Capture-Western
+KDM5B,CBX4,Reconstituted Complex
+CBX4,KDM5B,Reconstituted Complex
+CBX4,KDM5B,Affinity Capture-Western
+SKP2,TOB1,Affinity Capture-Western
+TOB1,SKP2,Affinity Capture-Western
+DDB1,RFWD2,Affinity Capture-MS
+DDB1,ERCC8,Affinity Capture-MS
+DDB1,VPRBP,Affinity Capture-MS
+DDB1,DTL,Affinity Capture-MS
+DDB1,AMBRA1,Affinity Capture-MS
+DDB1,DCAF4,Affinity Capture-MS
+DDB1,DCAF5,Affinity Capture-MS
+DDB1,DCAF6,Affinity Capture-MS
+DDB1,DCAF7,Affinity Capture-MS
+DDB1,DCAF8,Affinity Capture-MS
+DDB1,WDTC1,Affinity Capture-MS
+DDB1,DCAF10,Affinity Capture-MS
+DDB1,DCAF11,Affinity Capture-MS
+DDB1,DCAF12,Affinity Capture-MS
+DDB1,DCAF13,Affinity Capture-MS
+DDB1,PHIP,Affinity Capture-MS
+DDB1,DCAF15,Affinity Capture-MS
+DDB1,DCAF16,Affinity Capture-MS
+DDB1,DCAF17,Affinity Capture-MS
+DDB1,DET1,Affinity Capture-MS
+DDB1,CUL4A,Affinity Capture-MS
+DDB1,CUL4B,Affinity Capture-MS
+DDB1,GPS1,Affinity Capture-MS
+DDB1,COPS2,Affinity Capture-MS
+DDB1,COPS3,Affinity Capture-MS
+DDB1,COPS4,Affinity Capture-MS
+DDB1,COPS5,Affinity Capture-MS
+DDB1,COPS6,Affinity Capture-MS
+DDB1,COPS7A,Affinity Capture-MS
+DDB1,COPS7B,Affinity Capture-MS
+DTL,DDB1,Affinity Capture-Western
+VPRBP,DDB1,Affinity Capture-Western
+DTL,DDB1,Affinity Capture-MS
+DTL,CUL4B,Affinity Capture-MS
+BCOR,PCGF1,Affinity Capture-MS
+BCOR,KDM2B,Affinity Capture-MS
+BCOR,HSPA4,Affinity Capture-MS
+BCOR,RING1,Affinity Capture-MS
+BCOR,RNF2,Affinity Capture-MS
+BCOR,RYBP,Affinity Capture-MS
+BCOR,SKP1,Affinity Capture-MS
+PCGF1,BCOR,Affinity Capture-MS
+PCGF1,KDM2B,Affinity Capture-MS
+PCGF1,HSPA4,Affinity Capture-MS
+PCGF1,RING1,Affinity Capture-MS
+PCGF1,RNF2,Affinity Capture-MS
+PCGF1,RYBP,Affinity Capture-MS
+PCGF1,SKP1,Affinity Capture-MS
+PCGF1,BCOR,Reconstituted Complex
+BCOR,PCGF1,Affinity Capture-Western
+PCGF1,RING1,Reconstituted Complex
+PCGF1,RNF2,Reconstituted Complex
+RYBP,RING1,Reconstituted Complex
+RYBP,RNF2,Reconstituted Complex
+RING1,RNF2,Reconstituted Complex
+KDM2B,SKP1,Reconstituted Complex
+KDM2B,BCOR,Affinity Capture-Western
+CHEK2,MDM2,Biochemical Activity
+USP7,MDM2,Affinity Capture-Western
+MDM2,YWHAQ,Affinity Capture-Western
+COPS5,TRAF2,Affinity Capture-Western
+TRAF2,COPS5,Affinity Capture-Western
+COPS5,TP53,Affinity Capture-Western
+RFWD2,RFWD2,Biochemical Activity
+RFWD2,TP53,Affinity Capture-Western
+CBL,ITSN1,Far Western
+ADRM1,UCHL5,Two-hybrid
+ADRM1,UCHL5,Affinity Capture-Western
+UCHL5,ADRM1,Affinity Capture-Western
+UCHL5,ADRM1,Reconstituted Complex
+USP2,UBC,Co-crystal Structure
+TRIM11,MED15,Affinity Capture-MS
+MED15,TRIM11,Affinity Capture-Western
+TRIM11,MED15,Affinity Capture-Western
+ITCH,JUN,Reconstituted Complex
+TP53BP1,USP28,Affinity Capture-MS
+TP53BP1,USP28,Affinity Capture-Western
+USP28,TP53BP1,Affinity Capture-Western
+USP28,CLSPN,Affinity Capture-Western
+USP28,MDC1,Affinity Capture-Western
+SLC6A3,NEDD4,Affinity Capture-Western
+SLC6A3,EPS15,Affinity Capture-Western
+SLC6A3,EPN1,Affinity Capture-Western
+BTRC,CLSPN,Affinity Capture-Western
+FBXW11,CLSPN,Affinity Capture-Western
+CLSPN,PLK1,Affinity Capture-Western
+PLK1,CLSPN,Affinity Capture-Western
+BTRC,CLSPN,Affinity Capture-Western
+ISG15,UBA7,Affinity Capture-MS
+ISG15,RGS3,Affinity Capture-MS
+ISG15,ERCC2,Affinity Capture-MS
+ISG15,HSPA4,Affinity Capture-MS
+ISG15,STK38,Affinity Capture-MS
+ISG15,PPM1B,Affinity Capture-MS
+ISG15,FUT4,Affinity Capture-MS
+ISG15,ENO1,Affinity Capture-MS
+HERC5,ERCC2,Reconstituted Complex
+HERC5,STK38,Reconstituted Complex
+HERC5,PITX2,Reconstituted Complex
+TRIM25,ERCC2,Reconstituted Complex
+TRIM25,STK38,Reconstituted Complex
+TRIM25,PITX2,Reconstituted Complex
+SKP2,CUL1,Affinity Capture-MS
+SKP2,TRIM21,Affinity Capture-MS
+SKP2,SKP1,Affinity Capture-MS
+SKP2,TRIM21,Affinity Capture-Western
+TRIM21,CUL1,Affinity Capture-Western
+TRIM21,SKP2,Affinity Capture-Western
+TRIM21,SKP1,Affinity Capture-Western
+TRIM21,CUL1,Co-fractionation
+TRIM21,SKP2,Co-fractionation
+TRIM21,SKP1,Co-fractionation
+FANCM,BLM,Affinity Capture-MS
+FANCM,FANCA,Affinity Capture-MS
+FANCM,C17orf70,Affinity Capture-MS
+FANCM,RMI1,Affinity Capture-MS
+FANCM,RPA1,Affinity Capture-MS
+FANCM,FANCG,Affinity Capture-MS
+FANCM,FANCE,Affinity Capture-MS
+FANCM,FANCC,Affinity Capture-MS
+FANCM,FANCF,Affinity Capture-MS
+FANCM,RPA2,Affinity Capture-MS
+FANCM,C19orf40,Affinity Capture-MS
+FANCM,FANCA,Affinity Capture-Western
+FANCM,C17orf70,Affinity Capture-Western
+FANCM,FANCB,Affinity Capture-Western
+FANCM,FANCG,Affinity Capture-Western
+FANCM,FANCL,Affinity Capture-Western
+FANCM,FANCF,Affinity Capture-Western
+FANCM,C19orf40,Affinity Capture-Western
+FANCA,C17orf70,Affinity Capture-Western
+FANCA,FANCB,Affinity Capture-Western
+FANCA,FANCG,Affinity Capture-Western
+FANCA,FANCL,Affinity Capture-Western
+FANCA,FANCF,Affinity Capture-Western
+FANCA,C19orf40,Affinity Capture-Western
+FANCA,FANCM,Affinity Capture-Western
+HTT,STP2,Synthetic Growth Defect
+HTT,PHM8,Synthetic Growth Defect
+HTT,YHB1,Synthetic Growth Defect
+HTT,RIM4,Synthetic Growth Defect
+HTT,OAF3,Synthetic Growth Defect
+HTT,PSP1,Synthetic Growth Defect
+HTT,HLJ1,Synthetic Growth Defect
+HTT,YOR292C,Synthetic Growth Defect
+HTT,GDA1,Synthetic Growth Defect
+SNCA,ARL3,Synthetic Growth Defect
+SNCA,OPI3,Synthetic Growth Defect
+SNCA,COG6,Synthetic Growth Defect
+SNCA,PEX2,Synthetic Growth Defect
+SNCA,VPS52,Synthetic Growth Defect
+SNCA,TLG2,Synthetic Growth Defect
+SNCA,VPS28,Synthetic Growth Defect
+SNCA,YAT1,Synthetic Growth Defect
+SNCA,SOD2,Synthetic Growth Defect
+HTT,APJ1,Synthetic Growth Defect
+HTT,APM2,Synthetic Growth Defect
+HTT,AYR1,Synthetic Growth Defect
+HTT,CIT2,Synthetic Growth Defect
+HTT,CMK1,Synthetic Growth Defect
+HTT,COS111,Synthetic Growth Defect
+HTT,CPS1,Synthetic Growth Defect
+HTT,DCG1,Synthetic Growth Defect
+HTT,RRF1,Synthetic Growth Defect
+HTT,FPR2,Synthetic Growth Defect
+HTT,GLO2,Synthetic Growth Defect
+HTT,GSH2,Synthetic Growth Defect
+HTT,HLR1,Synthetic Growth Defect
+HTT,HMS1,Synthetic Growth Defect
+HTT,IPK1,Synthetic Growth Defect
+HTT,KGD1,Synthetic Growth Defect
+HTT,MSB1,Synthetic Growth Defect
+HTT,MUP1,Synthetic Growth Defect
+HTT,PRM5,Synthetic Growth Defect
+HTT,SAM2,Synthetic Growth Defect
+HTT,SAS3,Synthetic Growth Defect
+HTT,SDT1,Synthetic Growth Defect
+HTT,SIP18,Synthetic Growth Defect
+HTT,SNG1,Synthetic Growth Defect
+HTT,TEA1,Synthetic Growth Defect
+HTT,TVP15,Synthetic Growth Defect
+HTT,UBP13,Synthetic Growth Defect
+HTT,VPS70,Synthetic Growth Defect
+HTT,YRB30,Synthetic Growth Defect
+HTT,MMS4,Synthetic Growth Defect
+HTT,MTC4,Synthetic Growth Defect
+HTT,YGR015C,Synthetic Growth Defect
+HTT,YJR107W,Synthetic Growth Defect
+HTT,YMR160W,Synthetic Growth Defect
+HTT,YPL067C,Synthetic Growth Defect
+SNCA,APE2,Synthetic Growth Defect
+SNCA,ARO1,Synthetic Growth Defect
+SNCA,CRH1,Synthetic Growth Defect
+SNCA,ATG15,Synthetic Growth Defect
+SNCA,DPP1,Synthetic Growth Defect
+SNCA,FUN26,Synthetic Growth Defect
+SNCA,GIP2,Synthetic Growth Defect
+SNCA,GLO4,Synthetic Growth Defect
+SNCA,GTT1,Synthetic Growth Defect
+SNCA,HBS1,Synthetic Growth Defect
+SNCA,HSP30,Synthetic Growth Defect
+SNCA,INO4,Synthetic Growth Defect
+SNCA,MAD1,Synthetic Growth Defect
+SNCA,MAL31,Synthetic Growth Defect
+SNCA,MEI4,Synthetic Growth Defect
+SNCA,MET17,Synthetic Growth Defect
+SNCA,MET32,Synthetic Growth Defect
+SNCA,MSB3,Synthetic Growth Defect
+SNCA,NBP2,Synthetic Growth Defect
+SNCA,NIT2,Synthetic Growth Defect
+SNCA,NUP53,Synthetic Growth Defect
+SNCA,PCA1,Synthetic Growth Defect
+SNCA,PHO13,Synthetic Growth Defect
+SNCA,POX1,Synthetic Growth Defect
+SNCA,PTK2,Synthetic Growth Defect
+SNCA,RPL41A,Synthetic Growth Defect
+SNCA,RNY1,Synthetic Growth Defect
+SNCA,STF1,Synthetic Growth Defect
+SNCA,STP2,Synthetic Growth Defect
+SNCA,SUV3,Synthetic Growth Defect
+SNCA,SWR1,Synthetic Growth Defect
+SNCA,THI7,Synthetic Growth Defect
+SNCA,THR1,Synthetic Growth Defect
+SNCA,TNA1,Synthetic Growth Defect
+SNCA,TSL1,Synthetic Growth Defect
+SNCA,UBC8,Synthetic Growth Defect
+SNCA,VPS24,Synthetic Growth Defect
+SNCA,VPS60,Synthetic Growth Defect
+SNCA,WAR1,Synthetic Growth Defect
+SNCA,YBR284W,Synthetic Growth Defect
+SNCA,YCL042W,Synthetic Growth Defect
+SNCA,NPP1,Synthetic Growth Defect
+SNCA,YCR050C,Synthetic Growth Defect
+SNCA,YCR051W,Synthetic Growth Defect
+SNCA,YFR035C,Synthetic Growth Defect
+SNCA,MTC3,Synthetic Growth Defect
+SNCA,EMC4,Synthetic Growth Defect
+SNCA,YGL262W,Synthetic Growth Defect
+SNCA,YGR130C,Synthetic Growth Defect
+SNCA,GTO1,Synthetic Growth Defect
+SNCA,YGR201C,Synthetic Growth Defect
+SNCA,AIM46,Synthetic Growth Defect
+SNCA,YJL118W,Synthetic Growth Defect
+SNCA,ALB1,Synthetic Growth Defect
+SNCA,MTC2,Synthetic Growth Defect
+SNCA,YPF1,Synthetic Growth Defect
+SNCA,YKR023W,Synthetic Growth Defect
+SNCA,PSY3,Synthetic Growth Defect
+SNCA,ABZ2,Synthetic Growth Defect
+FBXW11,TRIM21,Reconstituted Complex
+TRIM21,FBXW11,Affinity Capture-Western
+TRIM21,SKP2,Reconstituted Complex
+TRIM21,CUL1,Reconstituted Complex
+TRIM21,CDKN1B,Affinity Capture-Western
+MDM2,TP53,Reconstituted Complex
+BTRC,SMAD4,Affinity Capture-Western
+SMAD4,BTRC,Affinity Capture-Western
+SMAD4,SKP2,Affinity Capture-Western
+PARK7,SOD1,PCA
+UBC,PSMD4,Reconstituted Complex
+UBQLN1,PSMD4,Reconstituted Complex
+PARK2,EPS15,Reconstituted Complex
+PARK2,Eps15,Reconstituted Complex
+PARK2,EPS15,Biochemical Activity
+MDM2,TP53,Biochemical Activity
+CUX1,TLE4,Affinity Capture-Western
+TLE4,CUX1,Affinity Capture-Western
+TLE4,CUX1,Reconstituted Complex
+RORA,CEBPB,Affinity Capture-Western
+IRAK1,BCL10,Reconstituted Complex
+MTOR,RPTOR,Affinity Capture-Western
+MTOR,tti1,Affinity Capture-Western
+MTOR,TTI1,Affinity Capture-Western
+MTOR,RICTOR,Affinity Capture-Western
+TTI1,MTOR,Affinity Capture-Western
+MTOR,MLST8,Affinity Capture-Western
+TTI1,TELO2,Affinity Capture-Western
+TELO2,TTI1,Affinity Capture-Western
+TTI1,ATM,Affinity Capture-Western
+TTI1,ATR,Affinity Capture-Western
+TTI1,PRKDC,Affinity Capture-Western
+TTI1,SMG1,Affinity Capture-Western
+TTI1,TRRAP,Affinity Capture-Western
+TELO2,ATM,Affinity Capture-Western
+TELO2,ATR,Affinity Capture-Western
+TELO2,PRKDC,Affinity Capture-Western
+TELO2,SMG1,Affinity Capture-Western
+TELO2,TRRAP,Affinity Capture-Western
+HDAC10,HSPA8,Affinity Capture-Western
+HDAC10,HSPA8,Reconstituted Complex
+PAX3,HDAC10,Affinity Capture-Western
+HDAC10,PAX3,Reconstituted Complex
+PAX3,HDAC10,Reconstituted Complex
+HDAC10,TRIM28,Affinity Capture-Western
+HDAC10,TRIM28,Reconstituted Complex
+TRIM28,HDAC10,Affinity Capture-Western
+TRIM28,PAX3,Affinity Capture-Western
+PAX3,TRIM28,Affinity Capture-Western
+MSH6,ATR,Affinity Capture-Western
+MSH6,TOPBP1,Affinity Capture-Western
+MSH6,CLSPN,Affinity Capture-Western
+MSH6,CHEK1,Affinity Capture-Western
+PMS2,TOPBP1,Affinity Capture-Western
+PMS2,CLSPN,Affinity Capture-Western
+TOPBP1,PMS2,Affinity Capture-Western
+CLSPN,PMS2,Affinity Capture-Western
+ATR,MSH6,Affinity Capture-Western
+CLSPN,MSH6,Affinity Capture-Western
+TOPBP1,MSH6,Affinity Capture-Western
+CHEK1,MSH6,Affinity Capture-Western
+EGFR,AIP,PCA
+EGFR,PSMA7,PCA
+EGFR,MEGF6,PCA
+EGFR,SORBS2,PCA
+EGFR,HEXIM1,PCA
+EGFR,AHSA1,PCA
+EGFR,ALDOA,PCA
+EGFR,UROD,PCA
+EGFR,UCHL1,PCA
+EGFR,HSP90B1,PCA
+EGFR,CBR1,PCA
+EGFR,FAH,PCA
+EGFR,GOT1,PCA
+EGFR,RAB3A,PCA
+EGFR,CSRP1,PCA
+EGFR,CFL1,PCA
+EGFR,EEF1G,PCA
+EGFR,PRKAR1B,PCA
+EGFR,ATIC,PCA
+EGFR,STIP1,PCA
+EGFR,HSPA4,PCA
+EGFR,MDH1,PCA
+EGFR,PTGDS,PCA
+EGFR,MATR3,PCA
+EGFR,SEPP1,PCA
+EGFR,OAZ1,PCA
+EGFR,PSMD4,PCA
+EGFR,TPI1,PCA
+EGFR,GABARAPL2,PCA
+EGFR,ARF6,PCA
+EGFR,CNTN2,PCA
+EGFR,FKBP4,PCA
+EGFR,AKAP12,PCA
+EGFR,PTPN12,PCA
+EGFR,PRDX1,PCA
+EGFR,AHNAK,PCA
+EGFR,MAP3K12,PCA
+EGFR,GPM6B,PCA
+EGFR,DCTN2,PCA
+EGFR,COL9A3,PCA
+EGFR,DYNC1H1,PCA
+EGFR,FKBP8,PCA
+EGFR,SPCS2,PCA
+EGFR,PDK3,PCA
+EGFR,UBE2V2,PCA
+EGFR,ADRM1,PCA
+EGFR,RAP1GDS1,PCA
+EGFR,HSPA8,PCA
+EGFR,PPP5C,PCA
+EGFR,HSPA1A,PCA
+EGFR,FN1,PCA
+EGFR,TPM1,PCA
+EGFR,KCTD9P2,PCA
+EGFR,TMCO3,PCA
+EGFR,CEND1,PCA
+EGFR,RUSC2,PCA
+EGFR,SPARCL1,PCA
+EGFR,MGARP,PCA
+EGFR,PRCC,PCA
+EGFR,AP2M1,PCA
+EGFR,NDN,PCA
+EGFR,OLFM1,PCA
+EGFR,DNAJC4,PCA
+EGFR,VAPA,PCA
+EGFR,HDAC6,PCA
+EGFR,STUB1,PCA
+EGFR,PIN4,PCA
+EGFR,MAST1,PCA
+EGFR,MOB4,PCA
+EGFR,HDAC6,Affinity Capture-Western
+EGFR,MAP3K12,Affinity Capture-Western
+EGFR,HSPA4,Affinity Capture-Western
+HDAC6,EGFR,Affinity Capture-Western
+HDAC6,ERBB2,PCA
+HDAC6,ERBB3,PCA
+HDAC6,ERBB4,PCA
+MAPK8,SIRT1,Affinity Capture-Western
+MAPK8,SIRT1,Biochemical Activity
+HDAC3,AKT1,Affinity Capture-Western
+ATXN1,STUB1,Affinity Capture-Western
+STUB1,ATXN1,Biochemical Activity
+HGS,UBC,Affinity Capture-Western
+STAM,UBC,Affinity Capture-Western
+EPS15,USP8,Affinity Capture-Western
+STAMBP,CHMP1A,Affinity Capture-Western
+STAMBP,CHMP1B,Affinity Capture-Western
+STAMBP,CHMP2A,Affinity Capture-Western
+STAMBP,CHMP3,Affinity Capture-Western
+STAMBP,CHMP1A,Two-hybrid
+STAMBP,CHMP1B,Two-hybrid
+STAMBP,CHMP2A,Two-hybrid
+STAMBP,CHMP3,Two-hybrid
+STAMBP,STAM,Affinity Capture-Western
+PSMA6,CUL1,Affinity Capture-Western
+PSMA6,RBX1,Affinity Capture-Western
+PSMA4,CUL1,Affinity Capture-Western
+PSMA4,PSMA6,Affinity Capture-Western
+PSMA2,CUL1,Affinity Capture-Western
+PSMA2,PSMA6,Affinity Capture-Western
+CUL1,PSMA6,Affinity Capture-Western
+CUL1,SKP1,Affinity Capture-Western
+CUL1,RBX1,Affinity Capture-Western
+PSMD4,CUL1,Reconstituted Complex
+PSMA6,CUL1,Reconstituted Complex
+PSMA7,CUL1,Reconstituted Complex
+VPS4A,NPC1,Affinity Capture-Western
+VPS4A,NPC1,Co-localization
+VPS4A,NPC1,Reconstituted Complex
+NCL,MDM2,Affinity Capture-Western
+BRCA1,RBBP8,Biochemical Activity
+PHC2,BMI1,Affinity Capture-Western
+CSK,JUN,Biochemical Activity
+MAPK8,JUN,Biochemical Activity
+CSK,JUN,Two-hybrid
+JUN,CSK,Affinity Capture-Western
+STUB1,MST1R,Biochemical Activity
+MST1R,STUB1,Affinity Capture-Western
+MST1R,HSPA8,Affinity Capture-Western
+MST1R,HSP90AA1,Affinity Capture-Western
+FBXW7,CCNE1,Biochemical Activity
+CBL,MST1R,Affinity Capture-Western
+DDX5,HDAC1,Affinity Capture-Western
+RASSF1,DAXX,Affinity Capture-Western
+DAXX,RASSF1,Affinity Capture-Western
+MDM2,MDM2,Biochemical Activity
+RPL11,MDM2,Affinity Capture-Western
+EGFR,CCDC50,Affinity Capture-Western
+CCDC50,EGFR,Affinity Capture-Western
+CTNNB1,BTRC,Affinity Capture-Western
+BTRC,CTNNB1,Affinity Capture-Western
+TSG101,BCR,Affinity Capture-Western
+TSG101,BCR,Two-hybrid
+VPS28,BCR,Affinity Capture-Western
+BCR,TSG101,Reconstituted Complex
+BIRC3,BCL10,Affinity Capture-Western
+BCL10,BCL10,Affinity Capture-Western
+XIAP,BCL10,Affinity Capture-Western
+BIRC2,BCL10,Affinity Capture-Western
+DDB1,CUL4B,Affinity Capture-MS
+DDB1,CUL4A,Affinity Capture-MS
+DDB1,DDB2,Affinity Capture-MS
+DDB1,RBX1,Affinity Capture-MS
+UBE2C,DTX1,Two-hybrid
+UBE2D1,UFM1,Two-hybrid
+UBE2D1,AMFR,Two-hybrid
+UBE2D1,MUL1,Two-hybrid
+UBE2D1,CADPS2,Two-hybrid
+UBE2D1,DTX1,Two-hybrid
+UBE2D1,UBE4A,Two-hybrid
+UBE2D1,RNF103,Two-hybrid
+UBE2D1,RNF181,Two-hybrid
+UBE2D1,MAP3K1,Two-hybrid
+UBE2D1,MIB1,Two-hybrid
+UBE2D1,PJA2,Two-hybrid
+UBE2D1,RFWD3,Two-hybrid
+UBE2D1,RNF11,Two-hybrid
+UBE2D1,RNF111,Two-hybrid
+UBE2D1,RNF13,Two-hybrid
+UBE2D1,RNF130,Two-hybrid
+UBE2D1,RNF150,Two-hybrid
+UBE2D1,RNF165,Two-hybrid
+UBE2D1,RNF167,Two-hybrid
+UBE2D1,RNF25,Two-hybrid
+UBE2D1,RNF43,Two-hybrid
+UBE2D1,RNF4,Two-hybrid
+UBE2D1,TOPORS,Two-hybrid
+UBE2D1,RNF115,Two-hybrid
+UBE2D1,ZNRF1,Two-hybrid
+UBE2D1,ZNRF2,Two-hybrid
+UBE2D1,ZNRF4,Two-hybrid
+UBE2D2,UFM1,Two-hybrid
+UBE2D2,AMFR,Two-hybrid
+UBE2D2,MUL1,Two-hybrid
+UBE2D2,CADPS2,Two-hybrid
+UBE2D2,CNOT4,Two-hybrid
+UBE2D2,DTX1,Two-hybrid
+UBE2D2,UBE4A,Two-hybrid
+UBE2D2,RNF103,Two-hybrid
+UBE2D2,RNF181,Two-hybrid
+UBE2D2,MAP3K1,Two-hybrid
+UBE2D2,MIB1,Two-hybrid
+UBE2D2,PJA2,Two-hybrid
+UBE2D2,RFWD3,Two-hybrid
+UBE2D2,RMND5B,Two-hybrid
+UBE2D2,RNF11,Two-hybrid
+UBE2D2,RNF111,Two-hybrid
+UBE2D2,RNF13,Two-hybrid
+UBE2D2,RNF130,Two-hybrid
+UBE2D2,RNF150,Two-hybrid
+UBE2D2,RNF165,Two-hybrid
+UBE2D2,RNF167,Two-hybrid
+UBE2D2,RNF186,Two-hybrid
+UBE2D2,RNF25,Two-hybrid
+UBE2D2,RNF26,Two-hybrid
+UBE2D2,RNF43,Two-hybrid
+UBE2D2,SIAH1,Two-hybrid
+UBE2D2,RNF4,Two-hybrid
+UBE2D2,TOPORS,Two-hybrid
+UBE2D2,UHRF2,Two-hybrid
+UBE2D2,LTN1,Two-hybrid
+UBE2D2,RNF115,Two-hybrid
+UBE2D2,ZNRF1,Two-hybrid
+UBE2D2,ZNRF2,Two-hybrid
+UBE2D2,ZNRF4,Two-hybrid
+UBE2D3,UFM1,Two-hybrid
+UBE2D3,AMFR,Two-hybrid
+UBE2D3,MUL1,Two-hybrid
+UBE2D3,CADPS2,Two-hybrid
+UBE2D3,CNOT4,Two-hybrid
+UBE2D3,DTX1,Two-hybrid
+UBE2D3,UBE4A,Two-hybrid
+UBE2D3,RNF103,Two-hybrid
+UBE2D3,RNF181,Two-hybrid
+UBE2D3,MAP3K1,Two-hybrid
+UBE2D3,MIB1,Two-hybrid
+UBE2D3,PJA2,Two-hybrid
+UBE2D3,RFWD3,Two-hybrid
+UBE2D3,RMND5B,Two-hybrid
+UBE2D3,RNF11,Two-hybrid
+UBE2D3,RNF111,Two-hybrid
+UBE2D3,RNF13,Two-hybrid
+UBE2D3,RNF130,Two-hybrid
+UBE2D3,RNF150,Two-hybrid
+UBE2D3,RNF165,Two-hybrid
+UBE2D3,RNF167,Two-hybrid
+UBE2D3,RNF25,Two-hybrid
+UBE2D3,RNF26,Two-hybrid
+UBE2D3,RNF43,Two-hybrid
+UBE2D3,SIAH1,Two-hybrid
+UBE2D3,RNF4,Two-hybrid
+UBE2D3,TOPORS,Two-hybrid
+UBE2D3,UHRF2,Two-hybrid
+UBE2D3,RNF115,Two-hybrid
+UBE2D3,ZNRF1,Two-hybrid
+UBE2D3,ZNRF2,Two-hybrid
+UBE2D3,ZNRF4,Two-hybrid
+UBE2D4,UFM1,Two-hybrid
+UBE2D4,AMFR,Two-hybrid
+UBE2D4,MUL1,Two-hybrid
+UBE2D4,CADPS2,Two-hybrid
+UBE2D4,CNOT4,Two-hybrid
+UBE2D4,DTX1,Two-hybrid
+UBE2D4,UBE4A,Two-hybrid
+UBE2D4,RNF103,Two-hybrid
+UBE2D4,RNF181,Two-hybrid
+UBE2D4,MAP3K1,Two-hybrid
+UBE2D4,MIB1,Two-hybrid
+UBE2D4,MID2,Two-hybrid
+UBE2D4,PJA2,Two-hybrid
+UBE2D4,RFWD3,Two-hybrid
+UBE2D4,RMND5B,Two-hybrid
+UBE2D4,RNF11,Two-hybrid
+UBE2D4,RNF111,Two-hybrid
+UBE2D4,RNF13,Two-hybrid
+UBE2D4,RNF130,Two-hybrid
+UBE2D4,RNF150,Two-hybrid
+UBE2D4,RNF165,Two-hybrid
+UBE2D4,RNF167,Two-hybrid
+UBE2D4,RNF25,Two-hybrid
+UBE2D4,RNF43,Two-hybrid
+UBE2D4,SIAH1,Two-hybrid
+UBE2D4,RNF4,Two-hybrid
+UBE2D4,TOPORS,Two-hybrid
+UBE2D4,UHRF2,Two-hybrid
+UBE2D4,RNF115,Two-hybrid
+UBE2D4,ZNRF1,Two-hybrid
+UBE2D4,ZNRF2,Two-hybrid
+UBE2D4,ZNRF4,Two-hybrid
+UBE2E1,UFM1,Two-hybrid
+UBE2E1,MUL1,Two-hybrid
+UBE2E1,CADPS2,Two-hybrid
+UBE2E1,DTX1,Two-hybrid
+UBE2E1,RNF181,Two-hybrid
+UBE2E1,MAP3K1,Two-hybrid
+UBE2E1,RMND5B,Two-hybrid
+UBE2E1,RNF111,Two-hybrid
+UBE2E1,RNF13,Two-hybrid
+UBE2E1,RNF130,Two-hybrid
+UBE2E1,RNF150,Two-hybrid
+UBE2E1,RNF152,Two-hybrid
+UBE2E1,RNF165,Two-hybrid
+UBE2E1,RNF167,Two-hybrid
+UBE2E1,RNF25,Two-hybrid
+UBE2E1,RNF43,Two-hybrid
+UBE2E1,RNF115,Two-hybrid
+UBE2E1,ZNRF1,Two-hybrid
+UBE2E1,ZNRF4,Two-hybrid
+UBE2E2,PCGF2,Two-hybrid
+UBE2E3,UFM1,Two-hybrid
+UBE2E3,MUL1,Two-hybrid
+UBE2E3,CADPS2,Two-hybrid
+UBE2E3,CNOT4,Two-hybrid
+UBE2E3,RNF181,Two-hybrid
+UBE2E3,RMND5B,Two-hybrid
+UBE2E3,RNF111,Two-hybrid
+UBE2E3,RNF13,Two-hybrid
+UBE2E3,RNF130,Two-hybrid
+UBE2E3,RNF150,Two-hybrid
+UBE2E3,RNF165,Two-hybrid
+UBE2E3,RNF167,Two-hybrid
+UBE2E3,RNF25,Two-hybrid
+UBE2E3,RNF43,Two-hybrid
+UBE2E3,RNF115,Two-hybrid
+UBE2E3,ZNRF4,Two-hybrid
+UBE2G2,BIRC8,Two-hybrid
+UBE2G2,MDM2,Two-hybrid
+UBE2G2,MGRN1,Two-hybrid
+UBE2G2,RFFL,Two-hybrid
+UBE2G2,RNF111,Two-hybrid
+UBE2G2,RNF146,Two-hybrid
+UBE2G2,RNF157,Two-hybrid
+UBE2G2,RNF168,Two-hybrid
+UBE2G2,RNF26,Two-hybrid
+UBE2G2,TRIM3,Two-hybrid
+UBE2G2,TRIM43,Two-hybrid
+UBE2G2,ZNRF4,Two-hybrid
+UBE2H,RNF103,Two-hybrid
+UBE2H,NEURL1,Two-hybrid
+UBE2H,RNF186,Two-hybrid
+UBE2H,TRIM56,Two-hybrid
+UBE2J1,BIRC2,Two-hybrid
+UBE2J1,BRCA1,Two-hybrid
+UBE2J1,LRSAM1,Two-hybrid
+UBE2J1,PJA2,Two-hybrid
+UBE2J1,RNF2,Two-hybrid
+UBE2J1,SYVN1,Two-hybrid
+UBE2J1,TOPORS,Two-hybrid
+UBE2J1,TRIM63,Two-hybrid
+UBE2L6,MUL1,Two-hybrid
+UBE2L6,RNF144B,Two-hybrid
+UBE2L6,MAP3K1,Two-hybrid
+UBE2L6,PJA2,Two-hybrid
+UBE2L6,RNF122,Two-hybrid
+UBE2L6,RNF150,Two-hybrid
+UBE2L6,RNF25,Two-hybrid
+UBE2L6,RNF4,Two-hybrid
+UBE2L6,TOPORS,Two-hybrid
+UBE2N,AMFR,Two-hybrid
+UBE2N,BIRC3,Two-hybrid
+UBE2N,CADPS2,Two-hybrid
+UBE2N,CNOT4,Two-hybrid
+UBE2N,DTX1,Two-hybrid
+UBE2N,RNF103,Two-hybrid
+UBE2N,LRSAM1,Two-hybrid
+UBE2N,MIB1,Two-hybrid
+UBE2N,MID2,Two-hybrid
+UBE2N,NEURL1,Two-hybrid
+UBE2N,NFX1,Two-hybrid
+UBE2N,PJA2,Two-hybrid
+UBE2N,RNF11,Two-hybrid
+UBE2N,RNF13,Two-hybrid
+UBE2N,RNF130,Two-hybrid
+UBE2N,RNF152,Two-hybrid
+UBE2N,RNF165,Two-hybrid
+UBE2N,RNF167,Two-hybrid
+UBE2N,RNF182,Two-hybrid
+UBE2N,RNF43,Two-hybrid
+UBE2N,SH3RF2,Two-hybrid
+UBE2N,TOPORS,Two-hybrid
+UBE2N,TRIM32,Two-hybrid
+UBE2N,ZNRF1,Two-hybrid
+UBE2N,ZNRF2,Two-hybrid
+UBE2N,ZNRF3,Two-hybrid
+UBE2N,ZNRF4,Two-hybrid
+UBE2Q1,IRF2BPL,Two-hybrid
+UBE2Q1,RNF26,Two-hybrid
+UBE2Q2,PCGF2,Two-hybrid
+UBE2T,AMFR,Two-hybrid
+UBE2T,PCGF2,Two-hybrid
+UBE2T,RNF4,Two-hybrid
+UBE2U,ANAPC11,Two-hybrid
+UBE2U,BARD1,Two-hybrid
+UBE2U,BFAR,Two-hybrid
+UBE2U,MUL1,Two-hybrid
+UBE2U,CADPS2,Two-hybrid
+UBE2U,CGRRF1,Two-hybrid
+UBE2U,DTX1,Two-hybrid
+UBE2U,RNF144B,Two-hybrid
+UBE2U,RNFT1,Two-hybrid
+UBE2U,RNF181,Two-hybrid
+UBE2U,MDM2,Two-hybrid
+UBE2U,MIB1,Two-hybrid
+UBE2U,MIB2,Two-hybrid
+UBE2U,MID2,Two-hybrid
+UBE2U,KAT6A,Two-hybrid
+UBE2U,RNF41,Two-hybrid
+UBE2U,PCGF1,Two-hybrid
+UBE2U,PCGF2,Two-hybrid
+UBE2U,PJA1,Two-hybrid
+UBE2U,PML,Two-hybrid
+UBE2U,RNF11,Two-hybrid
+UBE2U,RNF113A,Two-hybrid
+UBE2U,RNF113B,Two-hybrid
+UBE2U,RNF14,Two-hybrid
+UBE2U,RNF150,Two-hybrid
+UBE2U,RNF166,Two-hybrid
+UBE2U,RNF17,Two-hybrid
+UBE2U,RNF170,Two-hybrid
+UBE2U,RNF2,Two-hybrid
+UBE2U,RNF25,Two-hybrid
+UBE2U,RNF26,Two-hybrid
+UBE2U,RNF5,Two-hybrid
+UBE2U,SYVN1,Two-hybrid
+UBE2U,TRAIP,Two-hybrid
+UBE2U,RNF139,Two-hybrid
+UBE2U,TRIM2,Two-hybrid
+UBE2U,TRIM24,Two-hybrid
+UBE2U,TRIM28,Two-hybrid
+UBE2U,TRIM3,Two-hybrid
+UBE2U,TRIM34,Two-hybrid
+UBE2U,TRIM35,Two-hybrid
+UBE2U,TRIM37,Two-hybrid
+UBE2U,TRIM38,Two-hybrid
+UBE2U,TRIM47,Two-hybrid
+UBE2U,TRIM54,Two-hybrid
+UBE2U,TRIM63,Two-hybrid
+UBE2U,TRIM65,Two-hybrid
+UBE2U,TRIM68,Two-hybrid
+UBE2U,VPS41,Two-hybrid
+UBE2U,RNF114,Two-hybrid
+UBE2U,ZSWIM2,Two-hybrid
+UBE2W,UFM1,Two-hybrid
+UBE2W,AMFR,Two-hybrid
+UBE2W,BIRC2,Two-hybrid
+UBE2W,MUL1,Two-hybrid
+UBE2W,CADPS2,Two-hybrid
+UBE2W,CNOT4,Two-hybrid
+UBE2W,RNF103,Two-hybrid
+UBE2W,MAP3K1,Two-hybrid
+UBE2W,MIB1,Two-hybrid
+UBE2W,PJA2,Two-hybrid
+UBE2W,RMND5B,Two-hybrid
+UBE2W,RNF111,Two-hybrid
+UBE2W,RNF150,Two-hybrid
+UBE2W,RNF152,Two-hybrid
+UBE2W,RNF165,Two-hybrid
+UBE2W,RNF167,Two-hybrid
+UBE2W,RNF26,Two-hybrid
+UBE2W,RNF4,Two-hybrid
+UBE2W,TOPORS,Two-hybrid
+UBE2W,UHRF2,Two-hybrid
+UBE2W,RNF115,Two-hybrid
+UBE2W,ZNRF4,Two-hybrid
+UBE2Z,RNF144B,Two-hybrid
+UBE2Z,RNF103,Two-hybrid
+UBE2Z,MDM2,Two-hybrid
+UBE2Z,RNF41,Two-hybrid
+UBE2Z,RNF130,Two-hybrid
+UBE2Z,RNF150,Two-hybrid
+UBE2Z,HLTF,Two-hybrid
+UBE2Z,SYVN1,Two-hybrid
+UBE2Z,RNF139,Two-hybrid
+RBCK1,Socs6,Affinity Capture-Western
+RHOA,SMURF1,Reconstituted Complex
+CFTR,VCP,Affinity Capture-Western
+VCP,VCP,Affinity Capture-Western
+HSP90AA1,VCP,Affinity Capture-Western
+HSPA4,VCP,Affinity Capture-Western
+HSPA8,VCP,Affinity Capture-Western
+STUB1,VCP,Affinity Capture-Western
+UBE2V2,UBC35,Two-hybrid
+UBE2V2,UBC36,Two-hybrid
+UBE2V2,UBC35,Reconstituted Complex
+TP53,ADH5,Affinity Capture-Western
+TP53,AGBL2,Affinity Capture-Western
+TP53,ASF1A,Affinity Capture-Western
+TP53,ASPM,Affinity Capture-Western
+TP53,BRD8,Affinity Capture-Western
+TP53,NPRL3,Affinity Capture-Western
+TP53,TRAPPC11,Affinity Capture-Western
+TP53,DAB2IP,Affinity Capture-Western
+TP53,DNAJB6,Affinity Capture-Western
+TP53,DPH1,Affinity Capture-Western
+TP53,AGO1,Affinity Capture-Western
+TP53,AGO2,Affinity Capture-Western
+TP53,GTPBP4,Affinity Capture-Western
+TP53,IGF2BP1,Affinity Capture-Western
+TP53,LOC613037,Affinity Capture-Western
+TP53,LRPPRC,Affinity Capture-Western
+TP53,MTHFSD,Affinity Capture-Western
+TP53,MYL9,Affinity Capture-Western
+TP53,PIWIL1,Affinity Capture-Western
+TP53,RNF38,Affinity Capture-Western
+TP53,SMARCD2,Affinity Capture-Western
+TP53,SPSB1,Affinity Capture-Western
+TP53,TRMT11,Affinity Capture-Western
+TP53,TTLL5,Affinity Capture-Western
+TP63,ADH5,Affinity Capture-Western
+TP63,AGBL2,Affinity Capture-Western
+TP63,ASPM,Affinity Capture-Western
+TP63,BRD8,Affinity Capture-Western
+TP63,NPRL3,Affinity Capture-Western
+TP63,TRAPPC11,Affinity Capture-Western
+TP63,CDT1,Affinity Capture-Western
+TP63,DAB2IP,Affinity Capture-Western
+TP63,DDX23,Affinity Capture-Western
+TP63,DNAJB6,Affinity Capture-Western
+TP63,DPH1,Affinity Capture-Western
+TP63,AGO1,Affinity Capture-Western
+TP63,AGO2,Affinity Capture-Western
+TP63,GAS8,Affinity Capture-Western
+TP63,IGF2BP1,Affinity Capture-Western
+TP63,LOC613037,Affinity Capture-Western
+TP63,JPH1,Affinity Capture-Western
+TP63,MTHFSD,Affinity Capture-Western
+TP63,MYL9,Affinity Capture-Western
+TP63,N4BP2,Affinity Capture-Western
+TP63,PIWIL1,Affinity Capture-Western
+TP63,RNF38,Affinity Capture-Western
+TP63,SMARCD2,Affinity Capture-Western
+TP63,TRMT11,Affinity Capture-Western
+TP73,ADH5,Affinity Capture-Western
+TP73,AGBL2,Affinity Capture-Western
+TP73,AHCY,Affinity Capture-Western
+TP73,AKAP1,Affinity Capture-Western
+TP73,ASF1A,Affinity Capture-Western
+TP73,ASPM,Affinity Capture-Western
+TP73,BRD8,Affinity Capture-Western
+TP73,NPRL3,Affinity Capture-Western
+TP73,RTCB,Affinity Capture-Western
+TP73,TRAPPC11,Affinity Capture-Western
+TP73,C6orf165,Affinity Capture-Western
+TP73,CDT1,Affinity Capture-Western
+TP73,DAB2IP,Affinity Capture-Western
+TP73,DDX23,Affinity Capture-Western
+TP73,DNAJB6,Affinity Capture-Western
+TP73,DPH1,Affinity Capture-Western
+TP73,AGO1,Affinity Capture-Western
+TP73,AGO2,Affinity Capture-Western
+TP73,GAS8,Affinity Capture-Western
+TP73,IGF2BP1,Affinity Capture-Western
+TP73,LOC613037,Affinity Capture-Western
+TP73,JPH1,Affinity Capture-Western
+TP73,LRPPRC,Affinity Capture-Western
+TP73,MTHFSD,Affinity Capture-Western
+TP73,MYL9,Affinity Capture-Western
+TP73,N4BP2,Affinity Capture-Western
+TP73,PAX6,Affinity Capture-Western
+TP73,PIWIL1,Affinity Capture-Western
+TP73,RNF38,Affinity Capture-Western
+TP73,SASS6,Affinity Capture-Western
+TP73,SMARCD2,Affinity Capture-Western
+TP73,SPSB1,Affinity Capture-Western
+TP73,STAG1,Affinity Capture-Western
+TP73,TPM3,Affinity Capture-Western
+TP73,TRMT11,Affinity Capture-Western
+TP73,TTLL5,Affinity Capture-Western
+CBL,UBE2L3,Affinity Capture-Western
+CBL,UBE2M,Affinity Capture-Western
+IRS1,CBLB,Affinity Capture-Western
+DIABLO,BIRC7,Affinity Capture-Western
+DIABLO,BIRC7,Reconstituted Complex
+ACVR1B,FKBP1A,Affinity Capture-Western
+FKBP1A,SMAD7,Affinity Capture-Western
+SMAD7,FKBP1A,Affinity Capture-Western
+SMAD7,ACVR1B,Affinity Capture-Western
+ACVR1B,SMAD7,Affinity Capture-Western
+ACVR1B,SMURF1,Affinity Capture-Western
+SMAD7,SMURF1,Affinity Capture-Western
+SUMO2,SAE1,Affinity Capture-MS
+SUMO2,UBA2,Affinity Capture-MS
+SUMO2,UBE2I,Affinity Capture-MS
+SUMO3,UBA2,Affinity Capture-MS
+SUMO3,UBE2I,Affinity Capture-MS
+NEDD8,UBA3,Affinity Capture-MS
+NEDD8,NAE1,Affinity Capture-MS
+NEDD8,UBE2M,Affinity Capture-MS
+IKBKG,CETN3,Reconstituted Complex
+IKBKG,SYT1,Reconstituted Complex
+IKBKG,CPNE2,Reconstituted Complex
+IKBKG,HPCAL1,Reconstituted Complex
+IKBKG,MYL5,Reconstituted Complex
+IKBKG,CALB1,Reconstituted Complex
+IKBKG,TTYH2,Reconstituted Complex
+IKBKG,TPT1,Reconstituted Complex
+IKBKG,H1F0,Reconstituted Complex
+IKBKG,MCM7,Reconstituted Complex
+IKBKG,CNOT7,Reconstituted Complex
+IKBKG,ADAP2,Reconstituted Complex
+IKBKG,TBC1D7,Reconstituted Complex
+IKBKG,GNGT1,Reconstituted Complex
+IKBKG,9-Sep,Reconstituted Complex
+IKBKG,IKBKB,Reconstituted Complex
+IKBKG,PRKCB,Reconstituted Complex
+IKBKG,TBK1,Reconstituted Complex
+IKBKG,CHUK,Reconstituted Complex
+IKBKG,LCK,Reconstituted Complex
+IKBKG,CDK2,Reconstituted Complex
+IKBKG,FLT3,Reconstituted Complex
+IKBKG,FGR,Reconstituted Complex
+IKBKG,STK25,Reconstituted Complex
+IKBKG,PIM2,Reconstituted Complex
+IKBKG,EPHA4,Reconstituted Complex
+IKBKG,TEK,Reconstituted Complex
+IKBKG,JAK2,Reconstituted Complex
+IKBKG,TEC,Reconstituted Complex
+IKBKG,FLT4,Reconstituted Complex
+IKBKG,RPS6KB2,Reconstituted Complex
+IKBKG,GRK4,Reconstituted Complex
+IKBKG,PRKD3,Reconstituted Complex
+IKBKG,MAP3K2,Reconstituted Complex
+IKBKG,AKT1,Reconstituted Complex
+IKBKG,SGK1,Reconstituted Complex
+IKBKG,ITK,Reconstituted Complex
+IKBKG,TYRO3,Reconstituted Complex
+IKBKG,MERTK,Reconstituted Complex
+IKBKG,ALK,Reconstituted Complex
+IKBKG,JAK3,Reconstituted Complex
+IKBKG,RET,Reconstituted Complex
+IKBKG,ROR2,Reconstituted Complex
+IKBKG,SRPK1,Reconstituted Complex
+IKBKG,PCK1,Reconstituted Complex
+IKBKG,ROS1,Reconstituted Complex
+IKBKG,DAPK1,Reconstituted Complex
+IKBKG,CUEDC1,Reconstituted Complex
+IKBKG,RNF7,Reconstituted Complex
+IKBKG,RBCK1,Reconstituted Complex
+IKBKG,PSMA3,Reconstituted Complex
+IKBKG,WDR5,Reconstituted Complex
+IKBKG,LZIC,Reconstituted Complex
+IKBKG,ARL6IP4,Reconstituted Complex
+IKBKG,PDCL,Reconstituted Complex
+IKBKG,PFDN5,Reconstituted Complex
+IKBKG,LPXN,Reconstituted Complex
+IKBKG,NTMT1,Reconstituted Complex
+IKBKG,GADD45G,Reconstituted Complex
+IKBKG,LUC7L2,Reconstituted Complex
+IKBKG,GADD45GIP1,Reconstituted Complex
+IKBKG,PHF7,Reconstituted Complex
+IKBKG,SCLT1,Reconstituted Complex
+IKBKG,NAP1L5,Reconstituted Complex
+IKBKG,TRIM41,Reconstituted Complex
+IKBKG,APRT,Reconstituted Complex
+IKBKG,KRT8,Reconstituted Complex
+IKBKG,C19orf57,Reconstituted Complex
+IKBKG,NECAB3,Reconstituted Complex
+IKBKG,MCM10,Reconstituted Complex
+IKBKG,RPAP3,Reconstituted Complex
+IKBKG,RBM34,Reconstituted Complex
+IKBKG,NHP2,Reconstituted Complex
+IKBKG,EIF1AX,Reconstituted Complex
+IKBKG,DDX19B,Reconstituted Complex
+IKBKG,RBM8A,Reconstituted Complex
+IKBKG,RPS12,Reconstituted Complex
+IKBKG,RPL41,Reconstituted Complex
+IKBKG,GEMIN2,Reconstituted Complex
+IKBKG,MLLT6,Reconstituted Complex
+IKBKG,TCEANC,Reconstituted Complex
+IKBKG,TCP10L,Reconstituted Complex
+IKBKG,TCP11L1,Reconstituted Complex
+IKBKG,LMCD1,Reconstituted Complex
+IKBKG,NRBF2,Reconstituted Complex
+IKBKG,MZT2A,Reconstituted Complex
+IKBKG,TSLP,Reconstituted Complex
+IKBKG,DNAJC8,Reconstituted Complex
+IKBKG,FRMD8,Reconstituted Complex
+IKBKG,C19orf12,Reconstituted Complex
+IKBKG,TCP11,Reconstituted Complex
+IKBKG,HBZ,Reconstituted Complex
+IKBKG,TMA16,Reconstituted Complex
+IKBKG,VAMP3,Reconstituted Complex
+IKBKG,KIR3DX1,Reconstituted Complex
+IKBKG,ARGLU1,Reconstituted Complex
+IKBKG,GYG2,Reconstituted Complex
+IKBKG,PNMAL1,Reconstituted Complex
+IKBKG,LGALS2,Reconstituted Complex
+IKBKG,ODAM,Reconstituted Complex
+IKBKG,AMMECR1L,Reconstituted Complex
+IKBKG,PLEKHJ1,Reconstituted Complex
+IKBKG,AVPI1,Reconstituted Complex
+IKBKG,SENP2,Reconstituted Complex
+IKBKG,ACBD6,Reconstituted Complex
+IKBKG,KIAA1598,Reconstituted Complex
+IKBKG,NRARP,Reconstituted Complex
+IKBKG,ARPP19,Reconstituted Complex
+IKBKG,IKBKB,Affinity Capture-Western
+IKBKG,CALB1,Affinity Capture-Western
+IKBKG,CDK2,Affinity Capture-Western
+IKBKG,RNF7,Affinity Capture-Western
+IKBKG,SENP2,Affinity Capture-Western
+IKBKG,SYT1,Affinity Capture-Western
+IKBKG,IKBKB,Two-hybrid
+IKBKG,CALB1,Two-hybrid
+IKBKG,CDK2,Two-hybrid
+IKBKG,RNF7,Two-hybrid
+IKBKG,SENP2,Two-hybrid
+IKBKG,SYT1,Two-hybrid
+WRN,EXO1,Affinity Capture-Western
+RUNX2,HDAC4,Affinity Capture-Western
+RUNX2,HDAC5,Affinity Capture-Western
+KAT2B,RUNX2,Affinity Capture-Western
+PCNA,POLK,Affinity Capture-Western
+POLK,RAD18,Affinity Capture-Western
+HIF1A,VHL,Affinity Capture-Western
+VHL,CUL2,Affinity Capture-Western
+UBE2D1,XIAP,Two-hybrid
+UBE2D2,XIAP,Two-hybrid
+UBE2D3,XIAP,Two-hybrid
+UBE2D4,XIAP,Two-hybrid
+UBE2N,XIAP,Two-hybrid
+UBE2N,TRAF6,Two-hybrid
+UBE2A,RAD18,Two-hybrid
+UBE2B,RAD18,Two-hybrid
+UBE2D1,RNF125,Two-hybrid
+UBE2D2,RNF125,Two-hybrid
+UBE2D4,RNF125,Two-hybrid
+UBE2L3,RNF125,Two-hybrid
+UBE2L6,RNF125,Two-hybrid
+UBE2K,RNF125,Two-hybrid
+UBE2D4,RNF138,Two-hybrid
+UBE2K,RNF138,Two-hybrid
+UBE2K,BFAR,Two-hybrid
+UBE2D1,RNF126,Two-hybrid
+UBE2D2,RNF126,Two-hybrid
+UBE2D3,RNF126,Two-hybrid
+UBE2D4,RNF126,Two-hybrid
+TSG101,RNF126,Two-hybrid
+UEVLD,RNF4,Two-hybrid
+UBE2L6,TRAF7,Two-hybrid
+UBE2D1,UBOX5,Two-hybrid
+UBE2D2,UBOX5,Two-hybrid
+UBE2D3,UBOX5,Two-hybrid
+UBE2D4,UBOX5,Two-hybrid
+UBE2H,UBOX5,Two-hybrid
+UBE2L3,UBOX5,Two-hybrid
+UBE2V1,UBOX5,Two-hybrid
+UBE2K,UBOX5,Two-hybrid
+UBE2W,UBOX5,Two-hybrid
+UBE2D1,RNF5,Two-hybrid
+UBE2D2,RNF5,Two-hybrid
+UBE2D3,RNF5,Two-hybrid
+UBE2D4,RNF5,Two-hybrid
+UBE2E1,RNF5,Two-hybrid
+UBE2E3,RNF5,Two-hybrid
+UBE2K,RNF5,Two-hybrid
+UBE2E2,RNF5,Two-hybrid
+TSG101,TRAIP,Two-hybrid
+UBE2D2,RING1,Two-hybrid
+TSG101,RNF41,Two-hybrid
+UBE2D1,DTX3,Two-hybrid
+UBE2D2,DTX3,Two-hybrid
+UBE2D3,DTX3,Two-hybrid
+UBE2D4,DTX3,Two-hybrid
+UBE2L6,DTX3,Two-hybrid
+UBE2K,DTX3,Two-hybrid
+UBE2D1,RNF14,Two-hybrid
+UBE2D2,RNF14,Two-hybrid
+UBE2D3,RNF14,Two-hybrid
+UBE2D4,RNF14,Two-hybrid
+UBE2E1,RNF14,Two-hybrid
+UBE2V1,RNF14,Two-hybrid
+UBE2W,RNF14,Two-hybrid
+UBE2E2,RNF14,Two-hybrid
+UBE2D1,ZNRF1,Two-hybrid
+UBE2D2,ZNRF1,Two-hybrid
+UBE2D3,ZNRF1,Two-hybrid
+UBE2D4,ZNRF1,Two-hybrid
+UBE2E1,ZNRF1,Two-hybrid
+UBE2E3,ZNRF1,Two-hybrid
+UBE2N,ZNRF1,Two-hybrid
+UBE2V1,ZNRF1,Two-hybrid
+UBE2W,ZNRF1,Two-hybrid
+UBE2E2,ZNRF1,Two-hybrid
+UBE2K,7-Mar,Two-hybrid
+UBE2D1,RNF114,Two-hybrid
+UBE2D2,RNF114,Two-hybrid
+UBE2D3,RNF114,Two-hybrid
+UBE2D4,RNF114,Two-hybrid
+UBE2E3,RNF114,Two-hybrid
+UBE2E2,RNF114,Two-hybrid
+UEVLD,RNF114,Two-hybrid
+UBE2DNL,RNF114,Two-hybrid
+TSG101,LRSAM1,Two-hybrid
+UBE2D1,RNF11,Two-hybrid
+UBE2D2,RNF11,Two-hybrid
+UBE2D3,RNF11,Two-hybrid
+UBE2D4,RNF11,Two-hybrid
+UBE2E3,RNF11,Two-hybrid
+UBE2N,RNF11,Two-hybrid
+UBE2E2,RNF11,Two-hybrid
+UBE2D1,TRIM8,Two-hybrid
+UBE2D2,TRIM8,Two-hybrid
+UBE2D3,TRIM8,Two-hybrid
+UBE2D4,TRIM8,Two-hybrid
+UBE2V1,TRIM8,Two-hybrid
+UBE2W,TRIM8,Two-hybrid
+UBE2W,AMFR,Two-hybrid
+UBE2N,SIAH1,Two-hybrid
+UBE2K,SIAH1,Two-hybrid
+UBE2L3,ARIH2,Two-hybrid
+UBE2L6,ARIH2,Two-hybrid
+UBE2E2,ARIH2,Two-hybrid
+UBE2T,ARIH2,Two-hybrid
+UBE2D1,DTX3L,Two-hybrid
+UBE2D2,DTX3L,Two-hybrid
+UBE2D3,DTX3L,Two-hybrid
+UBE2D4,DTX3L,Two-hybrid
+UBE2E1,DTX3L,Two-hybrid
+UBE2E3,DTX3L,Two-hybrid
+UBE2W,DTX3L,Two-hybrid
+UBE2E2,DTX3L,Two-hybrid
+UBE2D1,DZIP3,Two-hybrid
+UBE2D2,DZIP3,Two-hybrid
+UBE2D3,DZIP3,Two-hybrid
+UBE2D4,DZIP3,Two-hybrid
+UBE2E3,DZIP3,Two-hybrid
+UBE2H,DZIP3,Two-hybrid
+UBE2N,DZIP3,Two-hybrid
+UBE2W,DZIP3,Two-hybrid
+UBE2E2,DZIP3,Two-hybrid
+AKTIP,DZIP3,Two-hybrid
+TSG101,DZIP3,Two-hybrid
+UBE2L3,RNF144B,Two-hybrid
+UBE2L6,RNF144B,Two-hybrid
+UBE2Z,LNX2,Two-hybrid
+TSG101,MGRN1,Two-hybrid
+UBE2D1,MID1,Two-hybrid
+UBE2D2,MID1,Two-hybrid
+UBE2D3,MID1,Two-hybrid
+UBE2D4,MID1,Two-hybrid
+UBE2N,MID1,Two-hybrid
+UBE2V1,MID1,Two-hybrid
+UBE2W,MID1,Two-hybrid
+UBE2D1,MKRN3,Two-hybrid
+UBE2D2,MKRN3,Two-hybrid
+UBE2D3,MKRN3,Two-hybrid
+UBE2N,MKRN3,Two-hybrid
+TSG101,MKRN3,Two-hybrid
+UBE2N,RC3H2,Two-hybrid
+UBE2E2,TRIM23,Two-hybrid
+UBE2U,TRIM23,Two-hybrid
+TSG101,TRIM23,Two-hybrid
+UBE2D1,TRIM39,Two-hybrid
+UBE2D2,TRIM39,Two-hybrid
+UBE2D3,TRIM39,Two-hybrid
+UBE2D4,TRIM39,Two-hybrid
+UBE2E1,TRIM39,Two-hybrid
+UBE2E3,TRIM39,Two-hybrid
+UBE2E2,TRIM39,Two-hybrid
+UBE2H,RNF34,Two-hybrid
+UBE2D1,TRIM27,Two-hybrid
+UBE2D2,TRIM27,Two-hybrid
+UBE2D3,TRIM27,Two-hybrid
+UBE2H,TRIM27,Two-hybrid
+UBE2K,TRIM27,Two-hybrid
+UBE2T,TRIM27,Two-hybrid
+UBE2D2,RFWD3,Two-hybrid
+UBE2D3,RFWD3,Two-hybrid
+UBE2D1,RNF10,Two-hybrid
+UBE2D2,RNF10,Two-hybrid
+UBE2D3,RNF10,Two-hybrid
+UBE2D4,RNF10,Two-hybrid
+UBE2E1,RNF10,Two-hybrid
+UBE2E3,RNF10,Two-hybrid
+UBE2I,RNF10,Two-hybrid
+UBE2O,RNF10,Two-hybrid
+UBE2D1,RNF111,Two-hybrid
+UBE2D2,RNF111,Two-hybrid
+UBE2D3,RNF111,Two-hybrid
+UBE2D4,RNF111,Two-hybrid
+UBE2I,RNF111,Two-hybrid
+UBE2L3,RNF113B,Two-hybrid
+UBE2R2,RNF113B,Two-hybrid
+UBE2L3,RNF144A,Two-hybrid
+UBE2L6,RNF144A,Two-hybrid
+UBE2D1,RNF166,Two-hybrid
+UBE2D2,RNF166,Two-hybrid
+UBE2D3,RNF166,Two-hybrid
+UBE2D4,RNF166,Two-hybrid
+UBE2E1,RNF166,Two-hybrid
+UBE2W,RNF166,Two-hybrid
+UBE2D1,RNF185,Two-hybrid
+UBE2D2,RNF185,Two-hybrid
+UBE2D3,RNF185,Two-hybrid
+UBE2D4,RNF185,Two-hybrid
+UBE2E3,RNF185,Two-hybrid
+UBE2K,RNF185,Two-hybrid
+UBE2E2,RNF185,Two-hybrid
+UBE2D1,RNF2,Two-hybrid
+UBE2D2,RNF2,Two-hybrid
+UBE2D3,RNF2,Two-hybrid
+UBE2D4,RNF2,Two-hybrid
+UBE2E1,RNF2,Two-hybrid
+UBE2E3,RNF2,Two-hybrid
+UBE2K,RNF2,Two-hybrid
+UBE2E2,RNF2,Two-hybrid
+UBE2D1,RNF25,Two-hybrid
+UBE2D2,RNF25,Two-hybrid
+UBE2D3,RNF25,Two-hybrid
+UBE2D4,RNF25,Two-hybrid
+UBE2E1,RNF25,Two-hybrid
+UBE2E3,RNF25,Two-hybrid
+UBE2E2,RNF25,Two-hybrid
+UBE2Q1,RNF7,Two-hybrid
+UBE2N,RNF8,Two-hybrid
+UBE2W,RNF8,Two-hybrid
+UBE2U,TRIM74,Two-hybrid
+TSG101,TRIM74,Two-hybrid
+UBE2W,TRIM17,Two-hybrid
+UBE2N,TRIM32,Two-hybrid
+UBE2K,TRIM35,Two-hybrid
+UBE2W,TRIM35,Two-hybrid
+TSG101,TRIM35,Two-hybrid
+UBE2D1,TRIM43,Two-hybrid
+UBE2D2,TRIM43,Two-hybrid
+UBE2D3,TRIM43,Two-hybrid
+UBE2D4,TRIM43,Two-hybrid
+UBE2G1,RBCK1,Two-hybrid
+UBE2L3,RBCK1,Two-hybrid
+UBE2L6,RBCK1,Two-hybrid
+UBE2N,RBCK1,Two-hybrid
+UBE2U,RBCK1,Two-hybrid
+UBE2U,VPS11,Two-hybrid
+TSG101,VPS11,Two-hybrid
+UBE2V1,XIAP,Two-hybrid
+UBE2V2,XIAP,Two-hybrid
+UBE2J2,XIAP,Two-hybrid
+UBE2W,XIAP,Two-hybrid
+UBE2E2,XIAP,Two-hybrid
+UBE2K,BIRC7,Two-hybrid
+UBE2D1,TRAF6,Two-hybrid
+UBE2D2,TRAF6,Two-hybrid
+UBE2D3,TRAF6,Two-hybrid
+UBE2D4,TRAF6,Two-hybrid
+UEVLD,TRAF6,Two-hybrid
+UBE2I,RAD18,Two-hybrid
+TSG101,RAD18,Two-hybrid
+UBE2D1,BIRC8,Two-hybrid
+UBE2D2,BIRC8,Two-hybrid
+UBE2D3,BIRC8,Two-hybrid
+UBE2D4,BIRC8,Two-hybrid
+UBE2E1,BIRC8,Two-hybrid
+UBE2N,BIRC8,Two-hybrid
+UBE2V1,BIRC8,Two-hybrid
+UBE2K,BIRC8,Two-hybrid
+UBE2W,BIRC8,Two-hybrid
+UBE2D3,RNF125,Two-hybrid
+UBE2N,RNF125,Two-hybrid
+UBE2W,RNF125,Two-hybrid
+UBE2E2,RNF125,Two-hybrid
+UBE2U,RNF125,Two-hybrid
+UBE2D2,RNF138,Two-hybrid
+UBE2W,RNF138,Two-hybrid
+UBE2D1,BFAR,Two-hybrid
+UBE2D2,BFAR,Two-hybrid
+UBE2D3,BFAR,Two-hybrid
+UBE2D4,BFAR,Two-hybrid
+UBE2W,BFAR,Two-hybrid
+UBE2D4,RCHY1,Two-hybrid
+UBE2D1,RNF4,Two-hybrid
+UBE2D2,RNF4,Two-hybrid
+UBE2D3,RNF4,Two-hybrid
+UBE2D4,RNF4,Two-hybrid
+UBE2E1,RNF4,Two-hybrid
+UBE2E3,RNF4,Two-hybrid
+UBE2H,RNF4,Two-hybrid
+UBE2I,RNF4,Two-hybrid
+UBE2K,RNF4,Two-hybrid
+UBE2W,RNF4,Two-hybrid
+UBE2E2,RNF4,Two-hybrid
+UBE2L6,LONRF1,Two-hybrid
+UBE2K,TRIM34,Two-hybrid
+UBE2K,RNF167,Two-hybrid
+UBE2K,UHRF2,Two-hybrid
+UBE2D1,TRAF7,Two-hybrid
+UBE2D2,TRAF7,Two-hybrid
+UBE2D4,TRAF7,Two-hybrid
+UBE2L3,TRAF7,Two-hybrid
+UBE2K,TRAF7,Two-hybrid
+UBE2K,MKRN2,Two-hybrid
+UBE2E1,UBOX5,Two-hybrid
+UBE2E2,UBOX5,Two-hybrid
+UBE2V1,RNF5,Two-hybrid
+UBE2W,RNF5,Two-hybrid
+UBE2Z,RNF5,Two-hybrid
+UBE2H,TRAIP,Two-hybrid
+UBE2K,TRAIP,Two-hybrid
+UBE2Z,TRAIP,Two-hybrid
+UBE2D1,RING1,Two-hybrid
+UBE2D3,RING1,Two-hybrid
+UBE2D4,RING1,Two-hybrid
+UBE2E1,RING1,Two-hybrid
+UBE2E3,RING1,Two-hybrid
+UBE2K,RING1,Two-hybrid
+UBE2E2,RING1,Two-hybrid
+UBE2H,TRIM36,Two-hybrid
+UBE2K,RNF41,Two-hybrid
+UBE2D2,3-Mar,Two-hybrid
+UBE2D3,3-Mar,Two-hybrid
+UBE2D4,3-Mar,Two-hybrid
+UBE2E1,3-Mar,Two-hybrid
+UBE2K,3-Mar,Two-hybrid
+UBE2W,3-Mar,Two-hybrid
+UBE2E2,3-Mar,Two-hybrid
+UBE2D2,RSPRY1,Two-hybrid
+UBE2D3,RSPRY1,Two-hybrid
+UBE2E1,DTX3,Two-hybrid
+UBE2E3,DTX3,Two-hybrid
+UBE2H,DTX3,Two-hybrid
+UBE2L3,DTX3,Two-hybrid
+UBE2V1,DTX3,Two-hybrid
+UBE2W,DTX3,Two-hybrid
+UBE2E2,DTX3,Two-hybrid
+UEVLD,DTX3,Two-hybrid
+UBE2DNL,DTX3,Two-hybrid
+UBE2D1,RLIM,Two-hybrid
+UBE2D2,RLIM,Two-hybrid
+UBE2D3,RLIM,Two-hybrid
+UBE2D4,RLIM,Two-hybrid
+UBE2E1,RLIM,Two-hybrid
+UBE2E2,RLIM,Two-hybrid
+UBE2E3,RNF14,Two-hybrid
+UBE2V2,ZNRF1,Two-hybrid
+UBE2N,7-Mar,Two-hybrid
+UBE2A,UBR3,Two-hybrid
+UBE2B,UBR3,Two-hybrid
+UBE2K,RNF32,Two-hybrid
+UBE2E1,RNF114,Two-hybrid
+UBE2H,RNF114,Two-hybrid
+UBE2K,RNF114,Two-hybrid
+UBE2W,RNF114,Two-hybrid
+UBE2H,BRAP,Two-hybrid
+UBE2D1,LRSAM1,Two-hybrid
+UBE2D2,LRSAM1,Two-hybrid
+UBE2D3,LRSAM1,Two-hybrid
+UBE2D4,LRSAM1,Two-hybrid
+UBE2E1,LRSAM1,Two-hybrid
+UBE2H,LRSAM1,Two-hybrid
+UBE2N,LRSAM1,Two-hybrid
+UBE2K,LRSAM1,Two-hybrid
+UBE2W,LRSAM1,Two-hybrid
+UEVLD,LRSAM1,Two-hybrid
+UBE2E1,RNF11,Two-hybrid
+UBE2L6,TRIM8,Two-hybrid
+UBE2D1,AMFR,Two-hybrid
+UBE2D2,AMFR,Two-hybrid
+UBE2D3,AMFR,Two-hybrid
+UBE2D4,AMFR,Two-hybrid
+UBE2N,AMFR,Two-hybrid
+UBE2D1,SIAH1,Two-hybrid
+UBE2D2,SIAH1,Two-hybrid
+UBE2D3,SIAH1,Two-hybrid
+UBE2V2,SIAH1,Two-hybrid
+UBE2D1,CHFR,Two-hybrid
+UBE2D2,CHFR,Two-hybrid
+UBE2D3,CHFR,Two-hybrid
+UBE2D4,CHFR,Two-hybrid
+UBE2E1,CHFR,Two-hybrid
+UBE2E3,CHFR,Two-hybrid
+UBE2N,CHFR,Two-hybrid
+UBE2W,CHFR,Two-hybrid
+UBE2E2,CHFR,Two-hybrid
+UBE2D1,ARIH2,Two-hybrid
+UBE2D2,ARIH2,Two-hybrid
+UBE2D3,ARIH2,Two-hybrid
+UBE2D4,ARIH2,Two-hybrid
+UBE2E1,ARIH2,Two-hybrid
+UBE2E3,ARIH2,Two-hybrid
+UBE2V1,ARIH2,Two-hybrid
+UBE2R2,ARIH2,Two-hybrid
+UBE2H,CBLC,Two-hybrid
+UBE2I,CBLC,Two-hybrid
+UBE2L3,CBLC,Two-hybrid
+UBE2L6,CBLC,Two-hybrid
+UBE2K,CBLC,Two-hybrid
+UBE2R2,CBLC,Two-hybrid
+UBE2H,DTX3L,Two-hybrid
+UBE2I,DTX3L,Two-hybrid
+UBE2K,DTX3L,Two-hybrid
+UBE2R2,DTX3L,Two-hybrid
+UBE2E1,DZIP3,Two-hybrid
+UBE2I,DZIP3,Two-hybrid
+UBE2V1,DZIP3,Two-hybrid
+UBE2V2,DZIP3,Two-hybrid
+UBE2K,DZIP3,Two-hybrid
+UBE2R2,DZIP3,Two-hybrid
+UBE2Z,DZIP3,Two-hybrid
+UBE2U,DZIP3,Two-hybrid
+UBE2I,RNF144B,Two-hybrid
+UBE2T,RNF144B,Two-hybrid
+UBE2U,RNF144B,Two-hybrid
+UBE2I,LNX2,Two-hybrid
+UBE2T,LNX2,Two-hybrid
+UBE2I,5-Mar,Two-hybrid
+UBE2N,5-Mar,Two-hybrid
+UBE2W,5-Mar,Two-hybrid
+AKTIP,5-Mar,Two-hybrid
+UBE2T,5-Mar,Two-hybrid
+UBE2D1,MGRN1,Two-hybrid
+UBE2D2,MGRN1,Two-hybrid
+UBE2D3,MGRN1,Two-hybrid
+UBE2D4,MGRN1,Two-hybrid
+UBE2E1,MGRN1,Two-hybrid
+UBE2I,MGRN1,Two-hybrid
+UBE2J2,MGRN1,Two-hybrid
+UBE2W,MGRN1,Two-hybrid
+UBE2T,MGRN1,Two-hybrid
